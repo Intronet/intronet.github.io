@@ -1,0 +1,2160 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Rich  Weeds  Nagel
+//// Category: Unknown
+//// Comment2: This complete General MIDI compatable soundfont was created from various commercial, custom, and freeware soundfonts and samples and requires 54,694,776 bytes of onboard EMU-8000 or EMU-10K RAM.
+//// Copyright:  Copyright 2006-2010, Rich  Weeds  Nagel - Some rights reserved
+
+<global>
+global_label=Grand Piano
+
+<group>
+group_label=Grand Piano (p-ff)
+
+<region>
+sample=Samples/sh_forte D#4_ 1st wa.wav
+pitch_keycenter=63
+lokey=62 hikey=65
+lovel=109
+offset=0 end=86641
+tune=-7
+volume=0.13 amp_veltrack=0.00
+ampeg_hold=2.0994333672461347 ampeg_decay=18.517704099204863 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=68341 loop_end=86609
+
+<region>
+sample=Samples/sh_forte A_0_ 1st wa.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=109
+offset=0 end=156251
+volume=0.13 amp_veltrack=0.00
+pan=-50
+ampeg_hold=5.299415820294277 ampeg_decay=28.525231042274683 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=126111 loop_end=156219
+
+<region>
+sample=Samples/sh_forte C_1_ 1st wa.wav
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=109
+offset=0 end=141122
+volume=0.13 amp_veltrack=0.00
+pan=-46
+ampeg_hold=4.999094040915632 ampeg_decay=24.014491137172012 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=116090 loop_end=141090
+
+<region>
+sample=Samples/sh_forte D#1_ 1st wa.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=109
+offset=0 end=134129
+tune=-14
+amp_veltrack=0.00
+pan=-42
+ampeg_hold=4.999094040915632 ampeg_decay=19.016326406192814 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=102804 loop_end=134097
+
+<region>
+sample=Samples/sh_forte F#1_ 1st wa.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=109
+offset=0 end=126976
+tune=-1
+volume=0.13 amp_veltrack=0.00
+pan=-38
+ampeg_hold=3.5003519789808375 ampeg_decay=46.52712055424994 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101043 loop_end=126944
+
+<region>
+sample=Samples/sh_forte A_1.wav
+pitch_keycenter=33
+lokey=32 hikey=34
+lovel=109
+offset=0 end=108685
+volume=0.13 amp_veltrack=0.00
+pan=-34
+ampeg_hold=4.0 ampeg_decay=45.02018250005594 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=92577 loop_end=108674
+
+<region>
+sample=Samples/sh_forte C_2_ 1st wa.wav
+pitch_keycenter=36
+lokey=35 hikey=38
+lovel=109
+offset=0 end=105272
+tune=-14
+volume=0.13 amp_veltrack=0.00
+pan=-30
+ampeg_hold=3.0000779785716363 ampeg_decay=18.01133650680837 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=76807 loop_end=105240
+
+<region>
+sample=Samples/sh_forte D#2_ 1st wa.wav
+pitch_keycenter=39
+lokey=39 hikey=42
+lovel=109
+offset=0 end=99486
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-25
+ampeg_hold=3.3000777160539396 ampeg_decay=21.51841632907211 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=71041 loop_end=99454
+
+<region>
+sample=Samples/sh_forte F#2_ 1st wa.wav
+pitch_keycenter=42
+lokey=43 hikey=46
+lovel=109
+offset=0 end=100921
+tune=-5
+volume=0.13 amp_veltrack=0.00
+pan=-20
+ampeg_hold=3.6342726734955324 ampeg_decay=19.99637616366252 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=72703 loop_end=100889
+
+<region>
+sample=Samples/sh_forte C_3_ 1st wa.wav
+pitch_keycenter=48
+lokey=47 hikey=50
+lovel=109
+offset=0 end=132234
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-16
+ampeg_hold=3.200579918890553 ampeg_decay=16.516468400263175 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=113843 loop_end=132202
+
+<region>
+sample=Samples/sh_forte D#3_ 1st wa.wav
+pitch_keycenter=51
+lokey=51 hikey=54
+lovel=109
+offset=0 end=126337
+tune=-13
+volume=0.13 amp_veltrack=0.00
+pan=-12
+ampeg_hold=2.5996787088484976 ampeg_decay=21.01479289405446 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101798 loop_end=126305
+
+<region>
+sample=Samples/sh_forte A_3_ 1st wa.wav
+pitch_keycenter=57
+lokey=55 hikey=58
+lovel=109
+offset=0 end=92661
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-8
+ampeg_hold=2.199994626556431 ampeg_decay=14.511921649025822 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73539 loop_end=92629
+
+<region>
+sample=Samples/sh_forte C_4_ 1st wa.wav
+pitch_keycenter=60
+lokey=59 hikey=61
+lovel=109
+offset=0 end=82239
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-4
+ampeg_hold=1.89978128173227 ampeg_decay=13.508853504679793 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=58565 loop_end=82207
+
+<region>
+sample=Samples/sh_forte A_4_ 1st wa.wav
+pitch_keycenter=69
+lokey=66 hikey=70
+lovel=109
+offset=0 end=77060
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=4
+ampeg_hold=1.8160870207242013 ampeg_decay=11.203156252974875 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=57326 loop_end=77028
+
+<region>
+sample=Samples/sh_forte C_5_ 1st wa.wav
+pitch_keycenter=72
+lokey=71 hikey=75
+lovel=109
+offset=0 end=88487
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=9
+ampeg_hold=1.5737066819311916 ampeg_decay=14.00140791592335 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=62644 loop_end=88455
+
+<region>
+sample=Samples/sh_forte F#5_ 1st wa.wav
+pitch_keycenter=78
+lokey=76 hikey=79
+lovel=109
+offset=0 end=69993
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=13
+ampeg_hold=1.929642159674044 ampeg_decay=13.011060629467723 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=64054 loop_end=69961
+
+<region>
+sample=Samples/sh_forte A_5_ 1st wa.wav
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=109
+offset=0 end=62489
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=17
+ampeg_hold=1.150690623232586 ampeg_decay=9.998188081831264 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44873 loop_end=62457
+
+<region>
+sample=Samples/sh_forte C_6_ 1st wa.wav
+pitch_keycenter=84
+lokey=83 hikey=87
+lovel=109
+offset=0 end=43929
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=22
+ampeg_hold=1.0298969566748981 ampeg_decay=8.510044445246102 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=37984 loop_end=43897
+
+<region>
+sample=Samples/sh_forte F#6_ 1st wa.wav
+pitch_keycenter=90
+lokey=88 hikey=91
+lovel=109
+offset=0 end=50135
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=26
+ampeg_hold=0.8399255345320943 ampeg_decay=20.511105310731665 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=no_loop 
+
+<region>
+sample=Samples/sh_forte A_6_ 1st wa.wav
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=109
+offset=0 end=84545
+volume=0.13 amp_veltrack=0.00
+pan=30
+ampeg_hold=0.8197939983902716 ampeg_decay=9.005668253404185 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73869 loop_end=84513
+
+<region>
+sample=Samples/sh_forte C_7_ 1st wa.wav
+pitch_keycenter=96
+lokey=95 hikey=98
+lovel=109
+offset=0 end=49441
+volume=0.13 amp_veltrack=0.00
+pan=34
+ampeg_hold=0.8801573279279543 ampeg_decay=6.0001559571432725 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=45326 loop_end=49409
+
+<region>
+sample=Samples/sh_forte D#7_ 1st wa.wav
+pitch_keycenter=99
+lokey=99 hikey=100
+lovel=109
+offset=0 end=47146
+volume=0.13 amp_veltrack=0.00
+pan=38
+ampeg_hold=0.6601351542987774 ampeg_decay=8.510044445246102 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=38936 loop_end=47114
+
+<region>
+sample=Samples/sh_forte F#7_ 1st wa.wav
+pitch_keycenter=102
+lokey=101 hikey=103
+lovel=109
+offset=0 end=55139
+volume=0.13 amp_veltrack=0.00
+pan=42
+ampeg_hold=0.4000724898613191 ampeg_decay=10.009745115949999 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44117 loop_end=55107
+
+<region>
+sample=Samples/sh_forte A_7_ 1st wa.wav
+pitch_keycenter=105
+lokey=104 hikey=106
+lovel=109
+offset=0 end=59064
+volume=0.13 amp_veltrack=0.00
+pan=46
+ampeg_hold=0.5 ampeg_decay=8.004622316052439 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=48356 loop_end=59032
+
+<region>
+sample=Samples/sh_forte C_8_ 1st wa.wav
+pitch_keycenter=108
+lokey=107 hikey=108
+lovel=109
+offset=0 end=55456
+volume=0.13 amp_veltrack=0.00
+pan=50
+ampeg_release=3.0000779785716363
+loop_mode=no_loop 
+
+<group>
+group_label=Grand Piano (p-ff)
+
+<region>
+sample=Samples/sh_forte D#4_ 1st wa.wav
+pitch_keycenter=63
+lokey=62 hikey=65
+lovel=95 hivel=108
+offset=0 end=86641
+tune=-7
+volume=0.13 amp_veltrack=0.00
+ampeg_hold=2.0994333672461347 ampeg_decay=18.517704099204863 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=68341 loop_end=86609
+fil_type=lpf_2p cutoff=5088.63 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_0_ 1st wa.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=95 hivel=108
+offset=0 end=156251
+volume=0.13 amp_veltrack=0.00
+pan=-50
+ampeg_hold=5.299415820294277 ampeg_decay=28.525231042274683 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=126111 loop_end=156219
+fil_type=lpf_2p cutoff=2211.12 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_1_ 1st wa.wav
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=95 hivel=108
+offset=0 end=141122
+volume=0.13 amp_veltrack=0.00
+pan=-46
+ampeg_hold=4.999094040915632 ampeg_decay=24.014491137172012 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=116090 loop_end=141090
+fil_type=lpf_2p cutoff=2600.78 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#1_ 1st wa.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=95 hivel=108
+offset=0 end=134129
+tune=-14
+amp_veltrack=0.00
+pan=-42
+ampeg_hold=4.999094040915632 ampeg_decay=19.016326406192814 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=102804 loop_end=134097
+fil_type=lpf_2p cutoff=2289.10 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#1_ 1st wa.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=95 hivel=108
+offset=0 end=126976
+tune=-1
+volume=0.13 amp_veltrack=0.00
+pan=-38
+ampeg_hold=3.5003519789808375 ampeg_decay=46.52712055424994 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101043 loop_end=126944
+fil_type=lpf_2p cutoff=2912.54 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_1.wav
+pitch_keycenter=33
+lokey=32 hikey=34
+lovel=95 hivel=108
+offset=0 end=108685
+volume=0.13 amp_veltrack=0.00
+pan=-34
+ampeg_hold=4.0 ampeg_decay=45.02018250005594 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=92577 loop_end=108674
+fil_type=lpf_2p cutoff=4116.57 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_2_ 1st wa.wav
+pitch_keycenter=36
+lokey=35 hikey=38
+lovel=95 hivel=108
+offset=0 end=105272
+tune=-14
+volume=0.13 amp_veltrack=0.00
+pan=-30
+ampeg_hold=3.0000779785716363 ampeg_decay=18.01133650680837 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=76807 loop_end=105240
+fil_type=lpf_2p cutoff=3455.62 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#2_ 1st wa.wav
+pitch_keycenter=39
+lokey=39 hikey=42
+lovel=95 hivel=108
+offset=0 end=99486
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-25
+ampeg_hold=3.3000777160539396 ampeg_decay=21.51841632907211 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=71041 loop_end=99454
+fil_type=lpf_2p cutoff=4465.88 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#2_ 1st wa.wav
+pitch_keycenter=42
+lokey=43 hikey=46
+lovel=95 hivel=108
+offset=0 end=100921
+tune=-5
+volume=0.13 amp_veltrack=0.00
+pan=-20
+ampeg_hold=3.6342726734955324 ampeg_decay=19.99637616366252 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=72703 loop_end=100889
+fil_type=lpf_2p cutoff=4932.36 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_3_ 1st wa.wav
+pitch_keycenter=48
+lokey=47 hikey=50
+lovel=95 hivel=108
+offset=0 end=132234
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-16
+ampeg_hold=3.200579918890553 ampeg_decay=16.516468400263175 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=113843 loop_end=132202
+fil_type=lpf_2p cutoff=4698.75 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#3_ 1st wa.wav
+pitch_keycenter=51
+lokey=51 hikey=54
+lovel=95 hivel=108
+offset=0 end=126337
+tune=-13
+volume=0.13 amp_veltrack=0.00
+pan=-12
+ampeg_hold=2.5996787088484976 ampeg_decay=21.01479289405446 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101798 loop_end=126305
+fil_type=lpf_2p cutoff=5633.16 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_3_ 1st wa.wav
+pitch_keycenter=57
+lokey=55 hikey=58
+lovel=95 hivel=108
+offset=0 end=92661
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-8
+ampeg_hold=2.199994626556431 ampeg_decay=14.511921649025822 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73539 loop_end=92629
+fil_type=lpf_2p cutoff=5475.96 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_4_ 1st wa.wav
+pitch_keycenter=60
+lokey=59 hikey=61
+lovel=95 hivel=108
+offset=0 end=82239
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-4
+ampeg_hold=1.89978128173227 ampeg_decay=13.508853504679793 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=58565 loop_end=82207
+fil_type=lpf_2p cutoff=5400.57 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_4_ 1st wa.wav
+pitch_keycenter=69
+lokey=66 hikey=70
+lovel=95 hivel=108
+offset=0 end=77060
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=4
+ampeg_hold=1.8160870207242013 ampeg_decay=11.203156252974875 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=57326 loop_end=77028
+fil_type=lpf_2p cutoff=5475.96 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_5_ 1st wa.wav
+pitch_keycenter=72
+lokey=71 hikey=75
+lovel=95 hivel=108
+offset=0 end=88487
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=9
+ampeg_hold=1.5737066819311916 ampeg_decay=14.00140791592335 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=62644 loop_end=88455
+fil_type=lpf_2p cutoff=6564.92 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#5_ 1st wa.wav
+pitch_keycenter=78
+lokey=76 hikey=79
+lovel=95 hivel=108
+offset=0 end=69993
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=13
+ampeg_hold=1.929642159674044 ampeg_decay=13.011060629467723 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=64054 loop_end=69961
+fil_type=lpf_2p cutoff=6411.27 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_5_ 1st wa.wav
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=95 hivel=108
+offset=0 end=62489
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=17
+ampeg_hold=1.150690623232586 ampeg_decay=9.998188081831264 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44873 loop_end=62457
+fil_type=lpf_2p cutoff=7576.04 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_6_ 1st wa.wav
+pitch_keycenter=84
+lokey=83 hikey=87
+lovel=95 hivel=108
+offset=0 end=43929
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=22
+ampeg_hold=1.0298969566748981 ampeg_decay=8.510044445246102 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=37984 loop_end=43897
+fil_type=lpf_2p cutoff=7730.76 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#6_ 1st wa.wav
+pitch_keycenter=90
+lokey=88 hikey=91
+lovel=95 hivel=108
+offset=0 end=50135
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=26
+ampeg_hold=0.8399255345320943 ampeg_decay=20.511105310731665 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=7925.18 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_6_ 1st wa.wav
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=95 hivel=108
+offset=0 end=84545
+volume=0.13 amp_veltrack=0.00
+pan=30
+ampeg_hold=0.8197939983902716 ampeg_decay=9.005668253404185 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73869 loop_end=84513
+fil_type=lpf_2p cutoff=9523.19 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_7_ 1st wa.wav
+pitch_keycenter=96
+lokey=95 hikey=98
+lovel=95 hivel=108
+offset=0 end=49441
+volume=0.13 amp_veltrack=0.00
+pan=34
+ampeg_hold=0.8801573279279543 ampeg_decay=6.0001559571432725 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=45326 loop_end=49409
+fil_type=lpf_2p cutoff=8900.86 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#7_ 1st wa.wav
+pitch_keycenter=99
+lokey=99 hikey=100
+lovel=95 hivel=108
+offset=0 end=47146
+volume=0.13 amp_veltrack=0.00
+pan=38
+ampeg_hold=0.6601351542987774 ampeg_decay=8.510044445246102 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=38936 loop_end=47114
+fil_type=lpf_2p cutoff=6971.38 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte F#7_ 1st wa.wav
+pitch_keycenter=102
+lokey=101 hikey=103
+lovel=95 hivel=108
+offset=0 end=55139
+volume=0.13 amp_veltrack=0.00
+pan=42
+ampeg_hold=0.4000724898613191 ampeg_decay=10.009745115949999 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44117 loop_end=55107
+fil_type=lpf_2p cutoff=6971.38 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte A_7_ 1st wa.wav
+pitch_keycenter=105
+lokey=104 hikey=106
+lovel=95 hivel=108
+offset=0 end=59064
+volume=0.13 amp_veltrack=0.00
+pan=46
+ampeg_hold=0.5 ampeg_decay=8.004622316052439 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=48356 loop_end=59032
+fil_type=lpf_2p cutoff=9523.19 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte C_8_ 1st wa.wav
+pitch_keycenter=108
+lokey=107 hikey=108
+lovel=95 hivel=108
+offset=0 end=55456
+volume=0.13 amp_veltrack=0.00
+pan=50
+ampeg_release=3.0000779785716363
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=9990.87 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<group>
+group_label=Grand Piano (p-ff)
+
+<region>
+sample=Samples/sh_forte D#4_ 1st wa.wav
+pitch_keycenter=63
+lokey=62 hikey=65
+lovel=80 hivel=94
+offset=0 end=86641
+tune=-7
+volume=0.13 amp_veltrack=0.00
+ampeg_hold=2.0994333672461347 ampeg_decay=18.517704099204863 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=68341 loop_end=86609
+fil_type=lpf_2p cutoff=3481.67 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_0_ 1st wa.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=80 hivel=94
+offset=0 end=156251
+volume=0.13 amp_veltrack=0.00
+pan=-50
+ampeg_hold=5.299415820294277 ampeg_decay=28.525231042274683 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=126111 loop_end=156219
+fil_type=lpf_2p cutoff=1512.86 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_1_ 1st wa.wav
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=80 hivel=94
+offset=0 end=141122
+volume=0.13 amp_veltrack=0.00
+pan=-46
+ampeg_hold=4.999094040915632 ampeg_decay=24.014491137172012 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=116090 loop_end=141090
+fil_type=lpf_2p cutoff=1779.47 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#1_ 1st wa.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=80 hivel=94
+offset=0 end=134129
+tune=-14
+amp_veltrack=0.00
+pan=-42
+ampeg_hold=4.999094040915632 ampeg_decay=19.016326406192814 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=102804 loop_end=134097
+fil_type=lpf_2p cutoff=1566.21 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#1_ 1st wa.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=80 hivel=94
+offset=0 end=126976
+tune=-1
+volume=0.13 amp_veltrack=0.00
+pan=-38
+ampeg_hold=3.5003519789808375 ampeg_decay=46.52712055424994 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101043 loop_end=126944
+fil_type=lpf_2p cutoff=1992.77 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_1.wav
+pitch_keycenter=33
+lokey=32 hikey=34
+lovel=80 hivel=94
+offset=0 end=108685
+volume=0.13 amp_veltrack=0.00
+pan=-34
+ampeg_hold=4.0 ampeg_decay=45.02018250005594 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=92577 loop_end=108674
+fil_type=lpf_2p cutoff=2816.58 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_2_ 1st wa.wav
+pitch_keycenter=36
+lokey=35 hikey=38
+lovel=80 hivel=94
+offset=0 end=105272
+tune=-14
+volume=0.13 amp_veltrack=0.00
+pan=-30
+ampeg_hold=3.0000779785716363 ampeg_decay=18.01133650680837 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=76807 loop_end=105240
+fil_type=lpf_2p cutoff=2364.35 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#2_ 1st wa.wav
+pitch_keycenter=39
+lokey=39 hikey=42
+lovel=80 hivel=94
+offset=0 end=99486
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-25
+ampeg_hold=3.3000777160539396 ampeg_decay=21.51841632907211 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=71041 loop_end=99454
+fil_type=lpf_2p cutoff=3055.58 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#2_ 1st wa.wav
+pitch_keycenter=42
+lokey=43 hikey=46
+lovel=80 hivel=94
+offset=0 end=100921
+tune=-5
+volume=0.13 amp_veltrack=0.00
+pan=-20
+ampeg_hold=3.6342726734955324 ampeg_decay=19.99637616366252 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=72703 loop_end=100889
+fil_type=lpf_2p cutoff=3374.74 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_3_ 1st wa.wav
+pitch_keycenter=48
+lokey=47 hikey=50
+lovel=80 hivel=94
+offset=0 end=132234
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-16
+ampeg_hold=3.200579918890553 ampeg_decay=16.516468400263175 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=113843 loop_end=132202
+fil_type=lpf_2p cutoff=3214.91 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#3_ 1st wa.wav
+pitch_keycenter=51
+lokey=51 hikey=54
+lovel=80 hivel=94
+offset=0 end=126337
+tune=-13
+volume=0.13 amp_veltrack=0.00
+pan=-12
+ampeg_hold=2.5996787088484976 ampeg_decay=21.01479289405446 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101798 loop_end=126305
+fil_type=lpf_2p cutoff=3854.23 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_3_ 1st wa.wav
+pitch_keycenter=57
+lokey=55 hikey=58
+lovel=80 hivel=94
+offset=0 end=92661
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-8
+ampeg_hold=2.199994626556431 ampeg_decay=14.511921649025822 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73539 loop_end=92629
+fil_type=lpf_2p cutoff=3746.68 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_4_ 1st wa.wav
+pitch_keycenter=60
+lokey=59 hikey=61
+lovel=80 hivel=94
+offset=0 end=82239
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-4
+ampeg_hold=1.89978128173227 ampeg_decay=13.508853504679793 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=58565 loop_end=82207
+fil_type=lpf_2p cutoff=3695.09 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_4_ 1st wa.wav
+pitch_keycenter=69
+lokey=66 hikey=70
+lovel=80 hivel=94
+offset=0 end=77060
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=4
+ampeg_hold=1.8160870207242013 ampeg_decay=11.203156252974875 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=57326 loop_end=77028
+fil_type=lpf_2p cutoff=3746.68 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_5_ 1st wa.wav
+pitch_keycenter=72
+lokey=71 hikey=75
+lovel=80 hivel=94
+offset=0 end=88487
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=9
+ampeg_hold=1.5737066819311916 ampeg_decay=14.00140791592335 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=62644 loop_end=88455
+fil_type=lpf_2p cutoff=4491.75 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#5_ 1st wa.wav
+pitch_keycenter=78
+lokey=76 hikey=79
+lovel=80 hivel=94
+offset=0 end=69993
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=13
+ampeg_hold=1.929642159674044 ampeg_decay=13.011060629467723 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=64054 loop_end=69961
+fil_type=lpf_2p cutoff=4386.62 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_5_ 1st wa.wav
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=80 hivel=94
+offset=0 end=62489
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=17
+ampeg_hold=1.150690623232586 ampeg_decay=9.998188081831264 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44873 loop_end=62457
+fil_type=lpf_2p cutoff=5183.56 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_6_ 1st wa.wav
+pitch_keycenter=84
+lokey=83 hikey=87
+lovel=80 hivel=94
+offset=0 end=43929
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=22
+ampeg_hold=1.0298969566748981 ampeg_decay=8.510044445246102 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=37984 loop_end=43897
+fil_type=lpf_2p cutoff=5289.43 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#6_ 1st wa.wav
+pitch_keycenter=90
+lokey=88 hikey=91
+lovel=80 hivel=94
+offset=0 end=50135
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=26
+ampeg_hold=0.8399255345320943 ampeg_decay=20.511105310731665 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5422.45 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_6_ 1st wa.wav
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=80 hivel=94
+offset=0 end=84545
+volume=0.13 amp_veltrack=0.00
+pan=30
+ampeg_hold=0.8197939983902716 ampeg_decay=9.005668253404185 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73869 loop_end=84513
+fil_type=lpf_2p cutoff=6515.81 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_7_ 1st wa.wav
+pitch_keycenter=96
+lokey=95 hikey=98
+lovel=80 hivel=94
+offset=0 end=49441
+volume=0.13 amp_veltrack=0.00
+pan=34
+ampeg_hold=0.8801573279279543 ampeg_decay=6.0001559571432725 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=45326 loop_end=49409
+fil_type=lpf_2p cutoff=6090.01 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#7_ 1st wa.wav
+pitch_keycenter=99
+lokey=99 hikey=100
+lovel=80 hivel=94
+offset=0 end=47146
+volume=0.13 amp_veltrack=0.00
+pan=38
+ampeg_hold=0.6601351542987774 ampeg_decay=8.510044445246102 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=38936 loop_end=47114
+fil_type=lpf_2p cutoff=4769.85 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte F#7_ 1st wa.wav
+pitch_keycenter=102
+lokey=101 hikey=103
+lovel=80 hivel=94
+offset=0 end=55139
+volume=0.13 amp_veltrack=0.00
+pan=42
+ampeg_hold=0.4000724898613191 ampeg_decay=10.009745115949999 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44117 loop_end=55107
+fil_type=lpf_2p cutoff=4769.85 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte A_7_ 1st wa.wav
+pitch_keycenter=105
+lokey=104 hikey=106
+lovel=80 hivel=94
+offset=0 end=59064
+volume=0.13 amp_veltrack=0.00
+pan=46
+ampeg_hold=0.5 ampeg_decay=8.004622316052439 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=48356 loop_end=59032
+fil_type=lpf_2p cutoff=6515.81 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte C_8_ 1st wa.wav
+pitch_keycenter=108
+lokey=107 hikey=108
+lovel=80 hivel=94
+offset=0 end=55456
+volume=0.13 amp_veltrack=0.00
+pan=50
+ampeg_release=3.0000779785716363
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=6835.80 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<group>
+group_label=Grand Piano (p-ff)
+
+<region>
+sample=Samples/sh_forte D#4_ 1st wa.wav
+pitch_keycenter=63
+lokey=62 hikey=65
+lovel=65 hivel=79
+offset=0 end=86641
+tune=-7
+volume=0.13 amp_veltrack=0.00
+ampeg_hold=2.0994333672461347 ampeg_decay=18.517704099204863 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=68341 loop_end=86609
+fil_type=lpf_2p cutoff=2143.22 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_0_ 1st wa.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=65 hivel=79
+offset=0 end=156251
+volume=0.13 amp_veltrack=0.00
+pan=-50
+ampeg_hold=5.299415820294277 ampeg_decay=28.525231042274683 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=126111 loop_end=156219
+fil_type=lpf_2p cutoff=931.27 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_1_ 1st wa.wav
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=65 hivel=79
+offset=0 end=141122
+volume=0.13 amp_veltrack=0.00
+pan=-46
+ampeg_hold=4.999094040915632 ampeg_decay=24.014491137172012 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=116090 loop_end=141090
+fil_type=lpf_2p cutoff=1095.39 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#1_ 1st wa.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=65 hivel=79
+offset=0 end=134129
+tune=-14
+amp_veltrack=0.00
+pan=-42
+ampeg_hold=4.999094040915632 ampeg_decay=19.016326406192814 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=102804 loop_end=134097
+fil_type=lpf_2p cutoff=964.12 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#1_ 1st wa.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=65 hivel=79
+offset=0 end=126976
+tune=-1
+volume=0.13 amp_veltrack=0.00
+pan=-38
+ampeg_hold=3.5003519789808375 ampeg_decay=46.52712055424994 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101043 loop_end=126944
+fil_type=lpf_2p cutoff=1226.70 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_1.wav
+pitch_keycenter=33
+lokey=32 hikey=34
+lovel=65 hivel=79
+offset=0 end=108685
+volume=0.13 amp_veltrack=0.00
+pan=-34
+ampeg_hold=4.0 ampeg_decay=45.02018250005594 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=92577 loop_end=108674
+fil_type=lpf_2p cutoff=1733.81 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_2_ 1st wa.wav
+pitch_keycenter=36
+lokey=35 hikey=38
+lovel=65 hivel=79
+offset=0 end=105272
+tune=-14
+volume=0.13 amp_veltrack=0.00
+pan=-30
+ampeg_hold=3.0000779785716363 ampeg_decay=18.01133650680837 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=76807 loop_end=105240
+fil_type=lpf_2p cutoff=1455.43 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#2_ 1st wa.wav
+pitch_keycenter=39
+lokey=39 hikey=42
+lovel=65 hivel=79
+offset=0 end=99486
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-25
+ampeg_hold=3.3000777160539396 ampeg_decay=21.51841632907211 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=71041 loop_end=99454
+fil_type=lpf_2p cutoff=1880.93 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#2_ 1st wa.wav
+pitch_keycenter=42
+lokey=43 hikey=46
+lovel=65 hivel=79
+offset=0 end=100921
+tune=-5
+volume=0.13 amp_veltrack=0.00
+pan=-20
+ampeg_hold=3.6342726734955324 ampeg_decay=19.99637616366252 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=72703 loop_end=100889
+fil_type=lpf_2p cutoff=2077.40 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_3_ 1st wa.wav
+pitch_keycenter=48
+lokey=47 hikey=50
+lovel=65 hivel=79
+offset=0 end=132234
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-16
+ampeg_hold=3.200579918890553 ampeg_decay=16.516468400263175 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=113843 loop_end=132202
+fil_type=lpf_2p cutoff=1979.01 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#3_ 1st wa.wav
+pitch_keycenter=51
+lokey=51 hikey=54
+lovel=65 hivel=79
+offset=0 end=126337
+tune=-13
+volume=0.13 amp_veltrack=0.00
+pan=-12
+ampeg_hold=2.5996787088484976 ampeg_decay=21.01479289405446 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101798 loop_end=126305
+fil_type=lpf_2p cutoff=2372.56 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_3_ 1st wa.wav
+pitch_keycenter=57
+lokey=55 hikey=58
+lovel=65 hivel=79
+offset=0 end=92661
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-8
+ampeg_hold=2.199994626556431 ampeg_decay=14.511921649025822 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73539 loop_end=92629
+fil_type=lpf_2p cutoff=2306.35 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_4_ 1st wa.wav
+pitch_keycenter=60
+lokey=59 hikey=61
+lovel=65 hivel=79
+offset=0 end=82239
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-4
+ampeg_hold=1.89978128173227 ampeg_decay=13.508853504679793 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=58565 loop_end=82207
+fil_type=lpf_2p cutoff=2274.60 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_4_ 1st wa.wav
+pitch_keycenter=69
+lokey=66 hikey=70
+lovel=65 hivel=79
+offset=0 end=77060
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=4
+ampeg_hold=1.8160870207242013 ampeg_decay=11.203156252974875 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=57326 loop_end=77028
+fil_type=lpf_2p cutoff=2306.35 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_5_ 1st wa.wav
+pitch_keycenter=72
+lokey=71 hikey=75
+lovel=65 hivel=79
+offset=0 end=88487
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=9
+ampeg_hold=1.5737066819311916 ampeg_decay=14.00140791592335 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=62644 loop_end=88455
+fil_type=lpf_2p cutoff=2765.00 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#5_ 1st wa.wav
+pitch_keycenter=78
+lokey=76 hikey=79
+lovel=65 hivel=79
+offset=0 end=69993
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=13
+ampeg_hold=1.929642159674044 ampeg_decay=13.011060629467723 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=64054 loop_end=69961
+fil_type=lpf_2p cutoff=2700.28 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_5_ 1st wa.wav
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=65 hivel=79
+offset=0 end=62489
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=17
+ampeg_hold=1.150690623232586 ampeg_decay=9.998188081831264 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44873 loop_end=62457
+fil_type=lpf_2p cutoff=3190.86 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_6_ 1st wa.wav
+pitch_keycenter=84
+lokey=83 hikey=87
+lovel=65 hivel=79
+offset=0 end=43929
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=22
+ampeg_hold=1.0298969566748981 ampeg_decay=8.510044445246102 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=37984 loop_end=43897
+fil_type=lpf_2p cutoff=3256.02 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#6_ 1st wa.wav
+pitch_keycenter=90
+lokey=88 hikey=91
+lovel=65 hivel=79
+offset=0 end=50135
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=26
+ampeg_hold=0.8399255345320943 ampeg_decay=20.511105310731665 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3337.91 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_6_ 1st wa.wav
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=65 hivel=79
+offset=0 end=84545
+volume=0.13 amp_veltrack=0.00
+pan=30
+ampeg_hold=0.8197939983902716 ampeg_decay=9.005668253404185 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73869 loop_end=84513
+fil_type=lpf_2p cutoff=4010.95 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_7_ 1st wa.wav
+pitch_keycenter=96
+lokey=95 hikey=98
+lovel=65 hivel=79
+offset=0 end=49441
+volume=0.13 amp_veltrack=0.00
+pan=34
+ampeg_hold=0.8801573279279543 ampeg_decay=6.0001559571432725 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=45326 loop_end=49409
+fil_type=lpf_2p cutoff=3748.84 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#7_ 1st wa.wav
+pitch_keycenter=99
+lokey=99 hikey=100
+lovel=65 hivel=79
+offset=0 end=47146
+volume=0.13 amp_veltrack=0.00
+pan=38
+ampeg_hold=0.6601351542987774 ampeg_decay=8.510044445246102 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=38936 loop_end=47114
+fil_type=lpf_2p cutoff=2936.19 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte F#7_ 1st wa.wav
+pitch_keycenter=102
+lokey=101 hikey=103
+lovel=65 hivel=79
+offset=0 end=55139
+volume=0.13 amp_veltrack=0.00
+pan=42
+ampeg_hold=0.4000724898613191 ampeg_decay=10.009745115949999 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44117 loop_end=55107
+fil_type=lpf_2p cutoff=2936.19 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte A_7_ 1st wa.wav
+pitch_keycenter=105
+lokey=104 hikey=106
+lovel=65 hivel=79
+offset=0 end=59064
+volume=0.13 amp_veltrack=0.00
+pan=46
+ampeg_hold=0.5 ampeg_decay=8.004622316052439 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=48356 loop_end=59032
+fil_type=lpf_2p cutoff=4010.95 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte C_8_ 1st wa.wav
+pitch_keycenter=108
+lokey=107 hikey=108
+lovel=65 hivel=79
+offset=0 end=55456
+volume=0.13 amp_veltrack=0.00
+pan=50
+ampeg_release=3.0000779785716363
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4207.93 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<group>
+group_label=Grand Piano (p-ff)
+
+<region>
+sample=Samples/sh_forte D#4_ 1st wa.wav
+pitch_keycenter=63
+lokey=62 hikey=65
+lovel=49 hivel=64
+offset=0 end=86641
+tune=-7
+volume=0.13 amp_veltrack=0.00
+ampeg_hold=2.0994333672461347 ampeg_decay=18.517704099204863 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=68341 loop_end=86609
+fil_type=lpf_2p cutoff=937.75 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_0_ 1st wa.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=49 hivel=64
+offset=0 end=156251
+volume=0.13 amp_veltrack=0.00
+pan=-50
+ampeg_hold=5.299415820294277 ampeg_decay=28.525231042274683 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=126111 loop_end=156219
+fil_type=lpf_2p cutoff=407.47 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_1_ 1st wa.wav
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=49 hivel=64
+offset=0 end=141122
+volume=0.13 amp_veltrack=0.00
+pan=-46
+ampeg_hold=4.999094040915632 ampeg_decay=24.014491137172012 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=116090 loop_end=141090
+fil_type=lpf_2p cutoff=479.28 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#1_ 1st wa.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=49 hivel=64
+offset=0 end=134129
+tune=-14
+amp_veltrack=0.00
+pan=-42
+ampeg_hold=4.999094040915632 ampeg_decay=19.016326406192814 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=102804 loop_end=134097
+fil_type=lpf_2p cutoff=421.84 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#1_ 1st wa.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=49 hivel=64
+offset=0 end=126976
+tune=-1
+volume=0.13 amp_veltrack=0.00
+pan=-38
+ampeg_hold=3.5003519789808375 ampeg_decay=46.52712055424994 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101043 loop_end=126944
+fil_type=lpf_2p cutoff=536.73 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_1.wav
+pitch_keycenter=33
+lokey=32 hikey=34
+lovel=49 hivel=64
+offset=0 end=108685
+volume=0.13 amp_veltrack=0.00
+pan=-34
+ampeg_hold=4.0 ampeg_decay=45.02018250005594 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=92577 loop_end=108674
+fil_type=lpf_2p cutoff=758.62 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_2_ 1st wa.wav
+pitch_keycenter=36
+lokey=35 hikey=38
+lovel=49 hivel=64
+offset=0 end=105272
+tune=-14
+volume=0.13 amp_veltrack=0.00
+pan=-30
+ampeg_hold=3.0000779785716363 ampeg_decay=18.01133650680837 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=76807 loop_end=105240
+fil_type=lpf_2p cutoff=636.81 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#2_ 1st wa.wav
+pitch_keycenter=39
+lokey=39 hikey=42
+lovel=49 hivel=64
+offset=0 end=99486
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-25
+ampeg_hold=3.3000777160539396 ampeg_decay=21.51841632907211 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=71041 loop_end=99454
+fil_type=lpf_2p cutoff=822.99 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#2_ 1st wa.wav
+pitch_keycenter=42
+lokey=43 hikey=46
+lovel=49 hivel=64
+offset=0 end=100921
+tune=-5
+volume=0.13 amp_veltrack=0.00
+pan=-20
+ampeg_hold=3.6342726734955324 ampeg_decay=19.99637616366252 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=72703 loop_end=100889
+fil_type=lpf_2p cutoff=908.95 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_3_ 1st wa.wav
+pitch_keycenter=48
+lokey=47 hikey=50
+lovel=49 hivel=64
+offset=0 end=132234
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-16
+ampeg_hold=3.200579918890553 ampeg_decay=16.516468400263175 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=113843 loop_end=132202
+fil_type=lpf_2p cutoff=865.90 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#3_ 1st wa.wav
+pitch_keycenter=51
+lokey=51 hikey=54
+lovel=49 hivel=64
+offset=0 end=126337
+tune=-13
+volume=0.13 amp_veltrack=0.00
+pan=-12
+ampeg_hold=2.5996787088484976 ampeg_decay=21.01479289405446 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=101798 loop_end=126305
+fil_type=lpf_2p cutoff=1038.10 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_3_ 1st wa.wav
+pitch_keycenter=57
+lokey=55 hikey=58
+lovel=49 hivel=64
+offset=0 end=92661
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=-8
+ampeg_hold=2.199994626556431 ampeg_decay=14.511921649025822 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73539 loop_end=92629
+fil_type=lpf_2p cutoff=1009.13 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_4_ 1st wa.wav
+pitch_keycenter=60
+lokey=59 hikey=61
+lovel=49 hivel=64
+offset=0 end=82239
+tune=-10
+volume=0.13 amp_veltrack=0.00
+pan=-4
+ampeg_hold=1.89978128173227 ampeg_decay=13.508853504679793 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=58565 loop_end=82207
+fil_type=lpf_2p cutoff=995.24 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_4_ 1st wa.wav
+pitch_keycenter=69
+lokey=66 hikey=70
+lovel=49 hivel=64
+offset=0 end=77060
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=4
+ampeg_hold=1.8160870207242013 ampeg_decay=11.203156252974875 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=57326 loop_end=77028
+fil_type=lpf_2p cutoff=1009.13 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_5_ 1st wa.wav
+pitch_keycenter=72
+lokey=71 hikey=75
+lovel=49 hivel=64
+offset=0 end=88487
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=9
+ampeg_hold=1.5737066819311916 ampeg_decay=14.00140791592335 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=62644 loop_end=88455
+fil_type=lpf_2p cutoff=1209.81 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#5_ 1st wa.wav
+pitch_keycenter=78
+lokey=76 hikey=79
+lovel=49 hivel=64
+offset=0 end=69993
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=13
+ampeg_hold=1.929642159674044 ampeg_decay=13.011060629467723 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=64054 loop_end=69961
+fil_type=lpf_2p cutoff=1181.49 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_5_ 1st wa.wav
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=49 hivel=64
+offset=0 end=62489
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=17
+ampeg_hold=1.150690623232586 ampeg_decay=9.998188081831264 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44873 loop_end=62457
+fil_type=lpf_2p cutoff=1396.14 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_6_ 1st wa.wav
+pitch_keycenter=84
+lokey=83 hikey=87
+lovel=49 hivel=64
+offset=0 end=43929
+tune=-8
+volume=0.13 amp_veltrack=0.00
+pan=22
+ampeg_hold=1.0298969566748981 ampeg_decay=8.510044445246102 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=37984 loop_end=43897
+fil_type=lpf_2p cutoff=1424.65 resonance=0.00
+
+<region>
+sample=Samples/sh_forte F#6_ 1st wa.wav
+pitch_keycenter=90
+lokey=88 hikey=91
+lovel=49 hivel=64
+offset=0 end=50135
+tune=-9
+volume=0.13 amp_veltrack=0.00
+pan=26
+ampeg_hold=0.8399255345320943 ampeg_decay=20.511105310731665 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1460.48 resonance=0.00
+
+<region>
+sample=Samples/sh_forte A_6_ 1st wa.wav
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=49 hivel=64
+offset=0 end=84545
+volume=0.13 amp_veltrack=0.00
+pan=30
+ampeg_hold=0.8197939983902716 ampeg_decay=9.005668253404185 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73869 loop_end=84513
+fil_type=lpf_2p cutoff=1754.97 resonance=0.00
+
+<region>
+sample=Samples/sh_forte C_7_ 1st wa.wav
+pitch_keycenter=96
+lokey=95 hikey=98
+lovel=49 hivel=64
+offset=0 end=49441
+volume=0.13 amp_veltrack=0.00
+pan=34
+ampeg_hold=0.8801573279279543 ampeg_decay=6.0001559571432725 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=45326 loop_end=49409
+fil_type=lpf_2p cutoff=1640.28 resonance=0.00
+
+<region>
+sample=Samples/sh_forte D#7_ 1st wa.wav
+pitch_keycenter=99
+lokey=99 hikey=100
+lovel=49 hivel=64
+offset=0 end=47146
+volume=0.13 amp_veltrack=0.00
+pan=38
+ampeg_hold=0.6601351542987774 ampeg_decay=8.510044445246102 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=38936 loop_end=47114
+fil_type=lpf_2p cutoff=1284.71 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte F#7_ 1st wa.wav
+pitch_keycenter=102
+lokey=101 hikey=103
+lovel=49 hivel=64
+offset=0 end=55139
+volume=0.13 amp_veltrack=0.00
+pan=42
+ampeg_hold=0.4000724898613191 ampeg_decay=10.009745115949999 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=44117 loop_end=55107
+fil_type=lpf_2p cutoff=1284.71 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte A_7_ 1st wa.wav
+pitch_keycenter=105
+lokey=104 hikey=106
+lovel=49 hivel=64
+offset=0 end=59064
+volume=0.13 amp_veltrack=0.00
+pan=46
+ampeg_hold=0.5 ampeg_decay=8.004622316052439 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=48356 loop_end=59032
+fil_type=lpf_2p cutoff=1754.97 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<region>
+sample=Samples/sh_forte C_8_ 1st wa.wav
+pitch_keycenter=108
+lokey=107 hikey=108
+lovel=49 hivel=64
+offset=0 end=55456
+volume=0.13 amp_veltrack=0.00
+pan=50
+ampeg_release=3.0000779785716363
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1841.15 resonance=0.00
+fileg_depth=2400
+fileg_delay=0.06999197525292246 fileg_decay=48.47492182716994 fileg_release=48.27931605600748
+
+<group>
+group_label=Grand Piano (pp)
+
+<region>
+sample=Samples/sh_pianissimo A#0_ 1.wav
+pitch_keycenter=22
+lokey=21 hikey=23
+lovel=20 hivel=48
+offset=0 end=108906
+volume=0.13 amp_veltrack=0.00
+pan=-50
+ampeg_hold=4.999094040915632 ampeg_decay=23.009642550158066 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=66804 loop_end=108874
+
+<region>
+sample=Samples/sh_pianissimo C#1_ 1.wav
+pitch_keycenter=25
+lokey=24 hikey=26
+lovel=20 hivel=48
+offset=0 end=117676
+volume=0.13 amp_veltrack=0.00
+pan=-46
+ampeg_hold=4.500233938755238 ampeg_decay=22.021385468289477 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=93486 loop_end=117644
+
+<region>
+sample=Samples/sh_pianissimo E_1_ 1.wav
+pitch_keycenter=28
+lokey=27 hikey=28
+lovel=20 hivel=48
+offset=0 end=128095
+volume=0.13 amp_veltrack=0.00
+pan=-42
+ampeg_hold=4.999094040915632 ampeg_decay=21.01479289405446 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=111405 loop_end=128063
+
+<region>
+sample=Samples/sh_pianissimo G_1.wav
+pitch_keycenter=31
+lokey=29 hikey=31
+lovel=20 hivel=48
+offset=0 end=108839
+volume=0.13 amp_veltrack=0.00
+pan=-38
+ampeg_hold=4.0 ampeg_decay=26.022121258935456 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=94781 loop_end=108835
+
+<region>
+sample=Samples/sh_pianissimo A#1.wav
+pitch_keycenter=34
+lokey=32 hikey=34
+lovel=20 hivel=48
+offset=0 end=103635
+volume=0.13 amp_veltrack=0.00
+pan=-34
+ampeg_hold=4.0 ampeg_decay=25.516054028582293 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=71615 loop_end=103625
+
+<region>
+sample=Samples/sh_pianissimo C#2_ 1.wav
+pitch_keycenter=37
+lokey=35 hikey=38
+lovel=20 hivel=48
+offset=0 end=103657
+volume=0.13 amp_veltrack=0.00
+pan=-29
+ampeg_hold=3.0000779785716363 ampeg_decay=20.511105310731665 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=82674 loop_end=103625
+
+<region>
+sample=Samples/sh_pianissimo E_2_ 1.wav
+pitch_keycenter=40
+lokey=39 hikey=42
+lovel=20 hivel=48
+offset=0 end=92767
+tune=-5
+volume=0.13 amp_veltrack=0.00
+pan=-24
+ampeg_hold=3.3000777160539396 ampeg_decay=17.50869922017183 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=74755 loop_end=92735
+
+<region>
+sample=Samples/sh_pianissimo G_2_ 1.wav
+pitch_keycenter=43
+lokey=43 hikey=46
+lovel=20 hivel=48
+offset=0 end=94934
+tune=-2
+volume=0.13 amp_veltrack=0.00
+pan=-20
+ampeg_hold=3.3000777160539396 ampeg_decay=22.51009125002797 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=81810 loop_end=94902
+
+<region>
+sample=Samples/sh_pianissimo C#3_ 1.wav
+pitch_keycenter=49
+lokey=47 hikey=50
+lovel=20 hivel=48
+offset=0 end=76853
+volume=0.13 amp_veltrack=0.00
+pan=-15
+ampeg_hold=3.0000779785716363 ampeg_decay=21.51841632907211 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=57840 loop_end=76821
+
+<region>
+sample=Samples/sh_pianissimo E_3_ 1.wav
+pitch_keycenter=52
+lokey=51 hikey=54
+lovel=20 hivel=48
+offset=0 end=109151
+volume=0.13 amp_veltrack=0.00
+pan=-11
+ampeg_hold=2.5996787088484976 ampeg_decay=26.022121258935456 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=78243 loop_end=109119
+
+<region>
+sample=Samples/sh_pianissimo A#3_ 1.wav
+pitch_keycenter=58
+lokey=55 hikey=58
+lovel=20 hivel=48
+offset=0 end=68442
+volume=0.13 amp_veltrack=0.00
+pan=-7
+ampeg_hold=2.199994626556431 ampeg_decay=39.533396388061725 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=49127 loop_end=68410
+
+<region>
+sample=Samples/sh_pianissimo C#4_ 1.wav
+pitch_keycenter=61
+lokey=59 hikey=61
+lovel=20 hivel=48
+offset=0 end=91700
+tune=-2
+volume=0.13 amp_veltrack=0.00
+pan=-3
+ampeg_hold=1.89978128173227 ampeg_decay=25.516054028582293 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=67999 loop_end=91668
+
+<region>
+sample=Samples/sh_pianissimo C#5_ 1.wav
+pitch_keycenter=73
+lokey=71 hikey=75
+lovel=20 hivel=48
+offset=0 end=60677
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=-11
+ampeg_hold=1.6692113860336666 ampeg_decay=16.009244632104878 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=41991 loop_end=60645
+
+<region>
+sample=Samples/sh_pianissimo E_4_ 1.wav
+pitch_keycenter=64
+lokey=62 hikey=65
+lovel=20 hivel=48
+offset=0 end=45900
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=2.0994333672461347 ampeg_decay=25.516054028582293 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=45267 loop_end=45868
+
+<region>
+sample=Samples/sh_pianissimo A#4_ 1.wav
+pitch_keycenter=70
+lokey=66 hikey=70
+lovel=20 hivel=48
+offset=0 end=44298
+tune=-4
+volume=0.13 amp_veltrack=0.00
+pan=6
+ampeg_hold=1.800419796836219 ampeg_decay=25.516054028582293 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=36092 loop_end=44266
+
+<region>
+sample=Samples/sh_pianissimo G_5_ 1.wav
+pitch_keycenter=79
+lokey=76 hikey=79
+lovel=20 hivel=48
+offset=0 end=79242
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=15
+ampeg_hold=1.800419796836219 ampeg_decay=20.511105310731665 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=77745 loop_end=79210
+
+<region>
+sample=Samples/sh_pianissimo A#5_ 1.wav
+pitch_keycenter=82
+lokey=80 hikey=82
+lovel=20 hivel=48
+offset=0 end=51214
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=19
+ampeg_hold=1.0999973132782155 ampeg_decay=19.51709823616327 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=27428 loop_end=51182
+
+<region>
+sample=Samples/sh_pianissimo C#6_ 1.wav
+pitch_keycenter=85
+lokey=83 hikey=87
+lovel=20 hivel=48
+offset=0 end=100706
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=24
+ampeg_hold=1.0 ampeg_decay=22.021385468289477 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=51814 loop_end=100674
+
+<region>
+sample=Samples/sh_pianissimo G_6_ 1.wav
+pitch_keycenter=91
+lokey=88 hikey=91
+lovel=20 hivel=48
+offset=0 end=68984
+volume=0.13 amp_veltrack=0.00
+pan=28
+ampeg_hold=0.5 ampeg_decay=16.009244632104878 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=54468 loop_end=68952
+
+<region>
+sample=Samples/sh_pianissimo A#6_ 1.wav
+pitch_keycenter=94
+lokey=92 hikey=94
+lovel=20 hivel=48
+offset=0 end=61722
+tune=-16
+volume=0.13 amp_veltrack=0.00
+pan=32
+ampeg_hold=0.6001243333326338 ampeg_decay=13.011060629467723 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=53504 loop_end=61690
+
+<region>
+sample=Samples/sh_pianissimo C#7_ 1.wav
+pitch_keycenter=97
+lokey=95 hikey=98
+lovel=20 hivel=48
+offset=0 end=59153
+volume=0.13 amp_veltrack=0.00
+pan=37
+ampeg_hold=0.8001449797226382 ampeg_decay=7.507503973369144 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=42750 loop_end=59121
+
+<region>
+sample=Samples/sh_pianissimo E_7_ 1.wav
+pitch_keycenter=100
+lokey=99 hikey=100
+lovel=20 hivel=48
+offset=0 end=50876
+volume=0.13 amp_veltrack=0.00
+pan=41
+ampeg_hold=0.7269862586601553 ampeg_decay=8.510044445246102 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=42667 loop_end=50844
+
+<region>
+sample=Samples/sh_pianissimo G_7_ 1.wav
+pitch_keycenter=103
+lokey=101 hikey=103
+lovel=20 hivel=48
+offset=0 end=51134
+volume=0.13 amp_veltrack=0.00
+pan=45
+ampeg_hold=0.4000724898613191 ampeg_decay=7.507503973369144 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=37742 loop_end=51102
+
+<region>
+sample=Samples/sh_pianissimo A#7_ 1.wav
+pitch_keycenter=106
+lokey=104 hikey=108
+lovel=20 hivel=48
+offset=0 end=53053
+volume=0.13 amp_veltrack=0.00
+pan=50
+ampeg_hold=0.30006216666631697 ampeg_decay=6.0001559571432725 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=35340 loop_end=53010
+
+<group>
+group_label=Grand Piano (pp)
+
+<region>
+sample=Samples/sh_pianissimo A#0_ 1.wav
+pitch_keycenter=22
+lokey=21 hikey=23
+hivel=19
+offset=0 end=108906
+volume=0.13 amp_veltrack=0.00
+pan=-50
+ampeg_hold=4.999094040915632 ampeg_decay=23.009642550158066 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=66804 loop_end=108874
+
+<region>
+sample=Samples/sh_pianissimo C#1_ 1.wav
+pitch_keycenter=25
+lokey=24 hikey=26
+hivel=19
+offset=0 end=117676
+volume=0.13 amp_veltrack=0.00
+pan=-46
+ampeg_hold=4.500233938755238 ampeg_decay=22.021385468289477 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=93486 loop_end=117644
+
+<region>
+sample=Samples/sh_pianissimo E_1_ 1.wav
+pitch_keycenter=28
+lokey=27 hikey=28
+hivel=19
+offset=0 end=128095
+volume=0.13 amp_veltrack=0.00
+pan=-42
+ampeg_hold=4.999094040915632 ampeg_decay=21.01479289405446 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=111405 loop_end=128063
+
+<region>
+sample=Samples/sh_pianissimo G_1.wav
+pitch_keycenter=31
+lokey=29 hikey=31
+hivel=19
+offset=0 end=108839
+volume=0.13 amp_veltrack=0.00
+pan=-38
+ampeg_hold=4.0 ampeg_decay=26.022121258935456 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=94781 loop_end=108835
+
+<region>
+sample=Samples/sh_pianissimo A#1.wav
+pitch_keycenter=34
+lokey=32 hikey=34
+hivel=19
+offset=0 end=103635
+volume=0.13 amp_veltrack=0.00
+pan=-34
+ampeg_hold=4.0 ampeg_decay=25.516054028582293 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=71615 loop_end=103625
+
+<region>
+sample=Samples/sh_pianissimo C#2_ 1.wav
+pitch_keycenter=37
+lokey=35 hikey=38
+hivel=19
+offset=0 end=103657
+volume=0.13 amp_veltrack=0.00
+pan=-29
+ampeg_hold=3.0000779785716363 ampeg_decay=20.511105310731665 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=82674 loop_end=103625
+
+<region>
+sample=Samples/sh_pianissimo E_2_ 1.wav
+pitch_keycenter=40
+lokey=39 hikey=42
+hivel=19
+offset=0 end=92767
+tune=-5
+volume=0.13 amp_veltrack=0.00
+pan=-24
+ampeg_hold=3.3000777160539396 ampeg_decay=17.50869922017183 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=74755 loop_end=92735
+
+<region>
+sample=Samples/sh_pianissimo G_2_ 1.wav
+pitch_keycenter=43
+lokey=43 hikey=46
+hivel=19
+offset=0 end=94934
+tune=-2
+volume=0.13 amp_veltrack=0.00
+pan=-20
+ampeg_hold=3.3000777160539396 ampeg_decay=22.51009125002797 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=81810 loop_end=94902
+
+<region>
+sample=Samples/sh_pianissimo C#3_ 1.wav
+pitch_keycenter=49
+lokey=47 hikey=50
+hivel=19
+offset=0 end=76853
+volume=0.13 amp_veltrack=0.00
+pan=-15
+ampeg_hold=3.0000779785716363 ampeg_decay=21.51841632907211 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=57840 loop_end=76821
+
+<region>
+sample=Samples/sh_pianissimo E_3_ 1.wav
+pitch_keycenter=52
+lokey=51 hikey=54
+hivel=19
+offset=0 end=109151
+volume=0.13 amp_veltrack=0.00
+pan=-11
+ampeg_hold=2.5996787088484976 ampeg_decay=26.022121258935456 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=78243 loop_end=109119
+
+<region>
+sample=Samples/sh_pianissimo A#3_ 1.wav
+pitch_keycenter=58
+lokey=55 hikey=58
+hivel=19
+offset=0 end=68442
+volume=0.13 amp_veltrack=0.00
+pan=-7
+ampeg_hold=2.199994626556431 ampeg_decay=39.533396388061725 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=49127 loop_end=68410
+
+<region>
+sample=Samples/sh_pianissimo C#4_ 1.wav
+pitch_keycenter=61
+lokey=59 hikey=61
+hivel=19
+offset=0 end=91700
+tune=-2
+volume=0.13 amp_veltrack=0.00
+pan=-3
+ampeg_hold=1.89978128173227 ampeg_decay=25.516054028582293 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=67999 loop_end=91668
+
+<region>
+sample=Samples/sh_pianissimo C#5_ 1.wav
+pitch_keycenter=73
+lokey=71 hikey=75
+hivel=19
+offset=0 end=60677
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=-11
+ampeg_hold=1.6692113860336666 ampeg_decay=16.009244632104878 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=41991 loop_end=60645
+
+<region>
+sample=Samples/sh_pianissimo E_4_ 1.wav
+pitch_keycenter=64
+lokey=62 hikey=65
+hivel=19
+offset=0 end=45900
+tune=-6
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=2.0994333672461347 ampeg_decay=25.516054028582293 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=45267 loop_end=45868
+
+<region>
+sample=Samples/sh_pianissimo A#4_ 1.wav
+pitch_keycenter=70
+lokey=66 hikey=70
+hivel=19
+offset=0 end=44298
+tune=-4
+volume=0.13 amp_veltrack=0.00
+pan=6
+ampeg_hold=1.800419796836219 ampeg_decay=25.516054028582293 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=36092 loop_end=44266
+
+<region>
+sample=Samples/sh_pianissimo G_5_ 1.wav
+pitch_keycenter=79
+lokey=76 hikey=79
+hivel=19
+offset=0 end=79242
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=15
+ampeg_hold=1.800419796836219 ampeg_decay=20.511105310731665 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=77745 loop_end=79210
+
+<region>
+sample=Samples/sh_pianissimo A#5_ 1.wav
+pitch_keycenter=82
+lokey=80 hikey=82
+hivel=19
+offset=0 end=51214
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=19
+ampeg_hold=1.0999973132782155 ampeg_decay=19.51709823616327 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=27428 loop_end=51182
+
+<region>
+sample=Samples/sh_pianissimo C#6_ 1.wav
+pitch_keycenter=85
+lokey=83 hikey=87
+hivel=19
+offset=0 end=100706
+tune=-7
+volume=0.13 amp_veltrack=0.00
+pan=24
+ampeg_hold=1.0 ampeg_decay=22.021385468289477 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=51814 loop_end=100674
+
+<region>
+sample=Samples/sh_pianissimo G_6_ 1.wav
+pitch_keycenter=91
+lokey=88 hikey=91
+hivel=19
+offset=0 end=68984
+volume=0.13 amp_veltrack=0.00
+pan=28
+ampeg_hold=0.5 ampeg_decay=16.009244632104878 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=54468 loop_end=68952
+
+<region>
+sample=Samples/sh_pianissimo A#6_ 1.wav
+pitch_keycenter=94
+lokey=92 hikey=94
+hivel=19
+offset=0 end=61722
+tune=-16
+volume=0.13 amp_veltrack=0.00
+pan=32
+ampeg_hold=0.6001243333326338 ampeg_decay=13.011060629467723 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=53504 loop_end=61690
+
+<region>
+sample=Samples/sh_pianissimo C#7_ 1.wav
+pitch_keycenter=97
+lokey=95 hikey=98
+hivel=19
+offset=0 end=59153
+volume=0.13 amp_veltrack=0.00
+pan=37
+ampeg_hold=0.8001449797226382 ampeg_decay=7.507503973369144 ampeg_release=0.9598183720674252 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=42750 loop_end=59121
+
+<region>
+sample=Samples/sh_pianissimo E_7_ 1.wav
+pitch_keycenter=100
+lokey=99 hikey=100
+hivel=19
+offset=0 end=50876
+volume=0.13 amp_veltrack=0.00
+pan=41
+ampeg_hold=0.7269862586601553 ampeg_decay=8.510044445246102 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=42667 loop_end=50844
+
+<region>
+sample=Samples/sh_pianissimo G_7_ 1.wav
+pitch_keycenter=103
+lokey=101 hikey=103
+hivel=19
+offset=0 end=51134
+volume=0.13 amp_veltrack=0.00
+pan=45
+ampeg_hold=0.4000724898613191 ampeg_decay=7.507503973369144 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=37742 loop_end=51102
+
+<region>
+sample=Samples/sh_pianissimo A#7_ 1.wav
+pitch_keycenter=106
+lokey=104 hikey=108
+hivel=19
+offset=0 end=53053
+volume=0.13 amp_veltrack=0.00
+pan=50
+ampeg_hold=0.30006216666631697 ampeg_decay=6.0001559571432725 ampeg_release=3.0000779785716363 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=35340 loop_end=53010
