@@ -6,7 +6,7 @@
 //// Copyright:  Copyright 2006-2010, Rich  Weeds  Nagel - Some rights reserved
 
 <global>
-//default_path=https://intronet.github.io/SFZ/Grand_Piano/
+default_path=https://intronet.github.io/SFZ/Grand_Piano/
 global_label=Grand Piano
 
 <group>
