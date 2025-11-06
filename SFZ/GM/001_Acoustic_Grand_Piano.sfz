@@ -1,38 +1,160 @@
-// GM Grand Piano
-// Salamander Grand Piano V2
-// Author: Alexander Holm
-// Contact: axeldenstore [at] gmail [dot] com
-// License: Creative Commons CC-BY, Alexander Holm
-// Source: https://github.com/sfzinstruments/SalamanderGrandPiano
-// mapped and looped by jlearman
+// SFZ 2.0 file: 001-Acoustic Grand Piano
+//
+// This file maps the sparse sample set to the full keyboard range (0-127 MIDI).
+// Each sample covers the space between its note and the next adjacent sample.
 
-//<master>
-fil_type=lpf_1p cutoff=20000 cutoff_oncc131=-9500 cutoff_curvecc131=2
+<control>
+SFZversion=2.0
+// MANDATORY: Points to the sample folder containing all .wav files.
+default_path=001-Acoustic Grand Piano/
 
-<group> ampeg_sustain=0.001 ampeg_release=1
-<region> sample=001_Acoustic_Grand_Piano/C1v16.wav lokey=21 hikey=26 pitch_keycenter=24 ampeg_hold=12.156 ampeg_decay=22
-<region> sample=001_Acoustic_Grand_Piano/F#1v16.wav lokey=27 hikey=32 pitch_keycenter=30 ampeg_hold=12.843 ampeg_decay=21
-<region> sample=001_Acoustic_Grand_Piano/C2v16.wav lokey=33 hikey=38 pitch_keycenter=36 ampeg_hold=10.394 ampeg_decay=20
-<region> sample=001_Acoustic_Grand_Piano/F#2v16.wav lokey=39 hikey=43 pitch_keycenter=42 ampeg_hold=8.817 ampeg_decay=19
+<global>
+// Set a universal volume for the entire instrument
+volume=0
+// Set a default, simple AHDSR envelope for all notes
+ampeg_attack=0.01
+ampeg_hold=0.0
+ampeg_decay=0.8
+ampeg_sustain=0.5
+ampeg_release=1.0
 
-<group> ampeg_sustain=0.001 ampeg_release=0.7
-<region> sample=001_Acoustic_Grand_Piano/A2v16.wav lokey=44 hikey=49 pitch_keycenter=45 ampeg_hold=5.918 ampeg_decay=18
-<region> sample=001_Acoustic_Grand_Piano/D#3v16.wav lokey=50 hikey=53 pitch_keycenter=51 ampeg_hold=6.352 ampeg_decay=17
-<region> sample=001_Acoustic_Grand_Piano/A3v16.wav lokey=54 hikey=58 pitch_keycenter=57 ampeg_hold=5.592 ampeg_decay=16
-<region> sample=001_Acoustic_Grand_Piano/C4v16.wav lokey=59 hikey=62 pitch_keycenter=60 ampeg_hold=7.112 ampeg_decay=15
-<group> ampeg_sustain=0.001 ampeg_release=0.4
+// -------------------------------------------------------------------
+// REGIONS: Mapped by Pitch (Note, Octave)
+// The pitch_keycenter tells the sampler the true pitch of the sample.
+// The lokey/hikey defines the range of keys that will play this sample.
+// -------------------------------------------------------------------
 
-<region> sample=001_Acoustic_Grand_Piano/F#4v16.wav lokey=63 hikey=68 pitch_keycenter=66 ampeg_hold=6.304 ampeg_decay=14
-<region> sample=001_Acoustic_Grand_Piano/C5v16.wav lokey=69 hikey=74 pitch_keycenter=72 ampeg_hold=3.557 ampeg_decay=13
-<region> sample=001_Acoustic_Grand_Piano/F#5v16.wav lokey=75 hikey=80 pitch_keycenter=78 ampeg_hold=3.484 ampeg_decay=12
-<group> ampeg_sustain=0.001 ampeg_release=0.2
+// C1 (MIDI 24)
+<region>
+sample=C1v16.wav
+pitch_keycenter=C1
+lokey=0
+hikey=26
+lovel=1
+hivel=127
 
-<region> sample=001_Acoustic_Grand_Piano/C6v16.wav lokey=81 hikey=86 pitch_keycenter=84 ampeg_hold=1.663 ampeg_decay=11
-<region> sample=001_Acoustic_Grand_Piano/F#6v16.wav lokey=87 hikey=88 pitch_keycenter=90 ampeg_hold=1.889 ampeg_decay=10
-<group> ampeg_sustain=0.001 ampeg_release=10
+// F#1 (MIDI 30)
+<region>
+sample=F#1v16.wav
+pitch_keycenter=F#1
+lokey=27
+hikey=32
+lovel=1
+hivel=127
 
-<region> sample=001_Acoustic_Grand_Piano/F#6v16.wav lokey=89 hikey=93 pitch_keycenter=90 ampeg_hold=1.889 ampeg_decay=9
-<region> sample=001_Acoustic_Grand_Piano/C7v16.wav lokey=92 hikey=97 pitch_keycenter=96 ampeg_hold=2.073 ampeg_decay=8
-<region> sample=001_Acoustic_Grand_Piano/D#7v16.wav lokey=98 hikey=103 pitch_keycenter=99 ampeg_hold=1.674 ampeg_decay=7
-<region> sample=001_Acoustic_Grand_Piano/A7v16.wav lokey=104 hikey=108 pitch_keycenter=105 ampeg_hold=1.247 ampeg_decay=6
+// C2 (MIDI 36)
+<region>
+sample=C2v16.wav
+pitch_keycenter=C2
+lokey=33
+hikey=38
+lovel=1
+hivel=127
 
+// F#2 (MIDI 42)
+<region>
+sample=F#2v16.wav
+pitch_keycenter=F#2
+lokey=39
+hikey=43
+lovel=1
+hivel=127
+
+// A2 (MIDI 45)
+<region>
+sample=A2v16.wav
+pitch_keycenter=A2
+lokey=44
+hikey=48
+lovel=1
+hivel=127
+
+// D#3 (MIDI 51)
+<region>
+sample=D#3v16.wav
+pitch_keycenter=D#3
+lokey=49
+hikey=53
+lovel=1
+hivel=127
+
+// A3 (MIDI 57)
+<region>
+sample=A3v16.wav
+pitch_keycenter=A3
+lokey=54
+hikey=59
+lovel=1
+hivel=127
+
+// C4 (MIDI 60)
+<region>
+sample=C4v16.wav
+pitch_keycenter=C4
+lokey=60
+hikey=62
+lovel=1
+hivel=127
+
+// F#4 (MIDI 66)
+<region>
+sample=F#4v16.wav
+pitch_keycenter=F#4
+lokey=63
+hikey=68
+lovel=1
+hivel=127
+
+// C5 (MIDI 72)
+<region>
+sample=C5v16.wav
+pitch_keycenter=C5
+lokey=69
+hikey=74
+lovel=1
+hivel=127
+
+// F#5 (MIDI 78)
+<region>
+sample=F#5v16.wav
+pitch_keycenter=F#5
+lokey=75
+hikey=80
+lovel=1
+hivel=127
+
+// C6 (MIDI 84)
+<region>
+sample=C6v16.wav
+pitch_keycenter=C6
+lokey=81
+hikey=90
+lovel=1
+hivel=127
+
+// C7 (MIDI 96)
+<region>
+sample=C7v16.wav
+pitch_keycenter=C7
+lokey=91
+hikey=100
+lovel=1
+hivel=127
+
+// D#7 (MIDI 100)
+<region>
+sample=D#7v16.wav
+pitch_keycenter=D#7
+lokey=101
+hikey=102
+lovel=1
+hivel=127
+
+// A7 (MIDI 105) - Covers the rest of the high range
+<region>
+sample=A7v16.wav
+pitch_keycenter=A7
+lokey=103
+hikey=127
+lovel=1
+hivel=127
