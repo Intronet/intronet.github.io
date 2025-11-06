@@ -1,160 +1,30 @@
-// SFZ 2.0 file: 001-Acoustic Grand Piano
-//
-// This file maps the sparse sample set to the full keyboard range (0-127 MIDI).
-// Each sample covers the space between its note and the next adjacent sample.
+// 001-Acoustic Grand Piano.sfz
+// Basic single-velocity layer piano mapping
+// Samples assumed to be in "001-Acoustic Grand Piano/" folder
 
 <control>
-SFZversion=2.0
-// MANDATORY: Points to the sample folder containing all .wav files.
 default_path=001-Acoustic Grand Piano/
 
-<global>
-// Set a universal volume for the entire instrument
+<group>
+lokey=C1
+hikey=G8
+pitch_keycenter=60
 volume=0
-// Set a default, simple AHDSR envelope for all notes
-ampeg_attack=0.01
-ampeg_hold=0.0
-ampeg_decay=0.8
-ampeg_sustain=0.5
-ampeg_release=1.0
 
-// -------------------------------------------------------------------
-// REGIONS: Mapped by Pitch (Note, Octave)
-// The pitch_keycenter tells the sampler the true pitch of the sample.
-// The lokey/hikey defines the range of keys that will play this sample.
-// -------------------------------------------------------------------
+// ----------------------- SAMPLE REGIONS -----------------------
 
-// C1 (MIDI 24)
-<region>
-sample=C1v16.wav
-pitch_keycenter=C1
-lokey=0
-hikey=26
-lovel=1
-hivel=127
-
-// F#1 (MIDI 30)
-<region>
-sample=F#1v16.wav
-pitch_keycenter=F#1
-lokey=27
-hikey=32
-lovel=1
-hivel=127
-
-// C2 (MIDI 36)
-<region>
-sample=C2v16.wav
-pitch_keycenter=C2
-lokey=33
-hikey=38
-lovel=1
-hivel=127
-
-// F#2 (MIDI 42)
-<region>
-sample=F#2v16.wav
-pitch_keycenter=F#2
-lokey=39
-hikey=43
-lovel=1
-hivel=127
-
-// A2 (MIDI 45)
-<region>
-sample=A2v16.wav
-pitch_keycenter=A2
-lokey=44
-hikey=48
-lovel=1
-hivel=127
-
-// D#3 (MIDI 51)
-<region>
-sample=D#3v16.wav
-pitch_keycenter=D#3
-lokey=49
-hikey=53
-lovel=1
-hivel=127
-
-// A3 (MIDI 57)
-<region>
-sample=A3v16.wav
-pitch_keycenter=A3
-lokey=54
-hikey=59
-lovel=1
-hivel=127
-
-// C4 (MIDI 60)
-<region>
-sample=C4v16.wav
-pitch_keycenter=C4
-lokey=60
-hikey=62
-lovel=1
-hivel=127
-
-// F#4 (MIDI 66)
-<region>
-sample=F#4v16.wav
-pitch_keycenter=F#4
-lokey=63
-hikey=68
-lovel=1
-hivel=127
-
-// C5 (MIDI 72)
-<region>
-sample=C5v16.wav
-pitch_keycenter=C5
-lokey=69
-hikey=74
-lovel=1
-hivel=127
-
-// F#5 (MIDI 78)
-<region>
-sample=F#5v16.wav
-pitch_keycenter=F#5
-lokey=75
-hikey=80
-lovel=1
-hivel=127
-
-// C6 (MIDI 84)
-<region>
-sample=C6v16.wav
-pitch_keycenter=C6
-lokey=81
-hikey=90
-lovel=1
-hivel=127
-
-// C7 (MIDI 96)
-<region>
-sample=C7v16.wav
-pitch_keycenter=C7
-lokey=91
-hikey=100
-lovel=1
-hivel=127
-
-// D#7 (MIDI 100)
-<region>
-sample=D#7v16.wav
-pitch_keycenter=D#7
-lokey=101
-hikey=102
-lovel=1
-hivel=127
-
-// A7 (MIDI 105) - Covers the rest of the high range
-<region>
-sample=A7v16.wav
-pitch_keycenter=A7
-lokey=103
-hikey=127
-lovel=1
-hivel=127
+<region> sample=C1v16.wav key=C1 lokey=C1 hikey=B1 pitch_keycenter=C1
+<region> sample=F#1v16.wav key=F#1 lokey=C#1 hikey=F1 pitch_keycenter=F#1
+<region> sample=C2v16.wav key=C2 lokey=C2 hikey=D#2 pitch_keycenter=C2
+<region> sample=F#2v16.wav key=F#2 lokey=E2 hikey=G2 pitch_keycenter=F#2
+<region> sample=A2v16.wav key=A2 lokey=G#2 hikey=B2 pitch_keycenter=A2
+<region> sample=D#3v16.wav key=D#3 lokey=C3 hikey=F3 pitch_keycenter=D#3
+<region> sample=A3v16.wav key=A3 lokey=F#3 hikey=B3 pitch_keycenter=A3
+<region> sample=C4v16.wav key=C4 lokey=C4 hikey=D#4 pitch_keycenter=C4
+<region> sample=F#4v16.wav key=F#4 lokey=E4 hikey=G4 pitch_keycenter=F#4
+<region> sample=C5v16.wav key=C5 lokey=G#4 hikey=D#5 pitch_keycenter=C5
+<region> sample=F#5v16.wav key=F#5 lokey=E5 hikey=G#5 pitch_keycenter=F#5
+<region> sample=C6v16.wav key=C6 lokey=A5 hikey=D#6 pitch_keycenter=C6
+<region> sample=C7v16.wav key=C7 lokey=E6 hikey=F#7 pitch_keycenter=C7
+<region> sample=D#7v16.wav key=D#7 lokey=G7 hikey=A7 pitch_keycenter=D#7
+<region> sample=A7v16.wav key=A7 lokey=B7 hikey=G8 pitch_keycenter=A7
