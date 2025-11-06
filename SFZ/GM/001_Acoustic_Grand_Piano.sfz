@@ -1,30 +1,38 @@
-// 001-Acoustic Grand Piano.sfz
-// Basic single-velocity layer piano mapping
-// Samples assumed to be in "001-Acoustic Grand Piano/" folder
+// GM Grand Piano
+// Salamander Grand Piano V2
+// Author: Alexander Holm
+// Contact: axeldenstore [at] gmail [dot] com
+// License: Creative Commons CC-BY, Alexander Holm
+// Source: https://github.com/sfzinstruments/SalamanderGrandPiano
+// mapped and looped by jlearman
 
-<control>
-default_path=001-Acoustic Grand Piano/
+//<master>
+fil_type=lpf_1p cutoff=20000 cutoff_oncc131=-9500 cutoff_curvecc131=2
 
-<group>
-lokey=C1
-hikey=G8
-pitch_keycenter=60
-volume=0
+<group> ampeg_sustain=0.001 ampeg_release=1
+<region> sample=001_Acoustic_Grand_Piano/C1v16.wav lokey=21 hikey=26 pitch_keycenter=24 ampeg_hold=12.156 ampeg_decay=22
+<region> sample=001_Acoustic_Grand_Piano/F#1v16.wav lokey=27 hikey=32 pitch_keycenter=30 ampeg_hold=12.843 ampeg_decay=21
+<region> sample=001_Acoustic_Grand_Piano/C2v16.wav lokey=33 hikey=38 pitch_keycenter=36 ampeg_hold=10.394 ampeg_decay=20
+<region> sample=001_Acoustic_Grand_Piano/F#2v16.wav lokey=39 hikey=43 pitch_keycenter=42 ampeg_hold=8.817 ampeg_decay=19
 
-// ----------------------- SAMPLE REGIONS -----------------------
+<group> ampeg_sustain=0.001 ampeg_release=0.7
+<region> sample=001_Acoustic_Grand_Piano/A2v16.wav lokey=44 hikey=49 pitch_keycenter=45 ampeg_hold=5.918 ampeg_decay=18
+<region> sample=001_Acoustic_Grand_Piano/D#3v16.wav lokey=50 hikey=53 pitch_keycenter=51 ampeg_hold=6.352 ampeg_decay=17
+<region> sample=001_Acoustic_Grand_Piano/A3v16.wav lokey=54 hikey=58 pitch_keycenter=57 ampeg_hold=5.592 ampeg_decay=16
+<region> sample=001_Acoustic_Grand_Piano/C4v16.wav lokey=59 hikey=62 pitch_keycenter=60 ampeg_hold=7.112 ampeg_decay=15
+<group> ampeg_sustain=0.001 ampeg_release=0.4
 
-<region> sample=C1v16.wav key=C1 lokey=C1 hikey=B1 pitch_keycenter=C1
-<region> sample=F#1v16.wav key=F#1 lokey=C#1 hikey=F1 pitch_keycenter=F#1
-<region> sample=C2v16.wav key=C2 lokey=C2 hikey=D#2 pitch_keycenter=C2
-<region> sample=F#2v16.wav key=F#2 lokey=E2 hikey=G2 pitch_keycenter=F#2
-<region> sample=A2v16.wav key=A2 lokey=G#2 hikey=B2 pitch_keycenter=A2
-<region> sample=D#3v16.wav key=D#3 lokey=C3 hikey=F3 pitch_keycenter=D#3
-<region> sample=A3v16.wav key=A3 lokey=F#3 hikey=B3 pitch_keycenter=A3
-<region> sample=C4v16.wav key=C4 lokey=C4 hikey=D#4 pitch_keycenter=C4
-<region> sample=F#4v16.wav key=F#4 lokey=E4 hikey=G4 pitch_keycenter=F#4
-<region> sample=C5v16.wav key=C5 lokey=G#4 hikey=D#5 pitch_keycenter=C5
-<region> sample=F#5v16.wav key=F#5 lokey=E5 hikey=G#5 pitch_keycenter=F#5
-<region> sample=C6v16.wav key=C6 lokey=A5 hikey=D#6 pitch_keycenter=C6
-<region> sample=C7v16.wav key=C7 lokey=E6 hikey=F#7 pitch_keycenter=C7
-<region> sample=D#7v16.wav key=D#7 lokey=G7 hikey=A7 pitch_keycenter=D#7
-<region> sample=A7v16.wav key=A7 lokey=B7 hikey=G8 pitch_keycenter=A7
+<region> sample=001_Acoustic_Grand_Piano/F#4v16.wav lokey=63 hikey=68 pitch_keycenter=66 ampeg_hold=6.304 ampeg_decay=14
+<region> sample=001_Acoustic_Grand_Piano/C5v16.wav lokey=69 hikey=74 pitch_keycenter=72 ampeg_hold=3.557 ampeg_decay=13
+<region> sample=001_Acoustic_Grand_Piano/F#5v16.wav lokey=75 hikey=80 pitch_keycenter=78 ampeg_hold=3.484 ampeg_decay=12
+<group> ampeg_sustain=0.001 ampeg_release=0.2
+
+<region> sample=001_Acoustic_Grand_Piano/C6v16.wav lokey=81 hikey=86 pitch_keycenter=84 ampeg_hold=1.663 ampeg_decay=11
+<region> sample=001_Acoustic_Grand_Piano/F#6v16.wav lokey=87 hikey=88 pitch_keycenter=90 ampeg_hold=1.889 ampeg_decay=10
+<group> ampeg_sustain=0.001 ampeg_release=10
+
+<region> sample=001_Acoustic_Grand_Piano/F#6v16.wav lokey=89 hikey=93 pitch_keycenter=90 ampeg_hold=1.889 ampeg_decay=9
+<region> sample=001_Acoustic_Grand_Piano/C7v16.wav lokey=92 hikey=97 pitch_keycenter=96 ampeg_hold=2.073 ampeg_decay=8
+<region> sample=001_Acoustic_Grand_Piano/D#7v16.wav lokey=98 hikey=103 pitch_keycenter=99 ampeg_hold=1.674 ampeg_decay=7
+<region> sample=001_Acoustic_Grand_Piano/A7v16.wav lokey=104 hikey=108 pitch_keycenter=105 ampeg_hold=1.247 ampeg_decay=6
+
