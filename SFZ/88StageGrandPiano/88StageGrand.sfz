@@ -1,0 +1,3454 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Category: Piano
+
+<global>
+global_label=88StageGrand
+
+<group>
+group_label=88StageGrand0
+
+<region>
+sample=88StageGrand Samples/88StageGrand 025 0-L.wav
+pitch_keycenter=25
+lokey=12 hikey=26
+hivel=31
+offset=0 end=54615
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 027 0-R.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+hivel=31
+offset=0 end=42963
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 030 0-R.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+hivel=31
+offset=0 end=43146
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 032 0-R.wav
+pitch_keycenter=32
+lokey=32 hikey=33
+hivel=31
+offset=0 end=41528
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 034 0-R.wav
+pitch_keycenter=34
+lokey=34 hikey=35
+hivel=31
+offset=0 end=40057
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 037 0-R.wav
+pitch_keycenter=37
+lokey=36 hikey=38
+hivel=31
+offset=0 end=56791
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 039 0-R.wav
+key=39
+hivel=31
+offset=0 end=39588
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 042 0-R.wav
+pitch_keycenter=42
+lokey=40 hikey=43
+hivel=31
+offset=0 end=40740
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 044 0-R.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+hivel=31
+offset=0 end=40477
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 046 0-R.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+hivel=31
+offset=0 end=39174
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 048 0-R.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+hivel=31
+offset=0 end=37962
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 050 0-R.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+hivel=31
+offset=0 end=37949
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 052 0-R.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+hivel=31
+offset=0 end=46130
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 054 0-R.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+hivel=31
+offset=0 end=38123
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 056 0-R.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+hivel=31
+offset=0 end=39821
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 058 0-R.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+hivel=31
+offset=0 end=36627
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 060 0-R.wav
+pitch_keycenter=60
+lokey=60 hikey=61
+hivel=31
+offset=0 end=36895
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 062 0-R.wav
+pitch_keycenter=62
+lokey=62 hikey=63
+hivel=31
+offset=0 end=37344
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 064 0-R.wav
+pitch_keycenter=64
+lokey=64 hikey=65
+hivel=31
+offset=0 end=49437
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 066 0-R.wav
+pitch_keycenter=66
+lokey=66 hikey=67
+hivel=31
+offset=0 end=36848
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 068 0-R.wav
+pitch_keycenter=68
+lokey=68 hikey=69
+hivel=31
+offset=0 end=35912
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 070 0-R.wav
+pitch_keycenter=70
+lokey=70 hikey=71
+hivel=31
+offset=0 end=63085
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 072 0-R.wav
+pitch_keycenter=72
+lokey=72 hikey=73
+hivel=31
+offset=0 end=48526
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 074 0-R.wav
+pitch_keycenter=74
+lokey=74 hikey=75
+hivel=31
+offset=0 end=30037
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 076 0-R.wav
+pitch_keycenter=76
+lokey=76 hikey=77
+hivel=31
+offset=0 end=35275
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 078 0-R.wav
+pitch_keycenter=78
+lokey=78 hikey=79
+hivel=31
+offset=0 end=36808
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 080 0-R.wav
+pitch_keycenter=80
+lokey=80 hikey=81
+hivel=31
+offset=0 end=36268
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 082 0-R.wav
+pitch_keycenter=82
+lokey=82 hikey=83
+hivel=31
+offset=0 end=35576
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 084 0-R.wav
+pitch_keycenter=84
+lokey=84 hikey=85
+hivel=31
+offset=0 end=34816
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 086 0-R.wav
+pitch_keycenter=86
+lokey=86 hikey=87
+hivel=31
+offset=0 end=48237
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 088 0-R.wav
+pitch_keycenter=88
+lokey=88 hikey=89
+hivel=31
+offset=0 end=69779
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 090 0-R.wav
+pitch_keycenter=90
+lokey=90 hikey=91
+hivel=31
+offset=0 end=47977
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 092 0-R.wav
+pitch_keycenter=92
+lokey=92 hikey=93
+hivel=31
+offset=0 end=60426
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 094 0-R.wav
+pitch_keycenter=94
+lokey=94 hikey=95
+hivel=31
+offset=0 end=51777
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 096 0-R.wav
+key=96
+hivel=31
+offset=0 end=47466
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 098 0-R.wav
+pitch_keycenter=98
+lokey=97 hikey=99
+hivel=31
+offset=0 end=48181
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 100 0-R.wav
+pitch_keycenter=100
+lokey=100 hikey=101
+hivel=31
+offset=0 end=52032
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 102 0-R.wav
+pitch_keycenter=102
+lokey=102 hikey=103
+hivel=31
+offset=0 end=34496
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 104 0-R.wav
+pitch_keycenter=104
+lokey=104 hikey=105
+hivel=31
+offset=0 end=35185
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 106 0-R.wav
+pitch_keycenter=106
+lokey=106 hikey=107
+hivel=31
+offset=0 end=35169
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 108 0-R.wav
+pitch_keycenter=108
+lokey=108 hikey=109
+hivel=31
+offset=0 end=35082
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 110 0-R.wav
+pitch_keycenter=110
+lokey=110 hikey=111
+hivel=31
+offset=0 end=48404
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 112 0-R.wav
+pitch_keycenter=112
+lokey=112 hikey=123
+hivel=31
+offset=0 end=35145
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<group>
+group_label=88StageGrand1
+
+<region>
+sample=88StageGrand Samples/88StageGrand 027 0-L.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=32 hivel=63
+offset=0 end=42888
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 030 0-L.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=32 hivel=63
+offset=0 end=40968
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 032 0-L.wav
+pitch_keycenter=32
+lokey=32 hikey=33
+lovel=32 hivel=63
+offset=0 end=42576
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 034 0-L.wav
+pitch_keycenter=34
+lokey=34 hikey=35
+lovel=32 hivel=63
+offset=0 end=40647
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 037 0-L.wav
+pitch_keycenter=37
+lokey=36 hikey=38
+lovel=32 hivel=63
+offset=0 end=40710
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 039 0-L.wav
+key=39
+lovel=32 hivel=63
+offset=0 end=41176
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 042 0-L.wav
+pitch_keycenter=42
+lokey=40 hikey=43
+lovel=32 hivel=63
+offset=0 end=40412
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 044 0-L.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+lovel=32 hivel=63
+offset=0 end=42250
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 046 0-L.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+lovel=32 hivel=63
+offset=0 end=38081
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 048 0-L.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+lovel=32 hivel=63
+offset=0 end=40504
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 050 0-L.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+lovel=32 hivel=63
+offset=0 end=39613
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 052 0-L.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+lovel=32 hivel=63
+offset=0 end=39470
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 054 0-L.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+lovel=32 hivel=63
+offset=0 end=38012
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 056 0-L.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+lovel=32 hivel=63
+offset=0 end=38438
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 058 0-L.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+lovel=32 hivel=63
+offset=0 end=38085
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 060 0-L.wav
+pitch_keycenter=60
+lokey=60 hikey=61
+lovel=32 hivel=63
+offset=0 end=39156
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 062 0-L.wav
+pitch_keycenter=62
+lokey=62 hikey=63
+lovel=32 hivel=63
+offset=0 end=38834
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 064 0-L.wav
+pitch_keycenter=64
+lokey=64 hikey=65
+lovel=32 hivel=63
+offset=0 end=37367
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 066 0-L.wav
+pitch_keycenter=66
+lokey=66 hikey=67
+lovel=32 hivel=63
+offset=0 end=36234
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 068 0-L.wav
+pitch_keycenter=68
+lokey=68 hikey=69
+lovel=32 hivel=63
+offset=0 end=35837
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 070 0-L.wav
+pitch_keycenter=70
+lokey=70 hikey=71
+lovel=32 hivel=63
+offset=0 end=38029
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 072 0-L.wav
+pitch_keycenter=72
+lokey=72 hikey=73
+lovel=32 hivel=63
+offset=0 end=29194
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 074 0-L.wav
+pitch_keycenter=74
+lokey=74 hikey=75
+lovel=32 hivel=63
+offset=0 end=32460
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 076 0-L.wav
+pitch_keycenter=76
+lokey=76 hikey=77
+lovel=32 hivel=63
+offset=0 end=20449
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 078 0-L.wav
+pitch_keycenter=78
+lokey=78 hikey=79
+lovel=32 hivel=63
+offset=0 end=32380
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 080 0-L.wav
+pitch_keycenter=80
+lokey=80 hikey=81
+lovel=32 hivel=63
+offset=0 end=36338
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 082 0-L.wav
+pitch_keycenter=82
+lokey=82 hikey=83
+lovel=32 hivel=63
+offset=0 end=35521
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 084 0-L.wav
+pitch_keycenter=84
+lokey=84 hikey=85
+lovel=32 hivel=63
+offset=0 end=18077
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 086 0-L.wav
+pitch_keycenter=86
+lokey=86 hikey=87
+lovel=32 hivel=63
+offset=0 end=30530
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 088 0-L.wav
+pitch_keycenter=88
+lokey=88 hikey=89
+lovel=32 hivel=63
+offset=0 end=33282
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 090 0-L.wav
+pitch_keycenter=90
+lokey=90 hikey=91
+lovel=32 hivel=63
+offset=0 end=24596
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 092 0-L.wav
+pitch_keycenter=92
+lokey=92 hikey=93
+lovel=32 hivel=63
+offset=0 end=28953
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 094 0-L.wav
+pitch_keycenter=94
+lokey=94 hikey=95
+lovel=32 hivel=63
+offset=0 end=28436
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 096 0-L.wav
+key=96
+lovel=32 hivel=63
+offset=0 end=29056
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 098 0-L.wav
+pitch_keycenter=98
+lokey=97 hikey=99
+lovel=32 hivel=63
+offset=0 end=16628
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 100 0-L.wav
+pitch_keycenter=100
+lokey=100 hikey=101
+lovel=32 hivel=63
+offset=0 end=16418
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 102 0-L.wav
+pitch_keycenter=102
+lokey=102 hikey=103
+lovel=32 hivel=63
+offset=0 end=7881
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 104 0-L.wav
+pitch_keycenter=104
+lokey=104 hikey=105
+lovel=32 hivel=63
+offset=0 end=7629
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 106 0-L.wav
+pitch_keycenter=106
+lokey=106 hikey=107
+lovel=32 hivel=63
+offset=0 end=7061
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 108 0-L.wav
+pitch_keycenter=108
+lokey=108 hikey=109
+lovel=32 hivel=63
+offset=0 end=8267
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 110 0-L.wav
+pitch_keycenter=110
+lokey=110 hikey=111
+lovel=32 hivel=63
+offset=0 end=9175
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 112 0-L.wav
+pitch_keycenter=112
+lokey=112 hikey=123
+lovel=32 hivel=63
+offset=0 end=6431
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 025 0-R.wav
+pitch_keycenter=25
+lokey=12 hikey=26
+hivel=31
+offset=0 end=55363
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<group>
+group_label=88StageGrand2
+
+<region>
+sample=88StageGrand Samples/88StageGrand 025 0-L.wav
+pitch_keycenter=25
+lokey=12 hikey=26
+lovel=32 hivel=63
+offset=0 end=43161
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 027 0-R.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=32 hivel=63
+offset=0 end=42907
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 030 0-R.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=32 hivel=63
+offset=0 end=43148
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 032 0-R.wav
+pitch_keycenter=32
+lokey=32 hikey=33
+lovel=32 hivel=63
+offset=0 end=42135
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 034 0-R.wav
+pitch_keycenter=34
+lokey=34 hikey=35
+lovel=32 hivel=63
+offset=0 end=40056
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 037 0-R.wav
+pitch_keycenter=37
+lokey=36 hikey=38
+lovel=32 hivel=63
+offset=0 end=40597
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 039 0-R.wav
+key=39
+lovel=32 hivel=63
+offset=0 end=39565
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 042 0-R.wav
+pitch_keycenter=42
+lokey=40 hikey=43
+lovel=32 hivel=63
+offset=0 end=40501
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 044 0-R.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+lovel=32 hivel=63
+offset=0 end=40005
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 046 0-R.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+lovel=32 hivel=63
+offset=0 end=39177
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 048 0-R.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+lovel=32 hivel=63
+offset=0 end=37794
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 050 0-R.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+lovel=32 hivel=63
+offset=0 end=38205
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 052 0-R.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+lovel=32 hivel=63
+offset=0 end=38144
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 054 0-R.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+lovel=32 hivel=63
+offset=0 end=37959
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 056 0-R.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+lovel=32 hivel=63
+offset=0 end=39226
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 058 0-R.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+lovel=32 hivel=63
+offset=0 end=36250
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 060 0-R.wav
+pitch_keycenter=60
+lokey=60 hikey=61
+lovel=32 hivel=63
+offset=0 end=36391
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 062 0-R.wav
+pitch_keycenter=62
+lokey=62 hikey=63
+lovel=32 hivel=63
+offset=0 end=37121
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 064 0-R.wav
+pitch_keycenter=64
+lokey=64 hikey=65
+lovel=32 hivel=63
+offset=0 end=37173
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 066 0-R.wav
+pitch_keycenter=66
+lokey=66 hikey=67
+lovel=32 hivel=63
+offset=0 end=36221
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 068 0-R.wav
+pitch_keycenter=68
+lokey=68 hikey=69
+lovel=32 hivel=63
+offset=0 end=30275
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 070 0-R.wav
+pitch_keycenter=70
+lokey=70 hikey=71
+lovel=32 hivel=63
+offset=0 end=36426
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 072 0-R.wav
+pitch_keycenter=72
+lokey=72 hikey=73
+lovel=32 hivel=63
+offset=0 end=35783
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 074 0-R.wav
+pitch_keycenter=74
+lokey=74 hikey=75
+lovel=32 hivel=63
+offset=0 end=21508
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 076 0-R.wav
+pitch_keycenter=76
+lokey=76 hikey=77
+lovel=32 hivel=63
+offset=0 end=35390
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 078 0-R.wav
+pitch_keycenter=78
+lokey=78 hikey=79
+lovel=32 hivel=63
+offset=0 end=36597
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 080 0-R.wav
+pitch_keycenter=80
+lokey=80 hikey=81
+lovel=32 hivel=63
+offset=0 end=35543
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 082 0-R.wav
+pitch_keycenter=82
+lokey=82 hikey=83
+lovel=32 hivel=63
+offset=0 end=35678
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 084 0-R.wav
+pitch_keycenter=84
+lokey=84 hikey=85
+lovel=32 hivel=63
+offset=0 end=26542
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 086 0-R.wav
+pitch_keycenter=86
+lokey=86 hikey=87
+lovel=32 hivel=63
+offset=0 end=25937
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 088 0-R.wav
+pitch_keycenter=88
+lokey=88 hikey=89
+lovel=32 hivel=63
+offset=0 end=31629
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 090 0-R.wav
+pitch_keycenter=90
+lokey=90 hikey=91
+lovel=32 hivel=63
+offset=0 end=34667
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 092 0-R.wav
+pitch_keycenter=92
+lokey=92 hikey=93
+lovel=32 hivel=63
+offset=0 end=31710
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 094 0-R.wav
+pitch_keycenter=94
+lokey=94 hikey=95
+lovel=32 hivel=63
+offset=0 end=24915
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 096 0-R.wav
+key=96
+lovel=32 hivel=63
+offset=0 end=9807
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 098 0-R.wav
+pitch_keycenter=98
+lokey=97 hikey=99
+lovel=32 hivel=63
+offset=0 end=25611
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 100 0-R.wav
+pitch_keycenter=100
+lokey=100 hikey=101
+lovel=32 hivel=63
+offset=0 end=15583
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 102 0-R.wav
+pitch_keycenter=102
+lokey=102 hikey=103
+lovel=32 hivel=63
+offset=0 end=12076
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 104 0-R.wav
+pitch_keycenter=104
+lokey=104 hikey=105
+lovel=32 hivel=63
+offset=0 end=18915
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 106 0-R.wav
+pitch_keycenter=106
+lokey=106 hikey=107
+lovel=32 hivel=63
+offset=0 end=8439
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 108 0-R.wav
+pitch_keycenter=108
+lokey=108 hikey=109
+lovel=32 hivel=63
+offset=0 end=18858
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 110 0-R.wav
+pitch_keycenter=110
+lokey=110 hikey=111
+lovel=32 hivel=63
+offset=0 end=12535
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 112 0-R.wav
+pitch_keycenter=112
+lokey=112 hikey=123
+lovel=32 hivel=63
+offset=0 end=8719
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<group>
+group_label=88StageGrand3
+
+<region>
+sample=88StageGrand Samples/88StageGrand 027 0-L.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=64 hivel=95
+offset=0 end=43334
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 030 0-L.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=64 hivel=95
+offset=0 end=41520
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 032 0-L.wav
+pitch_keycenter=32
+lokey=32 hikey=33
+lovel=64 hivel=95
+offset=0 end=42971
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 034 0-L.wav
+pitch_keycenter=34
+lokey=34 hikey=35
+lovel=64 hivel=95
+offset=0 end=40719
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 037 0-L.wav
+pitch_keycenter=37
+lokey=36 hikey=38
+lovel=64 hivel=95
+offset=0 end=40491
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 039 0-L.wav
+key=39
+lovel=64 hivel=95
+offset=0 end=42389
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 042 0-L.wav
+pitch_keycenter=42
+lokey=40 hikey=43
+lovel=64 hivel=95
+offset=0 end=41486
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 044 0-L.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+lovel=64 hivel=95
+offset=0 end=41630
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 046 0-L.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+lovel=64 hivel=95
+offset=0 end=37951
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 048 0-L.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+lovel=64 hivel=95
+offset=0 end=40525
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 050 0-L.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+lovel=64 hivel=95
+offset=0 end=39657
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 052 0-L.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+lovel=64 hivel=95
+offset=0 end=39871
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 054 0-L.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+lovel=64 hivel=95
+offset=0 end=38802
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 056 0-L.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+lovel=64 hivel=95
+offset=0 end=38760
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 058 0-L.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+lovel=64 hivel=95
+offset=0 end=38924
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 060 0-L.wav
+pitch_keycenter=60
+lokey=60 hikey=61
+lovel=64 hivel=95
+offset=0 end=39488
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 062 0-L.wav
+pitch_keycenter=62
+lokey=62 hikey=63
+lovel=64 hivel=95
+offset=0 end=38905
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 064 0-L.wav
+pitch_keycenter=64
+lokey=64 hikey=65
+lovel=64 hivel=95
+offset=0 end=37723
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 066 0-L.wav
+pitch_keycenter=66
+lokey=66 hikey=67
+lovel=64 hivel=95
+offset=0 end=36637
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 068 0-L.wav
+pitch_keycenter=68
+lokey=68 hikey=69
+lovel=64 hivel=95
+offset=0 end=35817
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 070 0-L.wav
+pitch_keycenter=70
+lokey=70 hikey=71
+lovel=64 hivel=95
+offset=0 end=37879
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 072 0-L.wav
+pitch_keycenter=72
+lokey=72 hikey=73
+lovel=64 hivel=95
+offset=0 end=32430
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 074 0-L.wav
+pitch_keycenter=74
+lokey=74 hikey=75
+lovel=64 hivel=95
+offset=0 end=35508
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 076 0-L.wav
+pitch_keycenter=76
+lokey=76 hikey=77
+lovel=64 hivel=95
+offset=0 end=20750
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 078 0-L.wav
+pitch_keycenter=78
+lokey=78 hikey=79
+lovel=64 hivel=95
+offset=0 end=32595
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 080 0-L.wav
+pitch_keycenter=80
+lokey=80 hikey=81
+lovel=64 hivel=95
+offset=0 end=35866
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 082 0-L.wav
+pitch_keycenter=82
+lokey=82 hikey=83
+lovel=64 hivel=95
+offset=0 end=31077
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 084 0-L.wav
+pitch_keycenter=84
+lokey=84 hikey=85
+lovel=64 hivel=95
+offset=0 end=32260
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 086 0-L.wav
+pitch_keycenter=86
+lokey=86 hikey=87
+lovel=64 hivel=95
+offset=0 end=15314
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 088 0-L.wav
+pitch_keycenter=88
+lokey=88 hikey=89
+lovel=64 hivel=95
+offset=0 end=14384
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 090 0-L.wav
+pitch_keycenter=90
+lokey=90 hikey=91
+lovel=64 hivel=95
+offset=0 end=13919
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 092 0-L.wav
+pitch_keycenter=92
+lokey=92 hikey=93
+lovel=64 hivel=95
+offset=0 end=22143
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 094 0-L.wav
+pitch_keycenter=94
+lokey=94 hikey=95
+lovel=64 hivel=95
+offset=0 end=19716
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 096 0-L.wav
+key=96
+lovel=64 hivel=95
+offset=0 end=11861
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 098 0-L.wav
+pitch_keycenter=98
+lokey=97 hikey=99
+lovel=64 hivel=95
+offset=0 end=14854
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 100 0-L.wav
+pitch_keycenter=100
+lokey=100 hikey=101
+lovel=64 hivel=95
+offset=0 end=11683
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 102 0-L.wav
+pitch_keycenter=102
+lokey=102 hikey=103
+lovel=64 hivel=95
+offset=0 end=9416
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 104 0-L.wav
+pitch_keycenter=104
+lokey=104 hikey=105
+lovel=64 hivel=95
+offset=0 end=6508
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 106 0-L.wav
+pitch_keycenter=106
+lokey=106 hikey=107
+lovel=64 hivel=95
+offset=0 end=5968
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 108 0-L.wav
+pitch_keycenter=108
+lokey=108 hikey=109
+lovel=64 hivel=95
+offset=0 end=6663
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 110 0-L.wav
+pitch_keycenter=110
+lokey=110 hikey=111
+lovel=64 hivel=95
+offset=0 end=5938
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 112 0-L.wav
+pitch_keycenter=112
+lokey=112 hikey=123
+lovel=64 hivel=95
+offset=0 end=5291
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 025 0-R.wav
+pitch_keycenter=25
+lokey=12 hikey=26
+lovel=32 hivel=63
+offset=0 end=44481
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<group>
+group_label=88StageGrand4
+
+<region>
+sample=88StageGrand Samples/88StageGrand 025 0-L.wav
+pitch_keycenter=25
+lokey=12 hikey=26
+lovel=64 hivel=95
+offset=0 end=43181
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 027 0-R.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=64 hivel=95
+offset=0 end=43316
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 030 0-R.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=64 hivel=95
+offset=0 end=43614
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 032 0-R.wav
+pitch_keycenter=32
+lokey=32 hikey=33
+lovel=64 hivel=95
+offset=0 end=41710
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 034 0-R.wav
+pitch_keycenter=34
+lokey=34 hikey=35
+lovel=64 hivel=95
+offset=0 end=40574
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 037 0-R.wav
+pitch_keycenter=37
+lokey=36 hikey=38
+lovel=64 hivel=95
+offset=0 end=40367
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 039 0-R.wav
+key=39
+lovel=64 hivel=95
+offset=0 end=39125
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 042 0-R.wav
+pitch_keycenter=42
+lokey=40 hikey=43
+lovel=64 hivel=95
+offset=0 end=39708
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 044 0-R.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+lovel=64 hivel=95
+offset=0 end=39788
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 046 0-R.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+lovel=64 hivel=95
+offset=0 end=39606
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 048 0-R.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+lovel=64 hivel=95
+offset=0 end=37029
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 050 0-R.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+lovel=64 hivel=95
+offset=0 end=38339
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 052 0-R.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+lovel=64 hivel=95
+offset=0 end=37895
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 054 0-R.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+lovel=64 hivel=95
+offset=0 end=37683
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 056 0-R.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+lovel=64 hivel=95
+offset=0 end=39082
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 058 0-R.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+lovel=64 hivel=95
+offset=0 end=36922
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 060 0-R.wav
+pitch_keycenter=60
+lokey=60 hikey=61
+lovel=64 hivel=95
+offset=0 end=36261
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 062 0-R.wav
+pitch_keycenter=62
+lokey=62 hikey=63
+lovel=64 hivel=95
+offset=0 end=36525
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 064 0-R.wav
+pitch_keycenter=64
+lokey=64 hikey=65
+lovel=64 hivel=95
+offset=0 end=36764
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 066 0-R.wav
+pitch_keycenter=66
+lokey=66 hikey=67
+lovel=64 hivel=95
+offset=0 end=35949
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 068 0-R.wav
+pitch_keycenter=68
+lokey=68 hikey=69
+lovel=64 hivel=95
+offset=0 end=31011
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 070 0-R.wav
+pitch_keycenter=70
+lokey=70 hikey=71
+lovel=64 hivel=95
+offset=0 end=30449
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 072 0-R.wav
+pitch_keycenter=72
+lokey=72 hikey=73
+lovel=64 hivel=95
+offset=0 end=35367
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 074 0-R.wav
+pitch_keycenter=74
+lokey=74 hikey=75
+lovel=64 hivel=95
+offset=0 end=19083
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 076 0-R.wav
+pitch_keycenter=76
+lokey=76 hikey=77
+lovel=64 hivel=95
+offset=0 end=35406
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 078 0-R.wav
+pitch_keycenter=78
+lokey=78 hikey=79
+lovel=64 hivel=95
+offset=0 end=36023
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 080 0-R.wav
+pitch_keycenter=80
+lokey=80 hikey=81
+lovel=64 hivel=95
+offset=0 end=34241
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 082 0-R.wav
+pitch_keycenter=82
+lokey=82 hikey=83
+lovel=64 hivel=95
+offset=0 end=16826
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 084 0-R.wav
+pitch_keycenter=84
+lokey=84 hikey=85
+lovel=64 hivel=95
+offset=0 end=13650
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 086 0-R.wav
+pitch_keycenter=86
+lokey=86 hikey=87
+lovel=64 hivel=95
+offset=0 end=12893
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 088 0-R.wav
+pitch_keycenter=88
+lokey=88 hikey=89
+lovel=64 hivel=95
+offset=0 end=23368
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 090 0-R.wav
+pitch_keycenter=90
+lokey=90 hikey=91
+lovel=64 hivel=95
+offset=0 end=18974
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 092 0-R.wav
+pitch_keycenter=92
+lokey=92 hikey=93
+lovel=64 hivel=95
+offset=0 end=17143
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 094 0-R.wav
+pitch_keycenter=94
+lokey=94 hikey=95
+lovel=64 hivel=95
+offset=0 end=10854
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 096 0-R.wav
+key=96
+lovel=64 hivel=95
+offset=0 end=9450
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 098 0-R.wav
+pitch_keycenter=98
+lokey=97 hikey=99
+lovel=64 hivel=95
+offset=0 end=9466
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 100 0-R.wav
+pitch_keycenter=100
+lokey=100 hikey=101
+lovel=64 hivel=95
+offset=0 end=9521
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 102 0-R.wav
+pitch_keycenter=102
+lokey=102 hikey=103
+lovel=64 hivel=95
+offset=0 end=8445
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 104 0-R.wav
+pitch_keycenter=104
+lokey=104 hikey=105
+lovel=64 hivel=95
+offset=0 end=9171
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 106 0-R.wav
+pitch_keycenter=106
+lokey=106 hikey=107
+lovel=64 hivel=95
+offset=0 end=7843
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 108 0-R.wav
+pitch_keycenter=108
+lokey=108 hikey=109
+lovel=64 hivel=95
+offset=0 end=6509
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 110 0-R.wav
+pitch_keycenter=110
+lokey=110 hikey=111
+lovel=64 hivel=95
+offset=0 end=5802
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 112 0-R.wav
+pitch_keycenter=112
+lokey=112 hikey=123
+lovel=64 hivel=95
+offset=0 end=5169
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<group>
+group_label=88StageGrand5
+
+<region>
+sample=88StageGrand Samples/88StageGrand 027 1-L.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=96
+offset=0 end=43860
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 030 1-L.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=96
+offset=0 end=42117
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 032 1-L.wav
+pitch_keycenter=32
+lokey=32 hikey=33
+lovel=96
+offset=0 end=43397
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 034 1-L.wav
+pitch_keycenter=34
+lokey=34 hikey=35
+lovel=96
+offset=0 end=41794
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 037 1-L.wav
+pitch_keycenter=37
+lokey=36 hikey=38
+lovel=96
+offset=0 end=40488
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 039 1-L.wav
+key=39
+lovel=96
+offset=0 end=42674
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 042 1-L.wav
+pitch_keycenter=42
+lokey=40 hikey=43
+lovel=96
+offset=0 end=41510
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 044 1-L.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+lovel=96
+offset=0 end=42053
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 046 1-L.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+lovel=96
+offset=0 end=39024
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 048 1-L.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+lovel=96
+offset=0 end=40873
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 050 1-L.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+lovel=96
+offset=0 end=39682
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 052 1-L.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+lovel=96
+offset=0 end=40301
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 054 1-L.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+lovel=96
+offset=0 end=38946
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 056 1-L.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+lovel=96
+offset=0 end=39193
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 058 1-L.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+lovel=96
+offset=0 end=38945
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 060 1-L.wav
+pitch_keycenter=60
+lokey=60 hikey=61
+lovel=96
+offset=0 end=39507
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 062 1-L.wav
+pitch_keycenter=62
+lokey=62 hikey=63
+lovel=96
+offset=0 end=39210
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 064 1-L.wav
+pitch_keycenter=64
+lokey=64 hikey=65
+lovel=96
+offset=0 end=37723
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 066 1-L.wav
+pitch_keycenter=66
+lokey=66 hikey=67
+lovel=96
+offset=0 end=36530
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 068 1-L.wav
+pitch_keycenter=68
+lokey=68 hikey=69
+lovel=96
+offset=0 end=35662
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 070 1-L.wav
+pitch_keycenter=70
+lokey=70 hikey=71
+lovel=96
+offset=0 end=38116
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 072 1-L.wav
+pitch_keycenter=72
+lokey=72 hikey=73
+lovel=96
+offset=0 end=28143
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 074 1-L.wav
+pitch_keycenter=74
+lokey=74 hikey=75
+lovel=96
+offset=0 end=35477
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 076 1-L.wav
+pitch_keycenter=76
+lokey=76 hikey=77
+lovel=96
+offset=0 end=20889
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 078 1-L.wav
+pitch_keycenter=78
+lokey=78 hikey=79
+lovel=96
+offset=0 end=29319
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 080 1-L.wav
+pitch_keycenter=80
+lokey=80 hikey=81
+lovel=96
+offset=0 end=35628
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 082 1-L.wav
+pitch_keycenter=82
+lokey=82 hikey=83
+lovel=96
+offset=0 end=28697
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 084 1-L.wav
+pitch_keycenter=84
+lokey=84 hikey=85
+lovel=96
+offset=0 end=27691
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 086 1-L.wav
+pitch_keycenter=86
+lokey=86 hikey=87
+lovel=96
+offset=0 end=15313
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 088 1-L.wav
+pitch_keycenter=88
+lokey=88 hikey=89
+lovel=96
+offset=0 end=14068
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 090 1-L.wav
+pitch_keycenter=90
+lokey=90 hikey=91
+lovel=96
+offset=0 end=15078
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 092 1-L.wav
+pitch_keycenter=92
+lokey=92 hikey=93
+lovel=96
+offset=0 end=18946
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 094 1-L.wav
+pitch_keycenter=94
+lokey=94 hikey=95
+lovel=96
+offset=0 end=17421
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 096 1-L.wav
+key=96
+lovel=96
+offset=0 end=11008
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 098 1-L.wav
+pitch_keycenter=98
+lokey=97 hikey=99
+lovel=96
+offset=0 end=13034
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 100 1-L.wav
+pitch_keycenter=100
+lokey=100 hikey=101
+lovel=96
+offset=0 end=8903
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 102 1-L.wav
+pitch_keycenter=102
+lokey=102 hikey=103
+lovel=96
+offset=0 end=9431
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 104 1-L.wav
+pitch_keycenter=104
+lokey=104 hikey=105
+lovel=96
+offset=0 end=6501
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 106 1-L.wav
+pitch_keycenter=106
+lokey=106 hikey=107
+lovel=96
+offset=0 end=5786
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 108 1-L.wav
+pitch_keycenter=108
+lokey=108 hikey=109
+lovel=96
+offset=0 end=5870
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 110 1-L.wav
+pitch_keycenter=110
+lokey=110 hikey=111
+lovel=96
+offset=0 end=5230
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 112 1-L.wav
+pitch_keycenter=112
+lokey=112 hikey=123
+lovel=96
+offset=0 end=4659
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 025 0-R.wav
+pitch_keycenter=25
+lokey=12 hikey=26
+lovel=64 hivel=95
+offset=0 end=43180
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<group>
+group_label=88StageGrand6
+
+<region>
+sample=88StageGrand Samples/88StageGrand 025 1-L.wav
+pitch_keycenter=25
+lokey=12 hikey=26
+lovel=96
+offset=0 end=43957
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 030 0-L.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+hivel=31
+offset=0 end=40511
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 034 0-L.wav
+pitch_keycenter=34
+lokey=34 hikey=35
+hivel=31
+offset=0 end=40647
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 039 0-L.wav
+key=39
+hivel=31
+offset=0 end=41173
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 044 0-L.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+hivel=31
+offset=0 end=41804
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 048 0-L.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+hivel=31
+offset=0 end=40340
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 052 0-L.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+hivel=31
+offset=0 end=45865
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 056 0-L.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+hivel=31
+offset=0 end=39075
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 060 0-L.wav
+pitch_keycenter=60
+lokey=60 hikey=61
+hivel=31
+offset=0 end=39348
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 064 0-L.wav
+pitch_keycenter=64
+lokey=64 hikey=65
+hivel=31
+offset=0 end=49042
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 068 0-L.wav
+pitch_keycenter=68
+lokey=68 hikey=69
+hivel=31
+offset=0 end=37002
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 072 0-L.wav
+pitch_keycenter=72
+lokey=72 hikey=73
+hivel=31
+offset=0 end=48694
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 076 0-L.wav
+pitch_keycenter=76
+lokey=76 hikey=77
+hivel=31
+offset=0 end=26872
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 080 0-L.wav
+pitch_keycenter=80
+lokey=80 hikey=81
+hivel=31
+offset=0 end=36539
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 084 0-L.wav
+pitch_keycenter=84
+lokey=84 hikey=85
+hivel=31
+offset=0 end=32985
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 088 0-L.wav
+pitch_keycenter=88
+lokey=88 hikey=89
+hivel=31
+offset=0 end=62323
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 092 0-L.wav
+pitch_keycenter=92
+lokey=92 hikey=93
+hivel=31
+offset=0 end=65062
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 096 0-L.wav
+key=96
+hivel=31
+offset=0 end=51005
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 100 0-L.wav
+pitch_keycenter=100
+lokey=100 hikey=101
+hivel=31
+offset=0 end=52202
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 104 0-L.wav
+pitch_keycenter=104
+lokey=104 hikey=105
+hivel=31
+offset=0 end=35175
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 108 0-L.wav
+pitch_keycenter=108
+lokey=108 hikey=109
+hivel=31
+offset=0 end=35153
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 112 0-L.wav
+pitch_keycenter=112
+lokey=112 hikey=123
+hivel=31
+offset=0 end=35162
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 027 1-R.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+lovel=96
+offset=0 end=43468
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 032 1-R.wav
+pitch_keycenter=32
+lokey=32 hikey=33
+lovel=96
+offset=0 end=42140
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 037 1-R.wav
+pitch_keycenter=37
+lokey=36 hikey=38
+lovel=96
+offset=0 end=40702
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 042 1-R.wav
+pitch_keycenter=42
+lokey=40 hikey=43
+lovel=96
+offset=0 end=40423
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 046 1-R.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+lovel=96
+offset=0 end=39965
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 050 1-R.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+lovel=96
+offset=0 end=38201
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 054 1-R.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+lovel=96
+offset=0 end=37684
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 058 1-R.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+lovel=96
+offset=0 end=36994
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 062 1-R.wav
+pitch_keycenter=62
+lokey=62 hikey=63
+lovel=96
+offset=0 end=36525
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 066 1-R.wav
+pitch_keycenter=66
+lokey=66 hikey=67
+lovel=96
+offset=0 end=35931
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 070 1-R.wav
+pitch_keycenter=70
+lokey=70 hikey=71
+lovel=96
+offset=0 end=30457
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 074 1-R.wav
+pitch_keycenter=74
+lokey=74 hikey=75
+lovel=96
+offset=0 end=19200
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 078 1-R.wav
+pitch_keycenter=78
+lokey=78 hikey=79
+lovel=96
+offset=0 end=35757
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 082 1-R.wav
+pitch_keycenter=82
+lokey=82 hikey=83
+lovel=96
+offset=0 end=16808
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 086 1-R.wav
+pitch_keycenter=86
+lokey=86 hikey=87
+lovel=96
+offset=0 end=13753
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 090 1-R.wav
+pitch_keycenter=90
+lokey=90 hikey=91
+lovel=96
+offset=0 end=18930
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 094 1-R.wav
+pitch_keycenter=94
+lokey=94 hikey=95
+lovel=96
+offset=0 end=9435
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 098 1-R.wav
+pitch_keycenter=98
+lokey=97 hikey=99
+lovel=96
+offset=0 end=9214
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 102 1-R.wav
+pitch_keycenter=102
+lokey=102 hikey=103
+lovel=96
+offset=0 end=8438
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 106 1-R.wav
+pitch_keycenter=106
+lokey=106 hikey=107
+lovel=96
+offset=0 end=7455
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 110 1-R.wav
+pitch_keycenter=110
+lokey=110 hikey=111
+lovel=96
+offset=0 end=5606
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<group>
+group_label=88StageGrand7
+
+<region>
+sample=88StageGrand Samples/88StageGrand 027 0-L.wav
+pitch_keycenter=27
+lokey=27 hikey=28
+hivel=31
+offset=0 end=42809
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 032 0-L.wav
+pitch_keycenter=32
+lokey=32 hikey=33
+hivel=31
+offset=0 end=41728
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 037 0-L.wav
+pitch_keycenter=37
+lokey=36 hikey=38
+hivel=31
+offset=0 end=40257
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 042 0-L.wav
+pitch_keycenter=42
+lokey=40 hikey=43
+hivel=31
+offset=0 end=40238
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 046 0-L.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+hivel=31
+offset=0 end=37960
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 050 0-L.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+hivel=31
+offset=0 end=39354
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 054 0-L.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+hivel=31
+offset=0 end=38250
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 058 0-L.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+hivel=31
+offset=0 end=38062
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 062 0-L.wav
+pitch_keycenter=62
+lokey=62 hikey=63
+hivel=31
+offset=0 end=38533
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 066 0-L.wav
+pitch_keycenter=66
+lokey=66 hikey=67
+hivel=31
+offset=0 end=36400
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 070 0-L.wav
+pitch_keycenter=70
+lokey=70 hikey=71
+hivel=31
+offset=0 end=51994
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 074 0-L.wav
+pitch_keycenter=74
+lokey=74 hikey=75
+hivel=31
+offset=0 end=30826
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 078 0-L.wav
+pitch_keycenter=78
+lokey=78 hikey=79
+hivel=31
+offset=0 end=34182
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 082 0-L.wav
+pitch_keycenter=82
+lokey=82 hikey=83
+hivel=31
+offset=0 end=36916
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 086 0-L.wav
+pitch_keycenter=86
+lokey=86 hikey=87
+hivel=31
+offset=0 end=37833
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 090 0-L.wav
+pitch_keycenter=90
+lokey=90 hikey=91
+hivel=31
+offset=0 end=47764
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 094 0-L.wav
+pitch_keycenter=94
+lokey=94 hikey=95
+hivel=31
+offset=0 end=52301
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 098 0-L.wav
+pitch_keycenter=98
+lokey=97 hikey=99
+hivel=31
+offset=0 end=48380
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 102 0-L.wav
+pitch_keycenter=102
+lokey=102 hikey=103
+hivel=31
+offset=0 end=33449
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 106 0-L.wav
+pitch_keycenter=106
+lokey=106 hikey=107
+hivel=31
+offset=0 end=34857
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 110 0-L.wav
+pitch_keycenter=110
+lokey=110 hikey=111
+hivel=31
+offset=0 end=48356
+pan=-100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 025 1-R.wav
+pitch_keycenter=25
+lokey=12 hikey=26
+lovel=96
+offset=0 end=44461
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 030 1-R.wav
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=96
+offset=0 end=44987
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 034 1-R.wav
+pitch_keycenter=34
+lokey=34 hikey=35
+lovel=96
+offset=0 end=40701
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 039 1-R.wav
+key=39
+lovel=96
+offset=0 end=39717
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 044 1-R.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+lovel=96
+offset=0 end=40021
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 048 1-R.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+lovel=96
+offset=0 end=37027
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 052 1-R.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+lovel=96
+offset=0 end=37913
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 056 1-R.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+lovel=96
+offset=0 end=39320
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 060 1-R.wav
+pitch_keycenter=60
+lokey=60 hikey=61
+lovel=96
+offset=0 end=36006
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 064 1-R.wav
+pitch_keycenter=64
+lokey=64 hikey=65
+lovel=96
+offset=0 end=36770
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 068 1-R.wav
+pitch_keycenter=68
+lokey=68 hikey=69
+lovel=96
+offset=0 end=22143
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 072 1-R.wav
+pitch_keycenter=72
+lokey=72 hikey=73
+lovel=96
+offset=0 end=35201
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 076 1-R.wav
+pitch_keycenter=76
+lokey=76 hikey=77
+lovel=96
+offset=0 end=35543
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 080 1-R.wav
+pitch_keycenter=80
+lokey=80 hikey=81
+lovel=96
+offset=0 end=30590
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 084 1-R.wav
+pitch_keycenter=84
+lokey=84 hikey=85
+lovel=96
+offset=0 end=13295
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 088 1-R.wav
+pitch_keycenter=88
+lokey=88 hikey=89
+lovel=96
+offset=0 end=21785
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 092 1-R.wav
+pitch_keycenter=92
+lokey=92 hikey=93
+lovel=96
+offset=0 end=16852
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 096 1-R.wav
+key=96
+lovel=96
+offset=0 end=8739
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 100 1-R.wav
+pitch_keycenter=100
+lokey=100 hikey=101
+lovel=96
+offset=0 end=9505
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 104 1-R.wav
+pitch_keycenter=104
+lokey=104 hikey=105
+lovel=96
+offset=0 end=8742
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 108 1-R.wav
+pitch_keycenter=108
+lokey=108 hikey=109
+lovel=96
+offset=0 end=6292
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
+
+<region>
+sample=88StageGrand Samples/88StageGrand 112 1-R.wav
+pitch_keycenter=112
+lokey=112 hikey=123
+lovel=96
+offset=0 end=4993
+pan=100
+ampeg_release=0.10001812246532978
+loop_mode=no_loop 
