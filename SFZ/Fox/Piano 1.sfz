@@ -1,0 +1,626 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : StripedTailz
+//// Category: Unknown
+//// Comment2: Just a lil soundfont made for srb2 and doom, and usage for XG.
+//// - Balanced instuments
+//// 
+////              - Version V1.7 -
+//// - - - - - - - - - - - - - - - - - - - - - - - - -
+////         - - - Instument List - - - 
+//// Banks | Instrument Number | Presets
+//// 0	0	Acoustic Piano
+//// 0	1	Bright Piano
+//// 0	2	CS House Piano
+//// 0	3	Honky-tonk
+//// 0	4	E.Piano 1
+//// 0	5	MT-32 Crystal Piano
+//// 0	6	Harpsichord
+//// 0	7	Clavinet FM
+//// 0	8	Celesta
+//// 0	9	Glockenspiel
+//// 0	10	Music Box
+//// 0	11	Vibraphone
+//// 0	12	Marimba
+//// 0	13	Xylophone
+//// 0	14	Tubular Bells
+//// 0	15	Dulcimer
+//// 0	16	Organ 1
+//// 0	17	Perc Organ
+//// 0	18	Rock Organ
+//// 0	19	Church Organ
+//// 0	20	Reed Organ
+//// 0	21	Accordion
+//// 0	22	Harmonica
+//// 0	23	Bandoneon-1
+//// 0	24	Nylon Guitar
+//// 0	25	Steel Guitar
+//// 0	26	jazz guitar-1
+//// 0	27	clean guitar-1
+//// 0	28	Muted Guitar
+//// 0	29	overdriven guitar
+//// 0	30	Rock Guitar
+//// 0	31	Gt.Harmonics
+//// 0	32	AcouBass 1 ----
+//// 0	33	Deep Bass
+//// 0	34	Picked Bass-1
+//// 0	35	Funky Fretless
+//// 0	36	+++Slap Bass 1
+//// 0	37	SlapBass 2 -----
+//// 0	38	SynthBass1
+//// 0	39	Sub Aqua (Kinda)
+//// 0	40	Violin
+//// 0	41	Viola? yes
+//// 0	42	Cello
+//// 0	43	ContraBass
+//// 0	44	Horror
+//// 0	45	dah
+//// 0	46	buh
+//// 0	47	Timpany
+//// 0	48	Strings
+//// 0	49	Slow Strings
+//// 0	50	Tech Strings 1
+//// 0	51	Tech Strings 2
+//// 0	52	aaa
+//// 0	53	ooo
+//// 0	54	woo
+//// 0	55	Orch. Hit
+//// 0	56	Trumpet 1 -----
+//// 0	57	Trombone 1 -----
+//// 0	58	Tuba -----
+//// 0	59	Sweet Muted
+//// 0	60	Worrrrr
+//// 0	61	DUNN
+//// 0	62	OWWW
+//// 0	63	bwoOOW
+//// 0	64	Soprano Sax
+//// 0	65	Alto Sa_0_65
+//// 0	66	Tenor Both XSw
+//// 0	67	Baritone Sax
+//// 0	68	Oboe -----
+//// 0	69	oOOH
+//// 0	70	Bassoon -----
+//// 0	71	Clarinet
+//// 0	72	her
+//// 0	73	Flute? Kotone.
+//// 0	74	woooohh
+//// 0	75	Pan Flute
+//// 0	76	Bottle Blow
+//// 0	77	Shakuhachi
+//// 0	78	Whistle
+//// 0	79	Ocarina
+//// 0	80	SquareWave
+//// 0	81	Saw Wave
+//// 0	82	CaliopLd
+//// 0	83	Chiffer Lead
+//// 0	84	Charang
+//// 0	85	Lead 6 (voice)
+//// 0	86	5th Saw Wave
+//// 0	87	Bass & Lead
+//// 0	88	Fantasia
+//// 0	89	Cold pad
+//// 0	90	Poly Synth
+//// 0	91	Space Voice
+//// 0	92	Bow'd Glasses
+//// 0	93	Metal Pad
+//// 0	94	Halo Pad
+//// 0	95	Sweep Pad
+//// 0	96	FX 1 [Ice Rain]
+//// 0	97	SoundTrack ------
+//// 0	98	Crystal
+//// 0	99	FX 4 (atmosphere)
+//// 0	100	Brightness
+//// 0	101	Goblin
+//// 0	102	Echo Drops
+//// 0	103	Star Theme
+//// 0	104	biden
+//// 0	105	what?
+//// 0	106	Shamisen
+//// 0	107	Koto
+//// 0	108	real music box
+//// 0	109	Bagpipe
+//// 0	110	southern
+//// 0	111	wtf?
+//// 0	112	tinker bel
+//// 0	113	who tf uses this
+//// 0	114	Steel Drums
+//// 0	115	click clonk
+//// 0	116	TaikoDrm
+//// 0	117	MelodTom
+//// 0	118	Synth Drum
+//// 0	119	RevCymbl
+//// 0	120	Sfx_FretNoiz
+//// 0	121	BrthNoiz
+//// 0	122	Sfx_Seashore
+//// 0	123	Sfx_Tweet
+//// 0	124	SMSTelephone
+//// 0	125	Sfx_Helicptr
+//// 0	126	Sfx_Applause
+//// 0	127	Gun Shot
+//// 1	0	Muffled
+//// 1	1	Sharp
+//// 1	2	Spark Piano
+//// 1	3	Honky
+//// 1	4	Chorus'd Fox
+//// 1	5	Toy Yamaha
+//// 1	6	Raspy piano
+//// 1	7	Clavv
+//// 1	8	Vibe but big
+//// 1	9	Bell?
+//// 1	10	Clicky
+//// 1	11	Toy Vibes
+//// 1	12	wood vibe
+//// 1	13	Xylo
+//// 1	14	toobell
+//// 1	15	SUStained
+//// 1	16	Fox's 60s Organ
+//// 1	17	Fox's Smooth Perc
+//// 1	18	BX-3 Organ
+//// 1	19	MDGentleDGuitar
+//// 1	20	ReedOrgn
+//// 1	21	Tango'd
+//// 1	22	Texas
+//// 1	23	Italian
+//// 1	24	West
+//// 1	25	Stealed
+//// 1	27	Smooth
+//// 1	28	MuteGuitar
+//// 1	29	Overdriven 80s
+//// 1	30	Distorted 70s
+//// 1	31	Cheee
+//// 1	32	Jazz Bass
+//// 1	34	Picked Bass
+//// 1	35	Fretless-1
+//// 1	39	DX Bass
+//// 1	40	Violin? no
+//// 1	42	bassed Violin
+//// 1	43	uhhhhhhhh
+//// 1	47	dunk
+//// 1	48	wurr
+//// 1	49	nurrrrr
+//// 1	50	worrrr
+//// 1	51	werrrrrrr
+//// 1	54	AnaVoice
+//// 1	55	bun
+//// 1	56	bAHHH
+//// 1	57	waAAA
+//// 1	58	aaA
+//// 1	59	wuRRR
+//// 1	62	SynthBrass 1
+//// 1	63	SynthBrass 2
+//// 1	65	sexy
+//// 1	66	smooth
+//// 1	67	groove
+//// 1	70	soooon
+//// 1	73	OrgFlute
+//// 1	75	not so pan'd
+//// 1	76	fwoot
+//// 1	77	ching chong
+//// 1	78	totally not a sine
+//// 1	80	BEEP
+//// 1	81	FM Saw Wave
+//// 1	82	Metal Kotone
+//// 1	83	.Mod Sound
+//// 1	84	Charang
+//// 1	85	oHH
+//// 1	86	weird
+//// 1	87	sawtooth wannabe
+//// 1	88	not really new
+//// 1	90	Fizz
+//// 1	91	String'd pad
+//// 1	93	steel strings
+//// 1	95	soft saw
+//// 1	96	"oo"with extra steps
+//// 1	97	Five Fingers
+//// 1	98	Popcorn
+//// 1	99	Pick'd Halo
+//// 1	100	Bright shines
+//// 1	101	50sSciFi
+//// 1	102	flat
+//// 1	103	FX 8 (sci-fi)
+//// 1	106	Ehh
+//// 1	107	Koto'd
+//// 1	109	Bri'ish
+//// 1	114	GlasPerc
+//// 1	118	Syn.Drum
+//// 1	120	*Gt. Cut Noise
+//// 1	121	*Flute Key Click
+//// 1	122	*Rain
+//// 1	123	*Dog
+//// 1	124	*Telephone 2
+//// 1	125	*Car-Engine
+//// 1	126	*Laughing
+//// 1	127	Sfx_Gunshot
+//// 2	0	Piano 1
+//// 2	1	Piano 2
+//// 2	2	Piano 3
+//// 2	5	E.Piano 2
+//// 2	7	Clavinet
+//// 2	17	Perc. Organ
+//// 2	18	Organ 3
+//// 2	23	Bandoneon
+//// 2	27	Clean Guitar
+//// 2	28	Fuzzed Mutes
+//// 2	29	Doom
+//// 2	30	Doom 2
+//// 2	31	Guitar Harmonics
+//// 2	39	Synth Bass 2
+//// 2	54	SynVox2
+//// 2	66	Tenor Sax
+//// 2	81	ThickSaw
+//// 2	84	FM Guitar
+//// 2	87	Bass&Lead
+//// 2	98	Diamond in the Rough
+//// 2	100	FX 5 (brightness)
+//// 2	114	mystic realm moment
+//// 2	118	Synth Tom
+//// 2	120	*String Slap
+//// 2	122	*Thunder
+//// 2	123	*Horse-Gallop
+//// 2	124	*Door Creaking
+//// 2	125	*Car-Stop
+//// 2	126	*Screaming
+//// 2	127	*Lasergun
+//// 3	39	dunmmm
+//// 3	81	FFFHSSHSHS
+//// 3	122	Wind
+//// 3	123	*Bird 2
+//// 3	124	*Door Close
+//// 3	125	*Car-Pass
+//// 3	126	*Punch
+//// 3	127	*Explosion
+//// 4	39	Synth Bass 2-1
+//// 4	114	Sfx_Xplosion
+//// 4	122	*Stream
+//// 4	124	*Scratch
+//// 4	125	*Car-Crash
+//// 4	126	*Heart Beat
+//// 5	120	Bass Slide
+//// 5	122	*Bubble
+//// 5	124	*Windchime
+//// 5	125	*Siren
+//// 5	126	*Footsteps
+//// 6	81	Seq Ana
+//// 6	125	*Train
+//// 7	125	*Jetplane
+//// 8	18	Organ 3-rockn
+//// 8	24	*Ukulele
+//// 8	25	*12-str Guitar
+//// 8	38	Seq Synth
+//// 8	56	Trumpet 3g
+//// 8	80	SoloSine
+//// 8	115	*Castanets
+//// 8	116	*Concert B.D.
+//// 8	117	*Melo. Tom 2
+//// 8	118	*808 Tom
+//// 8	125	*Starship
+//// 9	125	*Burst Noise
+//// 12	98	SynDrCmp
+//// 16	18	Rotary Organ
+//// 64	0	Sfx_CuttngNz
+//// 64	1	Sfx_CttngNz2
+//// 64	3	Sfx_Str Slap
+//// 64	16	Sfx_Fl.KClik
+//// 64	32	Sfx_Rain
+//// 64	33	Sfx_Thunder
+//// 64	34	Sfx_Wind
+//// 64	35	Sfx_Stream
+//// 64	36	Sfx_Bubble
+//// 64	37	Sfx_Feed
+//// 64	48	Sfx_Dog
+//// 64	49	Sfx_Horse
+//// 64	50	Sfx_Bird 2
+//// 64	54	Sfx_Ghost
+//// 64	55	Sfx_Maou
+//// 64	64	Sfx_Tel.Dial
+//// 64	65	Sfx_DoorSqek
+//// 64	66	Sfx_DoorSlam
+//// 64	67	Sfx_Scratch
+//// 64	68	Sfx_Scratch2
+//// 64	69	Sfx_WindChm
+//// 64	70	Sfx_Telphon2
+//// 64	80	Sfx_CarEngin
+//// 64	81	Sfx_Car Stop
+//// 64	82	Sfx_Car Pass
+//// 64	83	Sfx_CarCrash
+//// 64	84	Sfx_Siren
+//// 64	85	Sfx_Train
+//// 64	86	Sfx_Jetplane
+//// 64	87	Sfx_Starship
+//// 64	88	Sfx_Burst
+//// 64	89	Sfx_Coaster
+//// 64	90	Sfx_SbMarine
+//// 64	96	Sfx_Laughing
+//// 64	97	Sfx_Scream
+//// 64	98	Sfx_Punch
+//// 64	99	Sfx_Heart
+//// 64	100	Sfx_FootStep
+//// 64	112	Sfx_MchinGun
+//// 64	113	Sfx_LaserGun
+//// 64	115	Sfx_FireWork
+//// 120	0	STANDARD01
+//// 120	8	ROOM
+//// 120	16	ROCK
+//// 120	24	ELECTRIC
+//// 120	25	ANALOG
+//// 120	32	JAZZ
+//// 120	48	Symphony
+//// 121	0	Standard_GS
+//// 121	8	Room_GS
+//// 121	16	Rock_GS
+//// 121	24	Electric_GS
+//// 121	25	Analog_GS
+//// 121	32	Jazz_GS
+//// 121	40	Brush_GS
+//// 121	48	Symphony_GS
+//// 121	56	GS SFX Kit
+//// 121	64	Perc Kit
+//// 126	0	XG SFX 1
+//// 126	1	XG SFX 2
+//// 127	0	Standard Kit
+//// 127	8	Room Kit
+//// 127	16	Rock Kit
+//// 127	24	Electric Kit
+//// 127	25	Analog Kit
+//// 127	32	Jazz Kit
+//// 127	40	Brush Kit
+//// 127	48	Symphony Kit
+//// 128	0	Drum [Stan1] -SC88P
+//// 128	3	GS TECHNO
+//// 128	8	Drum [Room]
+//// 128	16	Drum [Power]
+//// 128	24	Drum [Elec] -SC88P
+//// 128	25	Drum [TR808] -SC88P
+//// 128	30	Drum [TR909] -SC88P
+//// 128	32	Drum [Jazz]
+//// 128	40	Drum [Brush] -SC88P
+//// 128	48	Drum [Orch] -SC88P
+//// 128	49	Ethnic (SC-88Pro)
+//// 128	50	Getabera
+//// 128	56	DRUM [SFX]
+//// 128	127	CM-64/32 (MT-32)
+//// Copyright: LAZ
+
+<global>
+global_label=Piano 1
+
+<group>
+group_label=Piano 1
+
+<region>
+sample=Piano 1 Samples/Piano E0       R.wav
+pitch_keycenter=51
+lokey=0 hikey=28
+offset=0 end=36712
+tune=50
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.7613684360661366 ampeg_decay=32.766885974171295 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24976 loop_end=36704
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=28.230184776768837 fileg_release=6.669136603410878 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano A0       R.wav
+pitch_keycenter=54
+lokey=29 hikey=34
+offset=0 end=34102
+tune=-12
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.7261468961291555 ampeg_decay=32.018489264209755 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=26262 loop_end=34094
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=24.96208723242795 fileg_release=6.669136603410878 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano D1       R.wav
+pitch_keycenter=58
+lokey=35 hikey=38
+offset=0 end=34115
+tune=16
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.7261468961291555 ampeg_decay=28.230184776768837 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=20533 loop_end=34107
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=20.845537491517725 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Gb1      R.wav
+pitch_keycenter=60
+lokey=39 hikey=44
+offset=0 end=43371
+tune=7
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=1.0028922878693671 ampeg_decay=24.96208723242795 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=28427 loop_end=43363
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=19.6528503899068 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano C#2      R.wav
+pitch_keycenter=67
+lokey=45 hikey=51
+offset=0 end=40570
+tune=7
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=1.0028922878693671 ampeg_decay=22.123381355660715 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=26993 loop_end=40562
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=18.528403434318875 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Ab2      R.wav
+pitch_keycenter=74
+lokey=52 hikey=57
+offset=0 end=37738
+tune=7
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=1.0028922878693671 ampeg_decay=18.528403434318875 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=26443 loop_end=37730
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=17.478385229079972 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Db3      R.wav
+pitch_keycenter=76
+lokey=58 hikey=62
+offset=0 end=38386
+tune=-48
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=1.096824979694626 ampeg_decay=16.487872325268757 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=25390 loop_end=38378
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=17.478385229079972 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Db3      R.wav
+pitch_keycenter=76
+lokey=63 hikey=63
+offset=0 end=38386
+tune=-48
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=1.096824979694626 ampeg_decay=16.487872325268757 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=25390 loop_end=38378
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=17.478385229079972 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Db3      R.wav
+pitch_keycenter=76
+lokey=64 hikey=64
+offset=0 end=38386
+tune=-48
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=1.096824979694626 ampeg_decay=16.487872325268757 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=25390 loop_end=38378
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=17.478385229079972 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Ab3      R.wav
+pitch_keycenter=83
+lokey=65 hikey=69
+offset=0 end=27051
+tune=-48
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=1.0028922878693671 ampeg_decay=14.689024319443513 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=26696 loop_end=27043
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=16.487872325268757 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Db4      R.wav
+pitch_keycenter=87
+lokey=70 hikey=74
+offset=0 end=25914
+tune=35
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.9592641193252643 ampeg_decay=15.562479158596568 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24897 loop_end=25906
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=14.689024319443513 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Gb4      R.wav
+pitch_keycenter=92
+lokey=75 hikey=79
+offset=0 end=21371
+tune=35
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.7982983863566498 ampeg_decay=14.689024319443513 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18661 loop_end=21363
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=13.109129656688642 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano C5       R.wav
+pitch_keycenter=98
+lokey=80 hikey=86
+offset=0 end=15352
+tune=35
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.7261468961291555 ampeg_decay=13.109129656688642 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=14962 loop_end=15344
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=11.05530303974221 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Gb5      R.wav
+pitch_keycenter=104
+lokey=87 hikey=90
+offset=0 end=11456
+tune=35
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.5700524875886976 ampeg_decay=11.05530303974221 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=11110 loop_end=11448
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=9.33402932585742 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Ab5      R.wav
+pitch_keycenter=106
+lokey=91 hikey=91
+offset=0 end=18488
+tune=35
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.5421134351507092 ampeg_decay=7.8944203152082935 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=17721 loop_end=18480
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=7.8944203152082935 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano Ab5      R.wav
+pitch_keycenter=106
+lokey=92 hikey=94
+offset=0 end=18488
+tune=35
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.5421134351507092 ampeg_decay=7.8944203152082935 ampeg_release=1.0436707604137487 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=17721 loop_end=18480
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=7.8944203152082935 fileg_release=5.051341804766561 fileg_sustain=0.0
+
+<region>
+sample=Piano 1 Samples/Piano C6       R.wav
+pitch_keycenter=110
+lokey=95 hikey=108
+offset=0 end=11624
+tune=35
+volume=0.13 amp_veltrack=0.00
+pan=1
+ampeg_hold=0.4902762110491017 ampeg_decay=5.643799228472194 ampeg_release=5.969044461496159 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=10010 loop_end=11616
+fil_type=lpf_2p cutoff=998.69 resonance=0.00
+fileg_depth=2812
+fileg_hold=0.03201740071977505 fileg_decay=5.969044461496159 fileg_release=5.051341804766561 fileg_sustain=0.0

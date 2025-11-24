@@ -1,0 +1,779 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Rick Simon
+//// Category: Unknown
+//// Comment2: Latest Version: v4.3 Updated 07/02/2016
+//// 
+//// v4.3
+//// -Alto Sax replaced...again.
+//// -Renamed Drumsets due to typos
+//// -Added some hotsauce and chili powder
+//// 
+//// v4.2
+//// -Replaced Soundtrack
+//// -Replaced Synth Drums
+//// -New drum sets 
+//// -More balancing...balancing....balancing....
+//// 
+//// v4.1
+//// -Totally new SFX Drum set from the Roland SC-88 Pro
+//// -Added drum set 128:057 Rhythm FX Kit
+//// -Added many additional Presets (470 up from 358!)
+//// -Added Roland MT32 sounds
+//// -Updated Alto Sax
+//// -Reverted to old Acoustic Guitar
+//// 
+//// v4.0
+//// -Hand clap from the Roland FA-06 added to drum kits, replacing former sound
+//// -Updated Clavinet
+//// -Updated Synth Strings 1
+//// -Updated Synth Strings 2
+//// -Updated Flute 
+//// -Complete balance adjustment for all presets
+//// 
+//// v3.3
+//// -Updated Music Box
+//// -Updated Rock Organ
+//// -Updated Overdriven Guitar
+//// -Updated Distortion Guitar
+//// -Updated String Ensemble (from the Korg Trinity)
+//// -Updated Pan Flute
+//// -Updated Saxes (all)
+//// -Updated Space Voice
+//// -General Balancing Improvements
+//// Copyright: Rick Simon, (c) 2016 all rights reserved
+
+<global>
+global_label=Bright Piano
+
+<group>
+group_label=Instrument6
+ampeg_release=3.0000779785716363
+
+<region>
+sample=Bright Piano Samples/Nice-fa3-mi3-sol3.wav
+pitch_keycenter=65
+lokey=64 hikey=67
+hivel=50
+offset=0 end=138634
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la4-solb4-si.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+hivel=50
+offset=0 end=81205
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la6-mi5-do7.wav
+pitch_keycenter=93
+lokey=88 hikey=96
+hivel=50
+offset=0 end=76690
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi1-do1-sol1.wav
+pitch_keycenter=40
+lokey=24 hikey=43
+hivel=50
+offset=0 end=224640
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi4-reb4-fa4.wav
+pitch_keycenter=76
+lokey=73 hikey=77
+hivel=50
+offset=0 end=102844
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi7-upper.wav
+pitch_keycenter=100
+lokey=97 hikey=108
+hivel=50
+offset=0 end=45896
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mib2-fa2-sib.wav
+pitch_keycenter=56
+lokey=53 hikey=58
+hivel=50
+offset=0 end=227861
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re2-reb2-mi2.wav
+pitch_keycenter=50
+lokey=49 hikey=52
+hivel=50
+offset=0 end=224257
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re3-si2-mib3.wav
+pitch_keycenter=62
+lokey=59 hikey=63
+hivel=50
+offset=0 end=138507
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re5-si4-mib5.wav
+pitch_keycenter=86
+lokey=83 hikey=87
+hivel=50
+offset=0 end=82885
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si1-lab1-do2.wav
+pitch_keycenter=47
+lokey=44 hikey=48
+hivel=50
+offset=0 end=174840
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si3-lab3-do4.wav
+pitch_keycenter=71
+lokey=68 hikey=72
+hivel=50
+offset=0 end=115458
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<group>
+group_label=Instrument5
+ampeg_release=3.0000779785716363
+
+<region>
+sample=Bright Piano Samples/Nice-fa3-mi3-sol3.wav
+pitch_keycenter=65
+lokey=64 hikey=67
+lovel=51 hivel=63
+offset=0 end=138634
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la4-solb4-si.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=51 hivel=63
+offset=0 end=81205
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la6-mi5-do7.wav
+pitch_keycenter=93
+lokey=88 hikey=96
+lovel=51 hivel=63
+offset=0 end=76690
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi1-do1-sol1.wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=51 hivel=63
+offset=0 end=224640
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi4-reb4-fa4.wav
+pitch_keycenter=76
+lokey=73 hikey=77
+lovel=51 hivel=63
+offset=0 end=102844
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi7-upper.wav
+pitch_keycenter=100
+lokey=97 hikey=108
+lovel=51 hivel=63
+offset=0 end=45896
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mib2-fa2-sib.wav
+pitch_keycenter=56
+lokey=53 hikey=58
+lovel=51 hivel=63
+offset=0 end=227861
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re2-reb2-mi2.wav
+pitch_keycenter=50
+lokey=49 hikey=52
+lovel=51 hivel=63
+offset=0 end=224257
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re3-si2-mib3.wav
+pitch_keycenter=62
+lokey=59 hikey=63
+lovel=51 hivel=63
+offset=0 end=138507
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re5-si4-mib5.wav
+pitch_keycenter=86
+lokey=83 hikey=87
+lovel=51 hivel=63
+offset=0 end=82885
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si1-lab1-do2.wav
+pitch_keycenter=47
+lokey=44 hikey=48
+lovel=51 hivel=63
+offset=0 end=174840
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si3-lab3-do4.wav
+pitch_keycenter=71
+lokey=68 hikey=72
+lovel=51 hivel=63
+offset=0 end=115458
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<group>
+group_label=Instrument4
+ampeg_release=3.250886829070097
+
+<region>
+sample=Bright Piano Samples/Nice-fa3-mi3-sol3.wav
+pitch_keycenter=65
+lokey=64 hikey=67
+lovel=64 hivel=77
+offset=0 end=138634
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la4-solb4-si.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=64 hivel=77
+offset=0 end=81205
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la6-mi5-do7.wav
+pitch_keycenter=93
+lokey=88 hikey=96
+lovel=64 hivel=77
+offset=0 end=76690
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi1-do1-sol1.wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=64 hivel=77
+offset=0 end=224640
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi4-reb4-fa4.wav
+pitch_keycenter=76
+lokey=73 hikey=77
+lovel=64 hivel=77
+offset=0 end=102844
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi7-upper.wav
+pitch_keycenter=100
+lokey=97 hikey=108
+lovel=64 hivel=77
+offset=0 end=45896
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mib2-fa2-sib.wav
+pitch_keycenter=56
+lokey=53 hikey=58
+lovel=64 hivel=77
+offset=0 end=227861
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re2-reb2-mi2.wav
+pitch_keycenter=50
+lokey=49 hikey=52
+lovel=64 hivel=77
+offset=0 end=224257
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re3-si2-mib3.wav
+pitch_keycenter=62
+lokey=59 hikey=63
+lovel=64 hivel=77
+offset=0 end=138507
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re5-si4-mib5.wav
+pitch_keycenter=86
+lokey=83 hikey=87
+lovel=64 hivel=77
+offset=0 end=82885
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si1-lab1-do2.wav
+pitch_keycenter=47
+lokey=44 hikey=48
+lovel=64 hivel=77
+offset=0 end=174840
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si3-lab3-do4.wav
+pitch_keycenter=71
+lokey=68 hikey=72
+lovel=64 hivel=77
+offset=0 end=115458
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<group>
+group_label=Instrument3
+ampeg_release=4.0
+
+<region>
+sample=Bright Piano Samples/Nice-fa3-mi3-sol3.wav
+pitch_keycenter=65
+lokey=64 hikey=67
+lovel=78 hivel=89
+offset=0 end=138634
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la4-solb4-si.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=78 hivel=89
+offset=0 end=81205
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la6-mi5-do7.wav
+pitch_keycenter=93
+lokey=88 hikey=96
+lovel=78 hivel=89
+offset=0 end=76690
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi1-do1-sol1.wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=78 hivel=89
+offset=0 end=224640
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi4-reb4-fa4.wav
+pitch_keycenter=76
+lokey=73 hikey=77
+lovel=78 hivel=89
+offset=0 end=102844
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi7-upper.wav
+pitch_keycenter=100
+lokey=97 hikey=108
+lovel=78 hivel=89
+offset=0 end=45896
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mib2-fa2-sib.wav
+pitch_keycenter=56
+lokey=53 hikey=58
+lovel=78 hivel=89
+offset=0 end=227861
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re2-reb2-mi2.wav
+pitch_keycenter=50
+lokey=49 hikey=52
+lovel=78 hivel=89
+offset=0 end=224257
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re3-si2-mib3.wav
+pitch_keycenter=62
+lokey=59 hikey=63
+lovel=78 hivel=89
+offset=0 end=138507
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re5-si4-mib5.wav
+pitch_keycenter=86
+lokey=83 hikey=87
+lovel=78 hivel=89
+offset=0 end=82885
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si1-lab1-do2.wav
+pitch_keycenter=47
+lokey=44 hikey=48
+lovel=78 hivel=89
+offset=0 end=174840
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si3-lab3-do4.wav
+pitch_keycenter=71
+lokey=68 hikey=72
+lovel=78 hivel=89
+offset=0 end=115458
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<group>
+group_label=Instrument2
+ampeg_release=4.8009946666610706
+
+<region>
+sample=Bright Piano Samples/Nice-fa3-mi3-sol3.wav
+pitch_keycenter=65
+lokey=64 hikey=67
+lovel=90 hivel=99
+offset=0 end=138634
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la4-solb4-si.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=90 hivel=99
+offset=0 end=81205
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-la6-mi5-do7.wav
+pitch_keycenter=93
+lokey=88 hikey=96
+lovel=90 hivel=99
+offset=0 end=76690
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi1-do1-sol1.wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=90 hivel=99
+offset=0 end=224640
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi4-reb4-fa4.wav
+pitch_keycenter=76
+lokey=73 hikey=77
+lovel=90 hivel=99
+offset=0 end=102844
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mi7-upper.wav
+pitch_keycenter=100
+lokey=97 hikey=108
+lovel=90 hivel=99
+offset=0 end=45896
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-mib2-fa2-sib.wav
+pitch_keycenter=56
+lokey=53 hikey=58
+lovel=90 hivel=99
+offset=0 end=227861
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re2-reb2-mi2.wav
+pitch_keycenter=50
+lokey=49 hikey=52
+lovel=90 hivel=99
+offset=0 end=224257
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re3-si2-mib3.wav
+pitch_keycenter=62
+lokey=59 hikey=63
+lovel=90 hivel=99
+offset=0 end=138507
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-re5-si4-mib5.wav
+pitch_keycenter=86
+lokey=83 hikey=87
+lovel=90 hivel=99
+offset=0 end=82885
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si1-lab1-do2.wav
+pitch_keycenter=47
+lokey=44 hikey=48
+lovel=90 hivel=99
+offset=0 end=174840
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Nice-si3-lab3-do4.wav
+pitch_keycenter=71
+lokey=68 hikey=72
+lovel=90 hivel=99
+offset=0 end=115458
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<group>
+group_label=Instrument1
+ampeg_release=5.799117352509542
+
+<region>
+sample=Bright Piano Samples/Nice-fa3-mi3-sol3.wav
+pitch_keycenter=65
+lokey=64 hikey=67
+lovel=100
+offset=0 end=138634
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-la4-solb4-si.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=100
+offset=0 end=81205
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-la6-mi5-do7.wav
+pitch_keycenter=93
+lokey=88 hikey=96
+lovel=100
+offset=0 end=76690
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-mi1-do1-sol1.wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=100
+offset=0 end=224640
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-mi4-reb4-fa4.wav
+pitch_keycenter=76
+lokey=73 hikey=77
+lovel=100
+offset=0 end=102844
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-mi7-upper.wav
+pitch_keycenter=100
+lokey=97 hikey=108
+lovel=100
+offset=0 end=45896
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-mib2-fa2-sib.wav
+pitch_keycenter=56
+lokey=53 hikey=58
+lovel=100
+offset=0 end=227861
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-re2-reb2-mi2.wav
+pitch_keycenter=50
+lokey=49 hikey=52
+lovel=100
+offset=0 end=224257
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-re3-si2-mib3.wav
+pitch_keycenter=62
+lokey=59 hikey=63
+lovel=100
+offset=0 end=138507
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-re5-si4-mib5.wav
+pitch_keycenter=86
+lokey=83 hikey=87
+lovel=100
+offset=0 end=82885
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-si1-lab1-do2.wav
+pitch_keycenter=47
+lokey=44 hikey=48
+lovel=100
+offset=0 end=174840
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Bright Piano Samples/Nice-si3-lab3-do4.wav
+pitch_keycenter=71
+lokey=68 hikey=72
+lovel=100
+offset=0 end=115458
+volume=0.13
+loop_mode=no_loop 

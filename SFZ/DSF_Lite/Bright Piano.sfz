@@ -1,0 +1,2059 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Strix Soundfont Team
+//// Category: Unknown
+//// Comment2: NOTE: There is NO GS support in DSOUNDFONT Lite!
+//// 
+//// ---------------------------------------------------
+//// Version 5.0
+//// New samples!
+//// Removed all extended GS drumkit sounds.
+//// Fixed applause.
+//// 
+//// Version 3.01
+//// Fixed pan flute
+//// 
+//// Version 3.00
+//// Initial Release, supports GM.
+//// ---------------------------------------------------
+//// This SoundFont has been assembled from multiple sources, and has been checked for non-public domain samples. All non-public domain samples were removed if present.
+//// 
+//// Copyright Notice:  If by chance you are the copyright holder of the material used in this soundfont just write me an email at: dsoundfont123@gmail.com and I will take down/correct the SoundFont as soon as possible.
+//// 
+//// Thanks!
+//// ---------------------------------------------------
+//// License: Creative Commons CC0
+//// Copyright: 2020 Strix. Public Domain.
+
+<global>
+global_label=Bright Piano
+
+<group>
+group_label=Grand Piano
+ampeg_decay=24.00062382857309 ampeg_release=1.199555576040902 ampeg_sustain=0.0
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0L.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=121
+offset=0 end=100008
+tune=70
+pan=-100
+loop_mode=loop_continuous loop_start=61366 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3L.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=121
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67072 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5L.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=121
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62094 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7L.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=121
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62649 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8L.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=121
+offset=0 end=100008
+tune=30
+pan=-100
+loop_mode=loop_continuous loop_start=67241 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2L.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=121
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67440 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6L.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=121
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65590 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4L.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=121
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=57036 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1L.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=121
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=69352 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3L.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=121
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=44726 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5L.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=121
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65722 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0R.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=121
+offset=0 end=100008
+tune=70
+pan=100
+loop_mode=loop_continuous loop_start=69826 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3R.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=121
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=60289 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5R.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=121
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=64031 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7R.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=121
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=62377 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8R.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=121
+offset=0 end=100008
+tune=30
+pan=100
+loop_mode=loop_continuous loop_start=68871 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2R.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=121
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68575 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6R.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=121
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68158 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4R.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=121
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69951 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1R.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=121
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69592 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3R.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=121
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69960 loop_end=100000
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5R.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=121
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=63040 loop_end=100000
+
+<group>
+group_label=Grand Piano
+ampeg_decay=24.00062382857309 ampeg_release=1.0999973132782155 ampeg_sustain=0.0
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0L.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=113 hivel=120
+offset=0 end=100008
+tune=70
+pan=-100
+loop_mode=loop_continuous loop_start=61366 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3L.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=113 hivel=120
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67072 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5L.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=113 hivel=120
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62094 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7L.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=113 hivel=120
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62649 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8L.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=113 hivel=120
+offset=0 end=100008
+tune=30
+pan=-100
+loop_mode=loop_continuous loop_start=67241 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2L.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=113 hivel=120
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67440 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6L.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=113 hivel=120
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65590 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4L.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=113 hivel=120
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=57036 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1L.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=113 hivel=120
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=69352 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3L.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=113 hivel=120
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=44726 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5L.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=113 hivel=120
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65722 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0R.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=113 hivel=120
+offset=0 end=100008
+tune=70
+pan=100
+loop_mode=loop_continuous loop_start=69826 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3R.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=113 hivel=120
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=60289 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5R.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=113 hivel=120
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=64031 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7R.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=113 hivel=120
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=62377 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8R.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=113 hivel=120
+offset=0 end=100008
+tune=30
+pan=100
+loop_mode=loop_continuous loop_start=68871 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2R.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=113 hivel=120
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68575 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6R.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=113 hivel=120
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68158 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4R.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=113 hivel=120
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69951 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1R.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=113 hivel=120
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69592 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3R.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=113 hivel=120
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69960 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5R.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=113 hivel=120
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=63040 loop_end=100000
+fil_type=lpf_2p cutoff=19256.55 resonance=0.00
+
+<group>
+group_label=Grand Piano
+ampeg_decay=24.00062382857309 ampeg_release=1.0 ampeg_sustain=0.0
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0L.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=105 hivel=112
+offset=0 end=100008
+tune=70
+pan=-100
+loop_mode=loop_continuous loop_start=61366 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3L.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=105 hivel=112
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67072 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5L.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=105 hivel=112
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62094 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7L.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=105 hivel=112
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62649 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8L.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=105 hivel=112
+offset=0 end=100008
+tune=30
+pan=-100
+loop_mode=loop_continuous loop_start=67241 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2L.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=105 hivel=112
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67440 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6L.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=105 hivel=112
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65590 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4L.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=105 hivel=112
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=57036 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1L.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=105 hivel=112
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=69352 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3L.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=105 hivel=112
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=44726 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5L.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=105 hivel=112
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65722 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0R.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=105 hivel=112
+offset=0 end=100008
+tune=70
+pan=100
+loop_mode=loop_continuous loop_start=69826 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3R.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=105 hivel=112
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=60289 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5R.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=105 hivel=112
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=64031 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7R.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=105 hivel=112
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=62377 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8R.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=105 hivel=112
+offset=0 end=100008
+tune=30
+pan=100
+loop_mode=loop_continuous loop_start=68871 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2R.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=105 hivel=112
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68575 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6R.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=105 hivel=112
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68158 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4R.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=105 hivel=112
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69951 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1R.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=105 hivel=112
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69592 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3R.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=105 hivel=112
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69960 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5R.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=105 hivel=112
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=63040 loop_end=100000
+fil_type=lpf_2p cutoff=18504.16 resonance=0.00
+
+<group>
+group_label=Grand Piano
+ampeg_decay=24.00062382857309 ampeg_release=0.9002098984181095 ampeg_sustain=0.0
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0L.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=97 hivel=104
+offset=0 end=100008
+tune=70
+pan=-100
+loop_mode=loop_continuous loop_start=61366 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3L.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=97 hivel=104
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67072 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5L.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=97 hivel=104
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62094 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7L.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=97 hivel=104
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62649 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8L.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=97 hivel=104
+offset=0 end=100008
+tune=30
+pan=-100
+loop_mode=loop_continuous loop_start=67241 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2L.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=97 hivel=104
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67440 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6L.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=97 hivel=104
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65590 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4L.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=97 hivel=104
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=57036 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1L.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=97 hivel=104
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=69352 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3L.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=97 hivel=104
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=44726 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5L.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=97 hivel=104
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65722 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0R.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=97 hivel=104
+offset=0 end=100008
+tune=70
+pan=100
+loop_mode=loop_continuous loop_start=69826 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3R.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=97 hivel=104
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=60289 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5R.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=97 hivel=104
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=64031 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7R.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=97 hivel=104
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=62377 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8R.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=97 hivel=104
+offset=0 end=100008
+tune=30
+pan=100
+loop_mode=loop_continuous loop_start=68871 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2R.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=97 hivel=104
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68575 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6R.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=97 hivel=104
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68158 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4R.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=97 hivel=104
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69951 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1R.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=97 hivel=104
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69592 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3R.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=97 hivel=104
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69960 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5R.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=97 hivel=104
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=63040 loop_end=100000
+fil_type=lpf_2p cutoff=17750.37 resonance=0.00
+
+<group>
+group_label=Grand Piano
+ampeg_decay=24.00062382857309 ampeg_release=0.8001449797226382 ampeg_sustain=0.0
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0L.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=89 hivel=96
+offset=0 end=100008
+tune=70
+pan=-100
+loop_mode=loop_continuous loop_start=61366 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3L.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=89 hivel=96
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67072 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5L.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=89 hivel=96
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62094 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7L.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=89 hivel=96
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62649 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8L.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=89 hivel=96
+offset=0 end=100008
+tune=30
+pan=-100
+loop_mode=loop_continuous loop_start=67241 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2L.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=89 hivel=96
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67440 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6L.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=89 hivel=96
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65590 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4L.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=89 hivel=96
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=57036 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1L.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=89 hivel=96
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=69352 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3L.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=89 hivel=96
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=44726 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5L.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=89 hivel=96
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65722 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0R.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=89 hivel=96
+offset=0 end=100008
+tune=70
+pan=100
+loop_mode=loop_continuous loop_start=69826 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3R.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=89 hivel=96
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=60289 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5R.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=89 hivel=96
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=64031 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7R.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=89 hivel=96
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=62377 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8R.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=89 hivel=96
+offset=0 end=100008
+tune=30
+pan=100
+loop_mode=loop_continuous loop_start=68871 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2R.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=89 hivel=96
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68575 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6R.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=89 hivel=96
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68158 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4R.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=89 hivel=96
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69951 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1R.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=89 hivel=96
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69592 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3R.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=89 hivel=96
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69960 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5R.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=89 hivel=96
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=63040 loop_end=100000
+fil_type=lpf_2p cutoff=17007.64 resonance=0.00
+
+<group>
+group_label=Grand Piano
+ampeg_decay=24.00062382857309 ampeg_release=0.7001972658109297 ampeg_sustain=0.0
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0L.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=81 hivel=88
+offset=0 end=100008
+tune=70
+pan=-100
+loop_mode=loop_continuous loop_start=61366 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3L.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=81 hivel=88
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67072 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5L.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=81 hivel=88
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62094 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7L.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=81 hivel=88
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62649 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8L.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=81 hivel=88
+offset=0 end=100008
+tune=30
+pan=-100
+loop_mode=loop_continuous loop_start=67241 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2L.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=81 hivel=88
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67440 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6L.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=81 hivel=88
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65590 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4L.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=81 hivel=88
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=57036 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1L.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=81 hivel=88
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=69352 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3L.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=81 hivel=88
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=44726 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5L.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=81 hivel=88
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65722 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0R.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=81 hivel=88
+offset=0 end=100008
+tune=70
+pan=100
+loop_mode=loop_continuous loop_start=69826 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3R.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=81 hivel=88
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=60289 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5R.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=81 hivel=88
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=64031 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7R.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=81 hivel=88
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=62377 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8R.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=81 hivel=88
+offset=0 end=100008
+tune=30
+pan=100
+loop_mode=loop_continuous loop_start=68871 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2R.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=81 hivel=88
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68575 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6R.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=81 hivel=88
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68158 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4R.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=81 hivel=88
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69951 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1R.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=81 hivel=88
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69592 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3R.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=81 hivel=88
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69960 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5R.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=81 hivel=88
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=63040 loop_end=100000
+fil_type=lpf_2p cutoff=16258.37 resonance=0.00
+
+<group>
+group_label=Grand Piano
+ampeg_decay=24.00062382857309 ampeg_release=0.6001243333326338 ampeg_sustain=0.0
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0L.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=73 hivel=80
+offset=0 end=100008
+tune=70
+pan=-100
+loop_mode=loop_continuous loop_start=61366 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3L.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=73 hivel=80
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67072 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5L.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=73 hivel=80
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62094 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7L.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=73 hivel=80
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62649 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8L.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=73 hivel=80
+offset=0 end=100008
+tune=30
+pan=-100
+loop_mode=loop_continuous loop_start=67241 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2L.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=73 hivel=80
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67440 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6L.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=73 hivel=80
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65590 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4L.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=73 hivel=80
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=57036 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1L.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=73 hivel=80
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=69352 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3L.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=73 hivel=80
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=44726 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5L.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=73 hivel=80
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65722 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0R.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=73 hivel=80
+offset=0 end=100008
+tune=70
+pan=100
+loop_mode=loop_continuous loop_start=69826 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3R.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=73 hivel=80
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=60289 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5R.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=73 hivel=80
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=64031 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7R.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=73 hivel=80
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=62377 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8R.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=73 hivel=80
+offset=0 end=100008
+tune=30
+pan=100
+loop_mode=loop_continuous loop_start=68871 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2R.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=73 hivel=80
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68575 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6R.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=73 hivel=80
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68158 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4R.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=73 hivel=80
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69951 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1R.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=73 hivel=80
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69592 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3R.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=73 hivel=80
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69960 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5R.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=73 hivel=80
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=63040 loop_end=100000
+fil_type=lpf_2p cutoff=15506.25 resonance=0.00
+
+<group>
+group_label=Grand Piano
+ampeg_decay=24.00062382857309 ampeg_release=0.5002888947532774 ampeg_sustain=0.0
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0L.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=65 hivel=72
+offset=0 end=100008
+tune=70
+pan=-100
+loop_mode=loop_continuous loop_start=61366 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3L.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=65 hivel=72
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67072 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5L.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=65 hivel=72
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62094 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7L.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=65 hivel=72
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62649 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8L.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=65 hivel=72
+offset=0 end=100008
+tune=30
+pan=-100
+loop_mode=loop_continuous loop_start=67241 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2L.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=65 hivel=72
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67440 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6L.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=65 hivel=72
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65590 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4L.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=65 hivel=72
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=57036 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1L.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=65 hivel=72
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=69352 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3L.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=65 hivel=72
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=44726 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5L.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=65 hivel=72
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65722 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0R.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+lovel=65 hivel=72
+offset=0 end=100008
+tune=70
+pan=100
+loop_mode=loop_continuous loop_start=69826 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3R.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+lovel=65 hivel=72
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=60289 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5R.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+lovel=65 hivel=72
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=64031 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7R.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+lovel=65 hivel=72
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=62377 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8R.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+lovel=65 hivel=72
+offset=0 end=100008
+tune=30
+pan=100
+loop_mode=loop_continuous loop_start=68871 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2R.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+lovel=65 hivel=72
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68575 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6R.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+lovel=65 hivel=72
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68158 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4R.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+lovel=65 hivel=72
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69951 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1R.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+lovel=65 hivel=72
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69592 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3R.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+lovel=65 hivel=72
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69960 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5R.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+lovel=65 hivel=72
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=63040 loop_end=100000
+fil_type=lpf_2p cutoff=14754.78 resonance=0.00
+
+<group>
+group_label=Grand Piano
+ampeg_decay=24.00062382857309 ampeg_release=0.4000724898613191 ampeg_sustain=0.0
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0L.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+hivel=64
+offset=0 end=100008
+tune=70
+pan=-100
+loop_mode=loop_continuous loop_start=61366 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3L.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+hivel=64
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67072 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5L.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+hivel=64
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62094 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7L.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+hivel=64
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=62649 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8L.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+hivel=64
+offset=0 end=100008
+tune=30
+pan=-100
+loop_mode=loop_continuous loop_start=67241 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2L.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+hivel=64
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=67440 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6L.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+hivel=64
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65590 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4L.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+hivel=64
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=57036 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1L.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+hivel=64
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=69352 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3L.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+hivel=64
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=44726 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5L.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+hivel=64
+offset=0 end=100008
+pan=-100
+loop_mode=loop_continuous loop_start=65722 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand A#0R.wav
+pitch_keycenter=22
+lokey=0 hikey=24
+hivel=64
+offset=0 end=100008
+tune=70
+pan=100
+loop_mode=loop_continuous loop_start=69826 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C3R.wav
+pitch_keycenter=48
+lokey=43 hikey=50
+hivel=64
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=60289 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C5R.wav
+pitch_keycenter=72
+lokey=67 hikey=74
+hivel=64
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=64031 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C7R.wav
+pitch_keycenter=96
+lokey=90 hikey=97
+hivel=64
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=62377 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand C8R.wav
+pitch_keycenter=108
+lokey=98 hikey=127
+hivel=64
+offset=0 end=100008
+tune=30
+pan=100
+loop_mode=loop_continuous loop_start=68871 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#2R.wav
+pitch_keycenter=39
+lokey=34 hikey=42
+hivel=64
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68575 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand D#6R.wav
+pitch_keycenter=87
+lokey=83 hikey=89
+hivel=64
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=68158 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand E4R.wav
+pitch_keycenter=64
+lokey=59 hikey=66
+hivel=64
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69951 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand F#1R.wav
+pitch_keycenter=30
+lokey=25 hikey=33
+hivel=64
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69592 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#3R.wav
+pitch_keycenter=56
+lokey=51 hikey=58
+hivel=64
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=69960 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00
+
+<region>
+sample=Bright Piano Samples/Kawai Grand G#5R.wav
+pitch_keycenter=80
+lokey=75 hikey=82
+hivel=64
+offset=0 end=100008
+pan=100
+loop_mode=loop_continuous loop_start=63040 loop_end=100000
+fil_type=lpf_2p cutoff=14007.34 resonance=0.00

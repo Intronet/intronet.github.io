@@ -1,0 +1,176 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Strix Soundfont Team
+//// Category: Unknown
+//// Comment2: NOTE: There is NO GS support in DSOUNDFONT Lite!
+//// 
+//// ---------------------------------------------------
+//// Version 5.0
+//// New samples!
+//// Removed all extended GS drumkit sounds.
+//// Fixed applause.
+//// 
+//// Version 3.01
+//// Fixed pan flute
+//// 
+//// Version 3.00
+//// Initial Release, supports GM.
+//// ---------------------------------------------------
+//// This SoundFont has been assembled from multiple sources, and has been checked for non-public domain samples. All non-public domain samples were removed if present.
+//// 
+//// Copyright Notice:  If by chance you are the copyright holder of the material used in this soundfont just write me an email at: dsoundfont123@gmail.com and I will take down/correct the SoundFont as soon as possible.
+//// 
+//// Thanks!
+//// ---------------------------------------------------
+//// License: Creative Commons CC0
+//// Copyright: 2020 Strix. Public Domain.
+
+<global>
+global_label=Electric Piano 1
+
+<group>
+group_label=JRhodes
+
+<region>
+sample=Electric Piano 1 Samples/A_029__F1_3.wav
+pitch_keycenter=29
+lokey=0 hikey=32
+hivel=111
+offset=0 end=169734
+ampeg_hold=2.0 ampeg_decay=100.0 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=165661 loop_end=169724
+
+<region>
+sample=Electric Piano 1 Samples/A_040__E2_3.wav
+pitch_keycenter=40
+lokey=33 hikey=43
+hivel=111
+offset=0 end=134648
+ampeg_hold=2.0 ampeg_decay=79.98550465465009 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=131975 loop_end=134638
+
+<region>
+sample=Electric Piano 1 Samples/A_050__D3_3.wav
+pitch_keycenter=50
+lokey=44 hikey=53
+hivel=111
+offset=0 end=140328
+ampeg_hold=2.0 ampeg_decay=39.99275232732504 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=136430 loop_end=140318
+
+<region>
+sample=Electric Piano 1 Samples/A_059__B3_3.wav
+pitch_keycenter=59
+lokey=54 hikey=61
+hivel=111
+offset=0 end=74171
+ampeg_hold=2.0 ampeg_decay=25.005380733519765 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72198 loop_end=74161
+
+<region>
+sample=Electric Piano 1 Samples/A_065__F4_3.wav
+pitch_keycenter=65
+lokey=62 hikey=68
+hivel=111
+offset=0 end=88130
+ampeg_hold=2.0 ampeg_decay=19.99637616366252 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=86984 loop_end=88120
+
+<region>
+sample=Electric Piano 1 Samples/A_076__E5_4.wav
+pitch_keycenter=76
+lokey=69 hikey=78
+hivel=111
+offset=0 end=53245
+ampeg_hold=2.0 ampeg_decay=9.998188081831264 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=52301 loop_end=53235
+
+<region>
+sample=Electric Piano 1 Samples/A_086__D6_3.wav
+pitch_keycenter=86
+lokey=79 hikey=88
+hivel=111
+offset=0 end=85266
+ampeg_hold=2.0 ampeg_decay=9.998188081831264 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=82297 loop_end=85256
+
+<region>
+sample=Electric Piano 1 Samples/A_096__C7_3.wav
+pitch_keycenter=96
+lokey=89 hikey=127
+hivel=111
+offset=0 end=47348
+ampeg_hold=2.0 ampeg_decay=9.998188081831264 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=46750 loop_end=47338
+
+<region>
+sample=Electric Piano 1 Samples/A_029__F1_1.wav
+pitch_keycenter=29
+lokey=0 hikey=32
+lovel=112
+offset=0 end=274898
+ampeg_hold=2.0 ampeg_decay=100.0 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=270858 loop_end=274888
+
+<region>
+sample=Electric Piano 1 Samples/A_040__E2_1.wav
+pitch_keycenter=40
+lokey=33 hikey=43
+lovel=112
+offset=0 end=197678
+ampeg_hold=4.500233938755238 ampeg_decay=79.98550465465009 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=196070 loop_end=197668
+
+<region>
+sample=Electric Piano 1 Samples/A_050__D3_1.wav
+pitch_keycenter=50
+lokey=44 hikey=53
+lovel=112
+offset=0 end=93614
+ampeg_hold=2.0 ampeg_decay=39.99275232732504 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=90612 loop_end=93604
+
+<region>
+sample=Electric Piano 1 Samples/A_059__B3_1.wav
+pitch_keycenter=59
+lokey=54 hikey=61
+lovel=112
+offset=0 end=91413
+ampeg_hold=2.0 ampeg_decay=25.005380733519765 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=89796 loop_end=91403
+
+<region>
+sample=Electric Piano 1 Samples/A_065__F4_1.wav
+pitch_keycenter=65
+lokey=62 hikey=68
+lovel=112
+offset=0 end=98218
+ampeg_hold=2.0 ampeg_decay=19.99637616366252 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=95933 loop_end=98208
+
+<region>
+sample=Electric Piano 1 Samples/A_076__E5_1.wav
+pitch_keycenter=76
+lokey=69 hikey=78
+lovel=112
+offset=0 end=82090
+ampeg_hold=2.0 ampeg_decay=9.998188081831264 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=82013 loop_end=82080
+
+<region>
+sample=Electric Piano 1 Samples/A_086__D6_2.wav
+pitch_keycenter=86
+lokey=79 hikey=88
+lovel=112
+offset=0 end=98732
+ampeg_hold=2.0 ampeg_decay=9.998188081831264 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=98160 loop_end=98722
+
+<region>
+sample=Electric Piano 1 Samples/A_096__C7_2.wav
+pitch_keycenter=96
+lokey=89 hikey=127
+lovel=112
+offset=0 end=108102
+ampeg_hold=2.0 ampeg_decay=9.998188081831264 ampeg_release=0.30006216666631697 ampeg_sustain=0.0
+loop_mode=no_loop 

@@ -1,0 +1,2500 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : J.L.
+//// Category: Unknown
+//// Comment2: Soundfont by J.L. based on SGM-v2.01-NicePianosGuitarsBass  (see original notes below)
+//// Main changes: 
+//// - adjusted some instruments for optimum use with JJazzLab
+//// - made drum kits compatible with the XG drum key map
+//// 
+//// ------------------------------
+//// SGM-v2.01-NicePianosGuitarsBass  by J.N. (https://sites.google.com/site/soundfonts4u/)
+//// Salamander Piano
+//// https://rytmenpinne.wordpress.com/sounds-and-such/salamander-grandpiano/
+//// Compact version by Ziya Mete Demircan and bright version by J.N.
+//// Acoustic Guitar
+//// Keith Smith - www.keithsmith.ca
+//// Modified by J.N. - https://sites.google.com/site/soundfonts4u/
+//// Electric Bass
+//// Free from http://www.turtlesounds.net/
+//// Acoustic Bass
+//// A cut-down version of 1958 Otto Rubner double bass played and mapped by Drogomir Smolken, recorded by Ludwik Zamenhof.
+//// Royalty-free for all commercial and non-commercial use. Copyright 2016 Karoryfer Lecolds (Karoryfer Samples).
+//// Modified for sf2 by J.N.
+
+<global>
+global_label=Grand Piano
+
+<group>
+group_label=Sal-L1
+
+<region>
+sample=Grand Piano Samples/A0v1L.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+hivel=32
+offset=0 end=640870
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1L.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+hivel=32
+offset=0 end=580363
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1L.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+hivel=32
+offset=0 end=403473
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1L.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+hivel=32
+offset=0 end=393627
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1L.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+hivel=32
+offset=0 end=369882
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1L.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+hivel=32
+offset=0 end=261317
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1L.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+hivel=32
+offset=0 end=169130
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1L.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+hivel=32
+offset=0 end=87815
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1L.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+hivel=32
+offset=0 end=601712
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1L.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+hivel=32
+offset=0 end=550726
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1L.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+hivel=32
+offset=0 end=398989
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1L.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+hivel=32
+offset=0 end=367373
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1L.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+hivel=32
+offset=0 end=329033
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1L.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+hivel=32
+offset=0 end=159749
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1L.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+hivel=32
+offset=0 end=126764
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A0v1R.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+hivel=32
+offset=0 end=640870
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1R.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+hivel=32
+offset=0 end=580363
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1R.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+hivel=32
+offset=0 end=403473
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1R.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+hivel=32
+offset=0 end=393627
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1R.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+hivel=32
+offset=0 end=369882
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1R.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+hivel=32
+offset=0 end=261317
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1R.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+hivel=32
+offset=0 end=169130
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1R.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+hivel=32
+offset=0 end=87815
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1R.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+hivel=32
+offset=0 end=601712
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1R.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+hivel=32
+offset=0 end=550726
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1R.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+hivel=32
+offset=0 end=398989
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1R.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+hivel=32
+offset=0 end=367373
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1R.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+hivel=32
+offset=0 end=329033
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1R.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+hivel=32
+offset=0 end=159749
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1R.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+hivel=32
+offset=0 end=126764
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=749.90 resonance=0.00
+
+<group>
+group_label=Sal-L2
+
+<region>
+sample=Grand Piano Samples/A0v1L.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=33 hivel=48
+offset=0 end=640870
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1L.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=33 hivel=48
+offset=0 end=580363
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1L.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=33 hivel=48
+offset=0 end=403473
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1L.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=33 hivel=48
+offset=0 end=393627
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1L.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=33 hivel=48
+offset=0 end=369882
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1L.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=33 hivel=48
+offset=0 end=261317
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1L.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=33 hivel=48
+offset=0 end=169130
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1L.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=33 hivel=48
+offset=0 end=87815
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1L.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=33 hivel=48
+offset=0 end=601712
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1L.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=33 hivel=48
+offset=0 end=550726
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1L.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=33 hivel=48
+offset=0 end=398989
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1L.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=33 hivel=48
+offset=0 end=367373
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1L.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=33 hivel=48
+offset=0 end=329033
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1L.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=33 hivel=48
+offset=0 end=159749
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1L.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=33 hivel=48
+offset=0 end=126764
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A0v1R.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=33 hivel=48
+offset=0 end=640870
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1R.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=33 hivel=48
+offset=0 end=580363
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1R.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=33 hivel=48
+offset=0 end=403473
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1R.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=33 hivel=48
+offset=0 end=393627
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1R.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=33 hivel=48
+offset=0 end=369882
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1R.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=33 hivel=48
+offset=0 end=261317
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1R.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=33 hivel=48
+offset=0 end=169130
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1R.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=33 hivel=48
+offset=0 end=87815
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1R.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=33 hivel=48
+offset=0 end=601712
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1R.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=33 hivel=48
+offset=0 end=550726
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1R.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=33 hivel=48
+offset=0 end=398989
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1R.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=33 hivel=48
+offset=0 end=367373
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1R.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=33 hivel=48
+offset=0 end=329033
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1R.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=33 hivel=48
+offset=0 end=159749
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1R.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=33 hivel=48
+offset=0 end=126764
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=999.85 resonance=0.00
+
+<group>
+group_label=Sal-L3
+
+<region>
+sample=Grand Piano Samples/A0v1L.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=49 hivel=63
+offset=0 end=640870
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1L.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=49 hivel=63
+offset=0 end=580363
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1L.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=49 hivel=63
+offset=0 end=403473
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1L.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=49 hivel=63
+offset=0 end=393627
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1L.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=49 hivel=63
+offset=0 end=369882
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1L.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=49 hivel=63
+offset=0 end=261317
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1L.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=49 hivel=63
+offset=0 end=169130
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1L.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=49 hivel=63
+offset=0 end=87815
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1L.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=49 hivel=63
+offset=0 end=601712
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1L.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=49 hivel=63
+offset=0 end=550726
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1L.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=49 hivel=63
+offset=0 end=398989
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1L.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=49 hivel=63
+offset=0 end=367373
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1L.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=49 hivel=63
+offset=0 end=329033
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1L.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=49 hivel=63
+offset=0 end=159749
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1L.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=49 hivel=63
+offset=0 end=126764
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A0v1R.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=49 hivel=63
+offset=0 end=640870
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1R.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=49 hivel=63
+offset=0 end=580363
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1R.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=49 hivel=63
+offset=0 end=403473
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1R.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=49 hivel=63
+offset=0 end=393627
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1R.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=49 hivel=63
+offset=0 end=369882
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1R.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=49 hivel=63
+offset=0 end=261317
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1R.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=49 hivel=63
+offset=0 end=169130
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1R.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=49 hivel=63
+offset=0 end=87815
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1R.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=49 hivel=63
+offset=0 end=601712
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1R.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=49 hivel=63
+offset=0 end=550726
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1R.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=49 hivel=63
+offset=0 end=398989
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1R.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=49 hivel=63
+offset=0 end=367373
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1R.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=49 hivel=63
+offset=0 end=329033
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1R.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=49 hivel=63
+offset=0 end=159749
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1R.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=49 hivel=63
+offset=0 end=126764
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1999.69 resonance=0.00
+
+<group>
+group_label=Sal-L4
+
+<region>
+sample=Grand Piano Samples/A0v1L.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=64 hivel=79
+offset=0 end=640870
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1L.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=64 hivel=79
+offset=0 end=580363
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1L.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=64 hivel=79
+offset=0 end=403473
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1L.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=64 hivel=79
+offset=0 end=393627
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1L.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=64 hivel=79
+offset=0 end=369882
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1L.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=64 hivel=79
+offset=0 end=261317
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1L.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=64 hivel=79
+offset=0 end=169130
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1L.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=64 hivel=79
+offset=0 end=87815
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1L.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=64 hivel=79
+offset=0 end=601712
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1L.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=64 hivel=79
+offset=0 end=550726
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1L.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=64 hivel=79
+offset=0 end=398989
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1L.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=64 hivel=79
+offset=0 end=367373
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1L.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=64 hivel=79
+offset=0 end=329033
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1L.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=64 hivel=79
+offset=0 end=159749
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1L.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=64 hivel=79
+offset=0 end=126764
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A0v1R.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=64 hivel=79
+offset=0 end=640870
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1R.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=64 hivel=79
+offset=0 end=580363
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1R.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=64 hivel=79
+offset=0 end=403473
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1R.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=64 hivel=79
+offset=0 end=393627
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1R.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=64 hivel=79
+offset=0 end=369882
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1R.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=64 hivel=79
+offset=0 end=261317
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1R.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=64 hivel=79
+offset=0 end=169130
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1R.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=64 hivel=79
+offset=0 end=87815
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1R.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=64 hivel=79
+offset=0 end=601712
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1R.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=64 hivel=79
+offset=0 end=550726
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1R.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=64 hivel=79
+offset=0 end=398989
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1R.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=64 hivel=79
+offset=0 end=367373
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1R.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=64 hivel=79
+offset=0 end=329033
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1R.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=64 hivel=79
+offset=0 end=159749
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1R.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=64 hivel=79
+offset=0 end=126764
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=4499.54 resonance=0.00
+
+<group>
+group_label=Sal-L5
+
+<region>
+sample=Grand Piano Samples/A0v1L.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=80 hivel=95
+offset=0 end=640870
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1L.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=80 hivel=95
+offset=0 end=580363
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1L.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=80 hivel=95
+offset=0 end=403473
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1L.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=80 hivel=95
+offset=0 end=393627
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1L.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=80 hivel=95
+offset=0 end=369882
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1L.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=80 hivel=95
+offset=0 end=261317
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1L.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=80 hivel=95
+offset=0 end=169130
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1L.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=80 hivel=95
+offset=0 end=87815
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1L.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=80 hivel=95
+offset=0 end=601712
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1L.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=80 hivel=95
+offset=0 end=550726
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1L.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=80 hivel=95
+offset=0 end=398989
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1L.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=80 hivel=95
+offset=0 end=367373
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1L.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=80 hivel=95
+offset=0 end=329033
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1L.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=80 hivel=95
+offset=0 end=159749
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1L.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=80 hivel=95
+offset=0 end=126764
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A0v1R.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=80 hivel=95
+offset=0 end=640870
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1R.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=80 hivel=95
+offset=0 end=580363
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1R.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=80 hivel=95
+offset=0 end=403473
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1R.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=80 hivel=95
+offset=0 end=393627
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1R.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=80 hivel=95
+offset=0 end=369882
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1R.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=80 hivel=95
+offset=0 end=261317
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1R.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=80 hivel=95
+offset=0 end=169130
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1R.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=80 hivel=95
+offset=0 end=87815
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1R.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=80 hivel=95
+offset=0 end=601712
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1R.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=80 hivel=95
+offset=0 end=550726
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1R.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=80 hivel=95
+offset=0 end=398989
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1R.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=80 hivel=95
+offset=0 end=367373
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1R.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=80 hivel=95
+offset=0 end=329033
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1R.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=80 hivel=95
+offset=0 end=159749
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1R.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=80 hivel=95
+offset=0 end=126764
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=5999.23 resonance=0.00
+
+<group>
+group_label=Sal-L6
+
+<region>
+sample=Grand Piano Samples/A0v1L.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=96 hivel=111
+offset=0 end=640870
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1L.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=96 hivel=111
+offset=0 end=580363
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1L.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=96 hivel=111
+offset=0 end=403473
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1L.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=96 hivel=111
+offset=0 end=393627
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1L.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=96 hivel=111
+offset=0 end=369882
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1L.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=96 hivel=111
+offset=0 end=261317
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1L.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=96 hivel=111
+offset=0 end=169130
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1L.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=96 hivel=111
+offset=0 end=87815
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1L.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=96 hivel=111
+offset=0 end=601712
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1L.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=96 hivel=111
+offset=0 end=550726
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1L.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=96 hivel=111
+offset=0 end=398989
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1L.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=96 hivel=111
+offset=0 end=367373
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1L.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=96 hivel=111
+offset=0 end=329033
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1L.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=96 hivel=111
+offset=0 end=159749
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1L.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=96 hivel=111
+offset=0 end=126764
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A0v1R.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=96 hivel=111
+offset=0 end=640870
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1R.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=96 hivel=111
+offset=0 end=580363
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1R.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=96 hivel=111
+offset=0 end=403473
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1R.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=96 hivel=111
+offset=0 end=393627
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1R.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=96 hivel=111
+offset=0 end=369882
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1R.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=96 hivel=111
+offset=0 end=261317
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1R.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=96 hivel=111
+offset=0 end=169130
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1R.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=96 hivel=111
+offset=0 end=87815
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1R.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=96 hivel=111
+offset=0 end=601712
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1R.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=96 hivel=111
+offset=0 end=550726
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1R.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=96 hivel=111
+offset=0 end=398989
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1R.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=96 hivel=111
+offset=0 end=367373
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1R.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=96 hivel=111
+offset=0 end=329033
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1R.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=96 hivel=111
+offset=0 end=159749
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1R.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=96 hivel=111
+offset=0 end=126764
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=8999.08 resonance=0.00
+
+<group>
+group_label=Sal-L7
+
+<region>
+sample=Grand Piano Samples/A0v1L.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=112
+offset=0 end=640870
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1L.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=112
+offset=0 end=580363
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1L.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=112
+offset=0 end=403473
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1L.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=112
+offset=0 end=393627
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1L.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=112
+offset=0 end=369882
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1L.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=112
+offset=0 end=261317
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1L.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=112
+offset=0 end=169130
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1L.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=112
+offset=0 end=87815
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1L.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=112
+offset=0 end=601712
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1L.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=112
+offset=0 end=550726
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1L.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=112
+offset=0 end=398989
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1L.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=112
+offset=0 end=367373
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1L.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=112
+offset=0 end=329033
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1L.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=112
+offset=0 end=159749
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1L.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=112
+offset=0 end=126764
+pan=-100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A0v1R.wav
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=112
+offset=0 end=640870
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A1v1R.wav
+pitch_keycenter=33
+lokey=30 hikey=35
+lovel=112
+offset=0 end=580363
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A2v1R.wav
+pitch_keycenter=45
+lokey=42 hikey=47
+lovel=112
+offset=0 end=403473
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A3v1R.wav
+pitch_keycenter=57
+lokey=54 hikey=59
+lovel=112
+offset=0 end=393627
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A4v1R.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=112
+offset=0 end=369882
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A5v1R.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+lovel=112
+offset=0 end=261317
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A6v1R.wav
+pitch_keycenter=93
+lokey=90 hikey=95
+lovel=112
+offset=0 end=169130
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/A7v1R.wav
+pitch_keycenter=105
+lokey=102 hikey=108
+lovel=112
+offset=0 end=87815
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.999094040915632 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#1v1R.wav
+pitch_keycenter=27
+lokey=24 hikey=29
+lovel=112
+offset=0 end=601712
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#2v1R.wav
+pitch_keycenter=39
+lokey=36 hikey=41
+lovel=112
+offset=0 end=550726
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#3v1R.wav
+pitch_keycenter=51
+lokey=48 hikey=53
+lovel=112
+offset=0 end=398989
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#4v1R.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+lovel=112
+offset=0 end=367373
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#5v1R.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+lovel=112
+offset=0 end=329033
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#6v1R.wav
+pitch_keycenter=87
+lokey=84 hikey=89
+lovel=112
+offset=0 end=159749
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=1.0 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/D#7v1R.wav
+pitch_keycenter=99
+lokey=96 hikey=101
+lovel=112
+offset=0 end=126764
+pan=100
+ampeg_attack=0.0029999759838097873 ampeg_hold=0.8001449797226382 ampeg_decay=100.0 ampeg_release=4.990438772450622 ampeg_sustain=70.0
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=11998.46 resonance=0.00
+
+<group>
+group_label=Sal-Res
+
+<region>
+sample=Grand Piano Samples/harmLA4L.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+offset=0 end=125346
+volume=0.13
+pan=-100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLA5L.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+offset=0 end=126756
+volume=0.13
+pan=-100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLD#3L.wav
+pitch_keycenter=51
+lokey=36 hikey=53
+offset=0 end=124406
+volume=0.13
+pan=-100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLD#4L.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+offset=0 end=124876
+volume=0.13
+pan=-100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLD#5L.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+offset=0 end=125581
+volume=0.13
+pan=-100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLD#6L.wav
+pitch_keycenter=87
+lokey=84 hikey=96
+offset=0 end=122526
+volume=0.13
+pan=-100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLF#3L.wav
+pitch_keycenter=54
+lokey=54 hikey=59
+offset=0 end=122996
+volume=0.13
+pan=-100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLA4R.wav
+pitch_keycenter=69
+lokey=66 hikey=71
+offset=0 end=125346
+volume=0.13
+pan=100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLA5R.wav
+pitch_keycenter=81
+lokey=78 hikey=83
+offset=0 end=126756
+volume=0.13
+pan=100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLD#3R.wav
+pitch_keycenter=51
+lokey=36 hikey=53
+offset=0 end=124406
+volume=0.13
+pan=100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLD#4R.wav
+pitch_keycenter=63
+lokey=60 hikey=65
+offset=0 end=124876
+volume=0.13
+pan=100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLD#5R.wav
+pitch_keycenter=75
+lokey=72 hikey=77
+offset=0 end=125581
+volume=0.13
+pan=100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLD#6R.wav
+pitch_keycenter=87
+lokey=84 hikey=96
+offset=0 end=122526
+volume=0.13
+pan=100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/harmLF#3R.wav
+pitch_keycenter=54
+lokey=54 hikey=59
+offset=0 end=122996
+volume=0.13
+pan=100
+ampeg_release=0.9002098984181095
+loop_mode=no_loop 

@@ -1,0 +1,3320 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Strix Soundfont Team
+//// Category: Unknown
+//// Comment2: This is a beta release, please report any bugs.
+//// 
+//// Version 4.04
+//// Added new 60s organ sound!
+//// 
+//// Version 4.03a
+//// Fixed chorus guitar.
+//// 
+//// Version 4.03
+//// Improved Ice Rain.
+//// New Explosion (old explosion was non-commercial only)
+//// 
+//// Version 4.02
+//// Fixed looping on instruments.
+//// Broken bassoon patch fixed.
+//// Preliminary attempt to fix ocarina tuning.
+//// 
+//// Version 4.01
+//// Fixed church organ 3
+//// 
+//// Version 4.00
+//// Added stuff from public domain version of Airfont
+//// 
+//// Version 1.20
+//// Sitar fixes
+//// 
+//// Version 1.11
+//// Oboe, finger bass and pick bass fixes.
+//// 
+//// Version 1.10
+//// Fixed the Upright Piano being at the position of Steel Drum.
+//// 
+//// Version 1.01
+//// Fixed vibraphone clicking/note glitches, added Upright Piano.
+//// 
+//// Version 1.00
+//// Initial Release, supports GM/SC-55.
+//// ---------------------------------------------------
+//// This SoundFont has been assembled from multiple sources, and has been checked for non-public domain samples. All non-public domain samples were removed if present.
+//// 
+//// Copyright Notice:  If by chance you are the copyright holder of the material used in this soundfont just write me an email at: dsoundfont123@gmail.com and I will take down/correct the SoundFont as soon as possible.
+//// 
+//// Thanks!
+//// ---------------------------------------------------
+//// License: Creative Commons CC0
+//// Copyright: Public Domain
+
+<global>
+global_label=Spatial Bright Piano
+
+<group>
+group_label=Bright Spatial Grand
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(L).wav
+pitch_keycenter=108
+lokey=105 hikey=127
+offset=0 end=17551
+pan=83
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(L).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=100
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(L).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=100
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(L).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=100
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(L).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=100
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(L).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=100
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(L).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=100
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(L).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=100
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(L).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=100
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(L).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=100
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(L).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=89
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(L).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=76
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(L).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=64
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(L).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=51
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(L).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=38
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(L).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=26
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(L).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=13
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(L).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=1
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(L).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-12
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(L).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-59
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(R).wav
+pitch_keycenter=108
+lokey=105 hikey=108
+offset=0 end=17551
+pan=67
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(R).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=21
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(R).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=5
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(R).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=-10
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(R).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=-26
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(R).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=-45
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(R).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=-61
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(R).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=-73
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(R).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=-86
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(R).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=-98
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(R).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=-100
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(R).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=-100
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(R).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=-100
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(R).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=-100
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(R).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=-100
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(R).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=-100
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(R).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=-100
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(R).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=-100
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(R).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-100
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(R).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-100
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<group>
+group_label=Bright Spatial Grand
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(L).wav
+pitch_keycenter=108
+lokey=105 hikey=127
+offset=0 end=17551
+pan=83
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(L).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=100
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(L).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=100
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(L).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=100
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(L).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=100
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(L).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=100
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(L).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=100
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(L).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=100
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(L).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=100
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(L).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=100
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(L).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=89
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(L).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=76
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(L).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=64
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(L).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=51
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(L).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=38
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(L).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=26
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(L).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=13
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(L).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=1
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(L).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-12
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(L).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-59
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(R).wav
+pitch_keycenter=108
+lokey=105 hikey=108
+offset=0 end=17551
+pan=67
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(R).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=21
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(R).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=5
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(R).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=-10
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(R).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=-26
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(R).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=-45
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(R).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=-61
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(R).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=-73
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(R).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=-86
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(R).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=-98
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(R).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=-100
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(R).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=-100
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(R).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=-100
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(R).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=-100
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(R).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=-100
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(R).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=-100
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(R).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=-100
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(R).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=-100
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(R).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-100
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(R).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-100
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<group>
+group_label=Bright Spatial Grand
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(L).wav
+pitch_keycenter=108
+lokey=105 hikey=127
+offset=0 end=17551
+pan=83
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(L).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=100
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(L).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=100
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(L).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=100
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(L).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=100
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(L).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=100
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(L).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=100
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(L).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=100
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(L).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=100
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(L).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=100
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(L).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=89
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(L).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=76
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(L).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=64
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(L).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=51
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(L).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=38
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(L).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=26
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(L).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=13
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(L).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=1
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(L).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-12
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(L).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-59
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(R).wav
+pitch_keycenter=108
+lokey=105 hikey=108
+offset=0 end=17551
+pan=67
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(R).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=21
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(R).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=5
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(R).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=-10
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(R).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=-26
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(R).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=-45
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(R).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=-61
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(R).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=-73
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(R).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=-86
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(R).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=-98
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(R).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=-100
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(R).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=-100
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(R).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=-100
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(R).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=-100
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(R).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=-100
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(R).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=-100
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(R).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=-100
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(R).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=-100
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(R).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-100
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(R).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-100
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<group>
+group_label=Bright Spatial Grand
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(L).wav
+pitch_keycenter=108
+lokey=105 hikey=127
+offset=0 end=17551
+pan=83
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(L).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=100
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(L).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=100
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(L).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=100
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(L).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=100
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(L).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=100
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(L).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=100
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(L).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=100
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(L).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=100
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(L).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=100
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(L).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=89
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(L).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=76
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(L).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=64
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(L).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=51
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(L).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=38
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(L).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=26
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(L).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=13
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(L).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=1
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(L).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-12
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(L).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-59
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(R).wav
+pitch_keycenter=108
+lokey=105 hikey=108
+offset=0 end=17551
+pan=67
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(R).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=21
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(R).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=5
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(R).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=-10
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(R).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=-26
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(R).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=-45
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(R).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=-61
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(R).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=-73
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(R).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=-86
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(R).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=-98
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(R).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=-100
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(R).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=-100
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(R).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=-100
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(R).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=-100
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(R).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=-100
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(R).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=-100
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(R).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=-100
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(R).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=-100
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(R).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-100
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(R).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-100
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<group>
+group_label=Bright Spatial Grand
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(L).wav
+pitch_keycenter=108
+lokey=105 hikey=127
+offset=0 end=17551
+pan=83
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(L).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=100
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(L).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=100
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(L).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=100
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(L).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=100
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(L).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=100
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(L).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=100
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(L).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=100
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(L).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=100
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(L).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=100
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(L).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=89
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(L).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=76
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(L).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=64
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(L).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=51
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(L).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=38
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(L).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=26
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(L).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=13
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(L).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=1
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(L).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-12
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(L).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-59
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(R).wav
+pitch_keycenter=108
+lokey=105 hikey=108
+offset=0 end=17551
+pan=67
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(R).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=21
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(R).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=5
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(R).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=-10
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(R).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=-26
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(R).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=-45
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(R).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=-61
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(R).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=-73
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(R).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=-86
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(R).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=-98
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(R).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=-100
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(R).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=-100
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(R).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=-100
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(R).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=-100
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(R).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=-100
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(R).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=-100
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(R).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=-100
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(R).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=-100
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(R).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-100
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(R).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-100
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<group>
+group_label=Bright Spatial Grand
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(L).wav
+pitch_keycenter=108
+lokey=105 hikey=127
+offset=0 end=17551
+pan=83
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(L).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=100
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(L).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=100
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(L).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=100
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(L).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=100
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(L).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=100
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(L).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=100
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(L).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=100
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(L).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=100
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(L).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=100
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(L).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=89
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(L).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=76
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(L).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=64
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(L).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=51
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(L).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=38
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(L).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=26
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(L).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=13
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(L).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=1
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(L).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-12
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(L).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-59
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(R).wav
+pitch_keycenter=108
+lokey=105 hikey=108
+offset=0 end=17551
+pan=67
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(R).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=21
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(R).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=5
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(R).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=-10
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(R).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=-26
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(R).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=-45
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(R).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=-61
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(R).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=-73
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(R).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=-86
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(R).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=-98
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(R).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=-100
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(R).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=-100
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(R).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=-100
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(R).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=-100
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(R).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=-100
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(R).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=-100
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(R).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=-100
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(R).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=-100
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(R).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-100
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(R).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-100
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<group>
+group_label=Bright Spatial Grand
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(L).wav
+pitch_keycenter=108
+lokey=105 hikey=127
+offset=0 end=17551
+pan=83
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(L).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=100
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(L).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=100
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(L).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=100
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(L).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=100
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(L).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=100
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(L).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=100
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(L).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=100
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(L).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=100
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(L).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=100
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(L).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=89
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(L).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=76
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(L).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=64
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(L).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=51
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(L).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=38
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(L).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=26
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(L).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=13
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(L).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=1
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(L).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-12
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(L).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-59
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(R).wav
+pitch_keycenter=108
+lokey=105 hikey=108
+offset=0 end=17551
+pan=67
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(R).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=21
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(R).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=5
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(R).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=-10
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(R).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=-26
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(R).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=-45
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(R).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=-61
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(R).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=-73
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(R).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=-86
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(R).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=-98
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(R).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=-100
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(R).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=-100
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(R).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=-100
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(R).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=-100
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(R).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=-100
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(R).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=-100
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(R).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=-100
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(R).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=-100
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(R).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-100
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(R).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-100
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<group>
+group_label=Bright Spatial Grand
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(L).wav
+pitch_keycenter=108
+lokey=105 hikey=127
+offset=0 end=17551
+pan=83
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(L).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=100
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(L).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=100
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(L).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=100
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(L).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=100
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(L).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=100
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(L).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=100
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(L).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=100
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(L).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=100
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(L).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=100
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(L).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=89
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(L).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=76
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(L).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=64
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(L).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=51
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(L).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=38
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(L).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=26
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(L).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=13
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(L).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=1
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(L).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-12
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(L).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-59
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(R).wav
+pitch_keycenter=108
+lokey=105 hikey=108
+offset=0 end=17551
+pan=67
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(R).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=21
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(R).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=5
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(R).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=-10
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(R).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=-26
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(R).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=-45
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(R).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=-61
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(R).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=-73
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(R).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=-86
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(R).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=-98
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(R).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=-100
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(R).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=-100
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(R).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=-100
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(R).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=-100
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(R).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=-100
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(R).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=-100
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(R).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=-100
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(R).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=-100
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(R).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-100
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(R).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-100
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<group>
+group_label=Bright Spatial Grand
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(L).wav
+pitch_keycenter=108
+lokey=105 hikey=127
+offset=0 end=17551
+pan=83
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(L).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=100
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(L).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=100
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(L).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=100
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(L).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=100
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(L).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=100
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(L).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=100
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(L).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=100
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(L).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=100
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(L).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=100
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(L).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=89
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(L).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=76
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(L).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=64
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(L).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=51
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(L).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=38
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(L).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=26
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(L).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=13
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(L).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=1
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(L).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-12
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(L).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-59
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C10(R).wav
+pitch_keycenter=108
+lokey=105 hikey=108
+offset=0 end=17551
+pan=67
+ampeg_decay=3.6999351900974746 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=16603 loop_end=17547
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano G#9(R).wav
+pitch_keycenter=104
+lokey=100 hikey=104
+offset=0 end=19440
+pan=21
+ampeg_decay=4.8009946666610706 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=18873 loop_end=19437
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D#8(R).wav
+pitch_keycenter=99
+lokey=95 hikey=99
+offset=0 end=24965
+pan=5
+ampeg_decay=5.199357417696995 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=24558 loop_end=24961
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#7(R).wav
+pitch_keycenter=94
+lokey=91 hikey=94
+offset=0 end=57213
+pan=-10
+ampeg_decay=9.998188081831264 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55441 loop_end=57210
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#7(R).wav
+pitch_keycenter=90
+lokey=85 hikey=90
+offset=0 end=83143
+pan=-26
+ampeg_hold=0.5 ampeg_decay=10.997980027664664 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=55512 loop_end=83139
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano C7(R).wav
+pitch_keycenter=84
+lokey=79 hikey=84
+offset=0 end=64136
+pan=-45
+ampeg_hold=0.5 ampeg_decay=20.205367219066247 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60470 loop_end=64131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#6(R).wav
+pitch_keycenter=78
+lokey=75 hikey=78
+offset=0 end=104352
+pan=-61
+ampeg_hold=1.5000389892858181 ampeg_decay=20.298951901198897 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=65470 loop_end=104348
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D6(R).wav
+pitch_keycenter=74
+lokey=71 hikey=74
+offset=0 end=92402
+pan=-73
+ampeg_hold=2.0 ampeg_decay=14.997671944959682 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=60864 loop_end=92399
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#5(R).wav
+pitch_keycenter=70
+lokey=67 hikey=70
+offset=0 end=97973
+pan=-86
+ampeg_hold=1.4003945316218593 ampeg_decay=16.0 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=70933 loop_end=97968
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#5(R).wav
+pitch_keycenter=66
+lokey=63 hikey=66
+offset=0 end=121868
+pan=-98
+ampeg_hold=0.6001243333326338 ampeg_decay=25.005380733519765 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=85968 loop_end=121862
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D5(R).wav
+pitch_keycenter=62
+lokey=59 hikey=62
+offset=0 end=143168
+pan=-100
+ampeg_hold=0.6001243333326338 ampeg_decay=29.007083309699535 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=100644 loop_end=143166
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#4(R).wav
+pitch_keycenter=58
+lokey=55 hikey=58
+offset=0 end=120647
+pan=-100
+ampeg_hold=1.0 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=72607 loop_end=120643
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#4(R).wav
+pitch_keycenter=54
+lokey=51 hikey=54
+offset=0 end=116430
+pan=-100
+ampeg_hold=1.0 ampeg_decay=42.493393814044715 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=75823 loop_end=116424
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D4(R).wav
+pitch_keycenter=50
+lokey=47 hikey=50
+offset=0 end=150967
+pan=-100
+ampeg_hold=3.0000779785716363 ampeg_decay=39.99275232732504 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=106622 loop_end=150963
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#3(R).wav
+pitch_keycenter=46
+lokey=43 hikey=46
+offset=0 end=194464
+pan=-100
+ampeg_hold=3.5003519789808375 ampeg_decay=42.591687911159774 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=150425 loop_end=194457
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#3(R).wav
+pitch_keycenter=42
+lokey=39 hikey=42
+offset=0 end=214446
+pan=-100
+ampeg_hold=4.999094040915632 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=166050 loop_end=214439
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D3(R).wav
+pitch_keycenter=38
+lokey=35 hikey=38
+offset=0 end=266137
+pan=-100
+ampeg_hold=2.8007890632437187 ampeg_decay=44.99418533191517 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=219048 loop_end=266131
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano A#2(R).wav
+pitch_keycenter=34
+lokey=31 hikey=34
+offset=0 end=227457
+pan=-100
+ampeg_hold=5.498990013832332 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=178403 loop_end=227452
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano F#2(R).wav
+pitch_keycenter=30
+lokey=27 hikey=30
+offset=0 end=269078
+pan=-100
+ampeg_hold=6.401159837781106 ampeg_decay=42.00531555756023 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=220655 loop_end=269074
+
+<region>
+sample=Spatial Bright Piano Samples/Flor Piano D2(R).wav
+pitch_keycenter=26
+lokey=0 hikey=26
+offset=0 end=302500
+pan=-100
+ampeg_hold=6.0001559571432725 ampeg_decay=40.99852210560645 ampeg_release=1.0 ampeg_sustain=0.0
+loop_mode=loop_continuous loop_start=235511 loop_end=302497

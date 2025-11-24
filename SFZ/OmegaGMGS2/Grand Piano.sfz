@@ -1,0 +1,874 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Rick Simon
+//// Category: Unknown
+//// Comment2: Latest Version: v4.3 Updated 07/02/2016
+//// 
+//// v4.3
+//// -Alto Sax replaced...again.
+//// -Renamed Drumsets due to typos
+//// -Added some hotsauce and chili powder
+//// 
+//// v4.2
+//// -Replaced Soundtrack
+//// -Replaced Synth Drums
+//// -New drum sets 
+//// -More balancing...balancing....balancing....
+//// 
+//// v4.1
+//// -Totally new SFX Drum set from the Roland SC-88 Pro
+//// -Added drum set 128:057 Rhythm FX Kit
+//// -Added many additional Presets (470 up from 358!)
+//// -Added Roland MT32 sounds
+//// -Updated Alto Sax
+//// -Reverted to old Acoustic Guitar
+//// 
+//// v4.0
+//// -Hand clap from the Roland FA-06 added to drum kits, replacing former sound
+//// -Updated Clavinet
+//// -Updated Synth Strings 1
+//// -Updated Synth Strings 2
+//// -Updated Flute 
+//// -Complete balance adjustment for all presets
+//// 
+//// v3.3
+//// -Updated Music Box
+//// -Updated Rock Organ
+//// -Updated Overdriven Guitar
+//// -Updated Distortion Guitar
+//// -Updated String Ensemble (from the Korg Trinity)
+//// -Updated Pan Flute
+//// -Updated Saxes (all)
+//// -Updated Space Voice
+//// -General Balancing Improvements
+//// Copyright: Rick Simon, (c) 2016 all rights reserved
+
+<global>
+global_label=Grand Piano
+
+<group>
+group_label=Roland 64Voice1
+ampeg_release=6.0001559571432725
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(L).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=100
+offset=0 end=315010
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(L).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=100
+offset=0 end=283078
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(L).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=100
+offset=0 end=245845
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(R).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=100
+offset=0 end=315010
+volume=0.13
+pan=100
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(R).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=100
+offset=0 end=283078
+volume=0.13
+pan=100
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(R).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=100
+offset=0 end=245845
+volume=0.13
+pan=100
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_re3.wav
+pitch_keycenter=62
+lokey=60 hikey=64
+lovel=100
+offset=0 end=164548
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_lab3.wav
+pitch_keycenter=68
+lokey=65 hikey=70
+lovel=100
+offset=0 end=149087
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_mib4.wav
+pitch_keycenter=75
+lokey=71 hikey=77
+lovel=100
+offset=0 end=115545
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_lab4.wav
+pitch_keycenter=80
+lokey=78 hikey=82
+lovel=100
+offset=0 end=89719
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_do5.wav
+pitch_keycenter=84
+lokey=83 hikey=86
+lovel=100
+offset=0 end=90162
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_solb5.wav
+pitch_keycenter=90
+lokey=87 hikey=108
+lovel=100
+offset=0 end=69703
+volume=0.13
+loop_mode=no_loop 
+
+<region>
+sample=Grand Piano Samples/64Voice_re2.wav
+pitch_keycenter=50
+lokey=48 hikey=52
+lovel=100
+offset=0 end=261966
+volume=0.13
+loop_mode=no_loop 
+
+<group>
+group_label=Roland 64Voice2
+ampeg_release=5.679773243136408
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(L).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=90 hivel=99
+offset=0 end=315010
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(L).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=90 hivel=99
+offset=0 end=283078
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(L).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=90 hivel=99
+offset=0 end=245845
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(R).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=90 hivel=99
+offset=0 end=315010
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(R).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=90 hivel=99
+offset=0 end=283078
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(R).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=90 hivel=99
+offset=0 end=245845
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re3.wav
+pitch_keycenter=62
+lokey=60 hikey=64
+lovel=90 hivel=99
+offset=0 end=164548
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab3.wav
+pitch_keycenter=68
+lokey=65 hikey=70
+lovel=90 hivel=99
+offset=0 end=149087
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mib4.wav
+pitch_keycenter=75
+lokey=71 hikey=77
+lovel=90 hivel=99
+offset=0 end=115545
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab4.wav
+pitch_keycenter=80
+lokey=78 hikey=82
+lovel=90 hivel=99
+offset=0 end=89719
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_do5.wav
+pitch_keycenter=84
+lokey=83 hikey=86
+lovel=90 hivel=99
+offset=0 end=90162
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_solb5.wav
+pitch_keycenter=90
+lokey=87 hikey=108
+lovel=90 hivel=99
+offset=0 end=69703
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re2.wav
+pitch_keycenter=50
+lokey=48 hikey=52
+lovel=90 hivel=99
+offset=0 end=261966
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=3798.98 resonance=0.00
+
+<group>
+group_label=Roland 64Voice3
+ampeg_release=4.999094040915632
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(L).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=78 hivel=89
+offset=0 end=315010
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(L).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=78 hivel=89
+offset=0 end=283078
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(L).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=78 hivel=89
+offset=0 end=245845
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(R).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=78 hivel=89
+offset=0 end=315010
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(R).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=78 hivel=89
+offset=0 end=283078
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(R).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=78 hivel=89
+offset=0 end=245845
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re3.wav
+pitch_keycenter=62
+lokey=60 hikey=64
+lovel=78 hivel=89
+offset=0 end=164548
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab3.wav
+pitch_keycenter=68
+lokey=65 hikey=70
+lovel=78 hivel=89
+offset=0 end=149087
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mib4.wav
+pitch_keycenter=75
+lokey=71 hikey=77
+lovel=78 hivel=89
+offset=0 end=115545
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab4.wav
+pitch_keycenter=80
+lokey=78 hikey=82
+lovel=78 hivel=89
+offset=0 end=89719
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_do5.wav
+pitch_keycenter=84
+lokey=83 hikey=86
+lovel=78 hivel=89
+offset=0 end=90162
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_solb5.wav
+pitch_keycenter=90
+lokey=87 hikey=108
+lovel=78 hivel=89
+offset=0 end=69703
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re2.wav
+pitch_keycenter=50
+lokey=48 hikey=52
+lovel=78 hivel=89
+offset=0 end=261966
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=2500.61 resonance=0.00
+
+<group>
+group_label=Roland 64Voice4
+ampeg_release=4.259940657503485
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(L).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=64 hivel=77
+offset=0 end=315010
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(L).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=64 hivel=77
+offset=0 end=283078
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(L).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=64 hivel=77
+offset=0 end=245845
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(R).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=64 hivel=77
+offset=0 end=315010
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(R).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=64 hivel=77
+offset=0 end=283078
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(R).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=64 hivel=77
+offset=0 end=245845
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re3.wav
+pitch_keycenter=62
+lokey=60 hikey=64
+lovel=64 hivel=77
+offset=0 end=164548
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab3.wav
+pitch_keycenter=68
+lokey=65 hikey=70
+lovel=64 hivel=77
+offset=0 end=149087
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mib4.wav
+pitch_keycenter=75
+lokey=71 hikey=77
+lovel=64 hivel=77
+offset=0 end=115545
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab4.wav
+pitch_keycenter=80
+lokey=78 hikey=82
+lovel=64 hivel=77
+offset=0 end=89719
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_do5.wav
+pitch_keycenter=84
+lokey=83 hikey=86
+lovel=64 hivel=77
+offset=0 end=90162
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_solb5.wav
+pitch_keycenter=90
+lokey=87 hikey=108
+lovel=64 hivel=77
+offset=0 end=69703
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re2.wav
+pitch_keycenter=50
+lokey=48 hikey=52
+lovel=64 hivel=77
+offset=0 end=261966
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=1499.81 resonance=0.00
+
+<group>
+group_label=Roland 64Voice5
+ampeg_release=3.0000779785716363
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(L).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=52 hivel=63
+offset=0 end=315010
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(L).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=52 hivel=63
+offset=0 end=283078
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(L).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=52 hivel=63
+offset=0 end=245845
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(R).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+lovel=52 hivel=63
+offset=0 end=315010
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(R).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+lovel=52 hivel=63
+offset=0 end=283078
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(R).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+lovel=52 hivel=63
+offset=0 end=245845
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re3.wav
+pitch_keycenter=62
+lokey=60 hikey=64
+lovel=52 hivel=63
+offset=0 end=164548
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab3.wav
+pitch_keycenter=68
+lokey=65 hikey=70
+lovel=52 hivel=63
+offset=0 end=149087
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mib4.wav
+pitch_keycenter=75
+lokey=71 hikey=77
+lovel=52 hivel=63
+offset=0 end=115545
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab4.wav
+pitch_keycenter=80
+lokey=78 hikey=82
+lovel=52 hivel=63
+offset=0 end=89719
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_do5.wav
+pitch_keycenter=84
+lokey=83 hikey=86
+lovel=52 hivel=63
+offset=0 end=90162
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_solb5.wav
+pitch_keycenter=90
+lokey=87 hikey=108
+lovel=52 hivel=63
+offset=0 end=69703
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re2.wav
+pitch_keycenter=50
+lokey=48 hikey=52
+lovel=52 hivel=63
+offset=0 end=261966
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=949.74 resonance=0.00
+
+<group>
+group_label=Roland 64Voice6
+ampeg_release=3.0000779785716363
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(L).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+hivel=51
+offset=0 end=315010
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(L).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+hivel=51
+offset=0 end=283078
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(L).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+hivel=51
+offset=0 end=245845
+volume=0.13
+pan=-100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mi0(R).wav
+pitch_keycenter=40
+lokey=24 hikey=43
+hivel=51
+offset=0 end=315010
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_si0(R).wav
+pitch_keycenter=47
+lokey=44 hikey=47
+hivel=51
+offset=0 end=283078
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab1(R).wav
+pitch_keycenter=56
+lokey=53 hikey=59
+hivel=51
+offset=0 end=245845
+volume=0.13
+pan=100
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re3.wav
+pitch_keycenter=62
+lokey=60 hikey=64
+hivel=51
+offset=0 end=164548
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab3.wav
+pitch_keycenter=68
+lokey=65 hikey=70
+hivel=51
+offset=0 end=149087
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_mib4.wav
+pitch_keycenter=75
+lokey=71 hikey=77
+hivel=51
+offset=0 end=115545
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_lab4.wav
+pitch_keycenter=80
+lokey=78 hikey=82
+hivel=51
+offset=0 end=89719
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_do5.wav
+pitch_keycenter=84
+lokey=83 hikey=86
+hivel=51
+offset=0 end=90162
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_solb5.wav
+pitch_keycenter=90
+lokey=87 hikey=108
+hivel=51
+offset=0 end=69703
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
+
+<region>
+sample=Grand Piano Samples/64Voice_re2.wav
+pitch_keycenter=50
+lokey=48 hikey=52
+hivel=51
+offset=0 end=261966
+volume=0.13
+loop_mode=no_loop 
+fil_type=lpf_2p cutoff=600.03 resonance=0.00
