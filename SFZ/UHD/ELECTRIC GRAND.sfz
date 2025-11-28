@@ -1,0 +1,1439 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Peter Jevnisek, Chris Wadge and other contributors. Not for commercial distribution.
+//// Category: Unknown
+//// Comment2: Revision 3.31
+//// 128 GM melodic presets
+////   31 GS melodic variation tones
+////   10 Drum banks
+//// Copyright: Peter Jevnisek and Chris Wadge
+
+<global>
+global_label=ELECTRIC GRAND
+
+<group>
+group_label=GrandPiano Velo11
+ampeg_decay=62.71911656687228 ampeg_release=0.8781260801866497 ampeg_sustain=0.0
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(L).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+hivel=25
+offset=0 end=160203
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(L).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+hivel=25
+offset=0 end=160827
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(L).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+hivel=25
+offset=0 end=162723
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(L).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+hivel=25
+offset=0 end=162550
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(L).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+hivel=25
+offset=0 end=134596
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(L).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+hivel=25
+offset=0 end=96038
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(L).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+hivel=25
+offset=0 end=96584
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(L).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+hivel=25
+offset=0 end=73435
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(L).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+hivel=25
+offset=0 end=94893
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(L).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+hivel=25
+offset=0 end=33773
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(L).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+hivel=25
+offset=0 end=24364
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(L).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+hivel=25
+offset=0 end=39750
+tune=-4
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(R).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+hivel=25
+offset=0 end=160203
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(R).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+hivel=25
+offset=0 end=160827
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(R).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+hivel=25
+offset=0 end=162723
+tune=-4
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(R).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+hivel=25
+offset=0 end=162550
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(R).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+hivel=25
+offset=0 end=134596
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(R).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+hivel=25
+offset=0 end=96038
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(R).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+hivel=25
+offset=0 end=96584
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(R).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+hivel=25
+offset=0 end=73435
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(R).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+hivel=25
+offset=0 end=94893
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(R).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+hivel=25
+offset=0 end=33773
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(R).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+hivel=25
+offset=0 end=24364
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(R).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+hivel=25
+offset=0 end=39750
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+fil_type=lpf_2p cutoff=153.96 resonance=0.00
+
+<group>
+group_label=GrandPiano Velo21
+ampeg_decay=62.71911656687228 ampeg_release=0.8781260801866497 ampeg_sustain=0.0
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(L).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+lovel=26 hivel=50
+offset=0 end=160203
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(L).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+lovel=26 hivel=50
+offset=0 end=160827
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(L).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+lovel=26 hivel=50
+offset=0 end=162723
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(L).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+lovel=26 hivel=50
+offset=0 end=162550
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(L).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+lovel=26 hivel=50
+offset=0 end=134596
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(L).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+lovel=26 hivel=50
+offset=0 end=96038
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(L).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+lovel=26 hivel=50
+offset=0 end=96584
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(L).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+lovel=26 hivel=50
+offset=0 end=73435
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(L).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+lovel=26 hivel=50
+offset=0 end=94893
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(L).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+lovel=26 hivel=50
+offset=0 end=33773
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(L).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+lovel=26 hivel=50
+offset=0 end=24364
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(L).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+lovel=26 hivel=50
+offset=0 end=39750
+tune=-4
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(R).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+lovel=26 hivel=50
+offset=0 end=160203
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(R).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+lovel=26 hivel=50
+offset=0 end=160827
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(R).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+lovel=26 hivel=50
+offset=0 end=162723
+tune=-4
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(R).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+lovel=26 hivel=50
+offset=0 end=162550
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(R).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+lovel=26 hivel=50
+offset=0 end=134596
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(R).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+lovel=26 hivel=50
+offset=0 end=96038
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(R).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+lovel=26 hivel=50
+offset=0 end=96584
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(R).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+lovel=26 hivel=50
+offset=0 end=73435
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(R).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+lovel=26 hivel=50
+offset=0 end=94893
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(R).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+lovel=26 hivel=50
+offset=0 end=33773
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(R).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+lovel=26 hivel=50
+offset=0 end=24364
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(R).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+lovel=26 hivel=50
+offset=0 end=39750
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+fil_type=lpf_2p cutoff=350.04 resonance=0.00
+
+<group>
+group_label=GrandPiano Velo31
+ampeg_decay=62.71911656687228 ampeg_release=0.8781260801866497 ampeg_sustain=0.0
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(L).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+lovel=51 hivel=75
+offset=0 end=160203
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(L).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+lovel=51 hivel=75
+offset=0 end=160827
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(L).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+lovel=51 hivel=75
+offset=0 end=162723
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(L).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+lovel=51 hivel=75
+offset=0 end=162550
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(L).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+lovel=51 hivel=75
+offset=0 end=134596
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(L).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+lovel=51 hivel=75
+offset=0 end=96038
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(L).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+lovel=51 hivel=75
+offset=0 end=96584
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(L).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+lovel=51 hivel=75
+offset=0 end=73435
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(L).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+lovel=51 hivel=75
+offset=0 end=94893
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(L).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+lovel=51 hivel=75
+offset=0 end=33773
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(L).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+lovel=51 hivel=75
+offset=0 end=24364
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(L).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+lovel=51 hivel=75
+offset=0 end=39750
+tune=-4
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(R).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+lovel=51 hivel=75
+offset=0 end=160203
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(R).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+lovel=51 hivel=75
+offset=0 end=160827
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(R).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+lovel=51 hivel=75
+offset=0 end=162723
+tune=-4
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(R).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+lovel=51 hivel=75
+offset=0 end=162550
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(R).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+lovel=51 hivel=75
+offset=0 end=134596
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(R).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+lovel=51 hivel=75
+offset=0 end=96038
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(R).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+lovel=51 hivel=75
+offset=0 end=96584
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(R).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+lovel=51 hivel=75
+offset=0 end=73435
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(R).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+lovel=51 hivel=75
+offset=0 end=94893
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(R).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+lovel=51 hivel=75
+offset=0 end=33773
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(R).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+lovel=51 hivel=75
+offset=0 end=24364
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(R).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+lovel=51 hivel=75
+offset=0 end=39750
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+fil_type=lpf_2p cutoff=911.58 resonance=0.00
+
+<group>
+group_label=GrandPiano Velo41
+ampeg_decay=62.71911656687228 ampeg_release=0.8781260801866497 ampeg_sustain=0.0
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(L).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+lovel=76 hivel=100
+offset=0 end=160203
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(L).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+lovel=76 hivel=100
+offset=0 end=160827
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(L).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+lovel=76 hivel=100
+offset=0 end=162723
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(L).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+lovel=76 hivel=100
+offset=0 end=162550
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(L).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+lovel=76 hivel=100
+offset=0 end=134596
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(L).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+lovel=76 hivel=100
+offset=0 end=96038
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(L).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+lovel=76 hivel=100
+offset=0 end=96584
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(L).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+lovel=76 hivel=100
+offset=0 end=73435
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(L).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+lovel=76 hivel=100
+offset=0 end=94893
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(L).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+lovel=76 hivel=100
+offset=0 end=33773
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(L).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+lovel=76 hivel=100
+offset=0 end=24364
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(L).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+lovel=76 hivel=100
+offset=0 end=39750
+tune=-4
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(R).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+lovel=76 hivel=100
+offset=0 end=160203
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(R).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+lovel=76 hivel=100
+offset=0 end=160827
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(R).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+lovel=76 hivel=100
+offset=0 end=162723
+tune=-4
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(R).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+lovel=76 hivel=100
+offset=0 end=162550
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(R).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+lovel=76 hivel=100
+offset=0 end=134596
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(R).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+lovel=76 hivel=100
+offset=0 end=96038
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(R).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+lovel=76 hivel=100
+offset=0 end=96584
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(R).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+lovel=76 hivel=100
+offset=0 end=73435
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(R).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+lovel=76 hivel=100
+offset=0 end=94893
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(R).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+lovel=76 hivel=100
+offset=0 end=33773
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(R).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+lovel=76 hivel=100
+offset=0 end=24364
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(R).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+lovel=76 hivel=100
+offset=0 end=39750
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+fil_type=lpf_2p cutoff=1616.77 resonance=0.00
+
+<group>
+group_label=GrandPiano Velo51
+ampeg_decay=62.71911656687228 ampeg_release=0.8781260801866497 ampeg_sustain=0.0
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(L).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+lovel=101
+offset=0 end=160203
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(L).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+lovel=101
+offset=0 end=160827
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(L).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+lovel=101
+offset=0 end=162723
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(L).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+lovel=101
+offset=0 end=162550
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(L).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+lovel=101
+offset=0 end=134596
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(L).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+lovel=101
+offset=0 end=96038
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(L).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+lovel=101
+offset=0 end=96584
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(L).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+lovel=101
+offset=0 end=73435
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(L).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+lovel=101
+offset=0 end=94893
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(L).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+lovel=101
+offset=0 end=33773
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(L).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+lovel=101
+offset=0 end=24364
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(L).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+lovel=101
+offset=0 end=39750
+tune=-4
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc2(R).wav
+pitch_keycenter=36
+lokey=0 hikey=40
+lovel=101
+offset=0 end=160203
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=103385 loop_end=160198
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg#2(R).wav
+pitch_keycenter=44
+lokey=41 hikey=45
+lovel=101
+offset=0 end=160827
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=104988 loop_end=160822
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc3(R).wav
+pitch_keycenter=48
+lokey=46 hikey=51
+lovel=101
+offset=0 end=162723
+tune=-4
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162505 loop_end=162718
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf3(R).wav
+pitch_keycenter=53
+lokey=52 hikey=55
+lovel=101
+offset=0 end=162550
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=162385 loop_end=162545
+
+<region>
+sample=ELECTRIC GRAND Samples/granda3(R).wav
+pitch_keycenter=57
+lokey=56 hikey=59
+lovel=101
+offset=0 end=134596
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=134464 loop_end=134591
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc#4(R).wav
+pitch_keycenter=61
+lokey=60 hikey=63
+lovel=101
+offset=0 end=96038
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95729 loop_end=96033
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf#4(R).wav
+pitch_keycenter=66
+lokey=64 hikey=68
+lovel=101
+offset=0 end=96584
+tune=1
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=95290 loop_end=96579
+
+<region>
+sample=ELECTRIC GRAND Samples/grandb4(R).wav
+pitch_keycenter=71
+lokey=69 hikey=76
+lovel=101
+offset=0 end=73435
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=73317 loop_end=73430
+
+<region>
+sample=ELECTRIC GRAND Samples/grandf5(R).wav
+pitch_keycenter=77
+lokey=77 hikey=81
+lovel=101
+offset=0 end=94893
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=67236 loop_end=94888
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc6(R).wav
+pitch_keycenter=84
+lokey=82 hikey=86
+lovel=101
+offset=0 end=33773
+tune=-2
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=33688 loop_end=33768
+
+<region>
+sample=ELECTRIC GRAND Samples/grandg6(R).wav
+pitch_keycenter=91
+lokey=87 hikey=93
+lovel=101
+offset=0 end=24364
+tune=-3
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=22527 loop_end=24359
+
+<region>
+sample=ELECTRIC GRAND Samples/grandc7(R).wav
+pitch_keycenter=96
+lokey=94 hikey=120
+lovel=101
+offset=0 end=39750
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=32431 loop_end=39745
+
+<group>
+group_label=ELECT GRAND L7
+ampeg_decay=10.877938982502803 ampeg_release=0.3842187953220031 ampeg_sustain=0.0
+
+<region>
+sample=ELECTRIC GRAND Samples/rhodesfs2la.wav
+pitch_keycenter=42
+lokey=0 hikey=43
+offset=0 end=11254
+tune=-10
+volume=0.13
+loop_mode=loop_continuous loop_start=10043 loop_end=10992
+
+<region>
+sample=ELECTRIC GRAND Samples/rhodesb2la.wav
+pitch_keycenter=47
+lokey=44 hikey=50
+offset=0 end=6266
+tune=-4
+volume=0.13
+loop_mode=loop_continuous loop_start=5112 loop_end=6004
+
+<region>
+sample=ELECTRIC GRAND Samples/rhodesd4la.wav
+pitch_keycenter=62
+lokey=51 hikey=61
+offset=0 end=7440
+tune=-1
+volume=0.13
+loop_mode=loop_continuous loop_start=5676 loop_end=7178
+
+<region>
+sample=ELECTRIC GRAND Samples/rhodesf4la.wav
+pitch_keycenter=65
+lokey=62 hikey=72
+offset=0 end=6013
+tune=-2
+volume=0.13
+loop_mode=loop_continuous loop_start=4742 loop_end=5752
+
+<region>
+sample=ELECTRIC GRAND Samples/rhodesf5la.wav
+pitch_keycenter=77
+lokey=73 hikey=83
+offset=0 end=4526
+volume=0.13
+loop_mode=loop_continuous loop_start=3000 loop_end=4264
+
+<region>
+sample=ELECTRIC GRAND Samples/rhodesas6la.wav
+pitch_keycenter=94
+lokey=84 hikey=118
+offset=0 end=5337
+volume=0.13
+loop_mode=loop_continuous loop_start=3940 loop_end=5076
