@@ -1,0 +1,8 @@
+
+{
+  "name": "Walking Bass",
+  "type": "melodic_generator",
+  "function": "generateWalkingBass",
+  "pattern_duration_beats": 4,
+  "steps": []
+}

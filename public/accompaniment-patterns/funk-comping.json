@@ -1,0 +1,13 @@
+
+{
+  "name": "Funk Comping",
+  "pattern_duration_beats": 4,
+  "steps": [
+    { "time_offset": 0.25, "duration": 0.25, "voicing": "all", "octave_offset": 0, "velocity": 0.85 },
+    { "time_offset": 0.75, "duration": 0.25, "voicing": "all", "octave_offset": 0, "velocity": 0.85 },
+    { "time_offset": 1.5, "duration": 0.25, "voicing": "all", "octave_offset": 0, "velocity": 0.85 },
+    { "time_offset": 2.25, "duration": 0.25, "voicing": "all", "octave_offset": 0, "velocity": 0.85 },
+    { "time_offset": 2.75, "duration": 0.25, "voicing": "all", "octave_offset": 0, "velocity": 0.85 },
+    { "time_offset": 3.5, "duration": 0.25, "voicing": "all", "octave_offset": 0, "velocity": 0.85 }
+  ]
+}

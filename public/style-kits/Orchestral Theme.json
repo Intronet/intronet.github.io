@@ -1,0 +1,10 @@
+
+{
+  "name": "Orchestral Theme",
+  "rhythm_density": "sparse",
+  "rhythm_syncopation": "low",
+  "contour": "arch",
+  "note_selection": "scale_tones",
+  "leap_preference": "wide",
+  "octaveRange": [3, 6]
+}

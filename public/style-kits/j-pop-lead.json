@@ -1,0 +1,9 @@
+{
+  "name": "J-Pop Lead",
+  "rhythm_density": "dense",
+  "rhythm_syncopation": "medium",
+  "contour": "random",
+  "note_selection": "scale_tones",
+  "leap_preference": "wide",
+  "octaveRange": [5, 7]
+}

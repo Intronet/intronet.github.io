@@ -1,0 +1,21 @@
+
+{
+  "Classical & Compositional": [
+    { "file": "alberti-bass.json", "name": "Alberti Bass", "description": "Classic broken chord pattern (low-high-middle-high)." },
+    { "file": "waltz.json", "name": "Waltz", "description": "Oom-pah-pah feel in 3/4 time." },
+    { "file": "arpeggio-up.json", "name": "Arpeggio Up", "description": "Notes of a chord played ascendingly as 8th notes." },
+    { "file": "broken-octaves.json", "name": "Broken Octaves", "description": "Alternating octaves, creating a driving bass line." }
+  ],
+  "Jazz, Blues & Latin": [
+    { "file": "block-chords.json", "name": "Block Chords", "description": "Chords played simply on each beat." },
+    { "file": "stride-piano.json", "name": "Stride Piano", "description": "Alternating bass note and chord (oom-pah)." },
+    { "file": "bossa-nova.json", "name": "Bossa Nova", "description": "Gentle syncopated bass and chord groove." },
+    { "file": "walking-bass.json", "name": "Walking Bass", "description": "Stepwise bass line outlining the harmony on each beat." },
+    { "file": "walking-tenths.json", "name": "Walking Tenths", "description": "A melodic bass line harmonized with a tenth interval." }
+  ],
+  "Pop, Rock & Funk": [
+    { "file": "pop-comping.json", "name": "Pop Comping", "description": "Simple on-beat 8th note chords for pop songs." },
+    { "file": "power-chords.json", "name": "Power Chords", "description": "Driving 8th note root-and-fifth power chords." },
+    { "file": "funk-comping.json", "name": "Funk Comping", "description": "Syncopated, percussive 16th-note chord stabs." }
+  ]
+}
