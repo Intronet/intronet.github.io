@@ -1,0 +1,101 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Category: Bass
+
+<global>
+global_label=electrobass-21
+ampeg_release=0.10001812246532978
+
+<group>
+group_label=electrobass-21
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_C2-.wav
+pitch_keycenter=36
+lokey=0 hikey=37
+offset=0 end=167303
+loop_mode=loop_continuous loop_start=36495 loop_end=167259
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_D2-.wav
+pitch_keycenter=38
+lokey=38 hikey=39
+offset=0 end=125501
+loop_mode=loop_continuous loop_start=45759 loop_end=125457
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_E2-.wav
+pitch_keycenter=40
+lokey=40 hikey=41
+offset=0 end=158349
+loop_mode=loop_continuous loop_start=35234 loop_end=158305
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_F#2-.wav
+pitch_keycenter=42
+lokey=42 hikey=43
+offset=0 end=147718
+loop_mode=loop_continuous loop_start=37065 loop_end=147674
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_G#2-.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+offset=0 end=129204
+loop_mode=loop_continuous loop_start=33175 loop_end=129160
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_A#2-.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+offset=0 end=118483
+loop_mode=loop_continuous loop_start=30658 loop_end=118439
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_C3-.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+offset=0 end=106141
+loop_mode=loop_continuous loop_start=26540 loop_end=106097
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_D3-.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+offset=0 end=87203
+loop_mode=loop_continuous loop_start=18069 loop_end=87159
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_E3-.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+offset=0 end=78904
+loop_mode=loop_continuous loop_start=14643 loop_end=78860
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_F#3-.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+offset=0 end=76016
+loop_mode=loop_continuous loop_start=18761 loop_end=75972
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_G#3-.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+offset=0 end=96019
+loop_mode=loop_continuous loop_start=47126 loop_end=95975
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_A#3-.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+offset=0 end=85433
+loop_mode=loop_continuous loop_start=41869 loop_end=85389
+
+<region>
+sample=electrobass-21 Samples/electrobass-21_C4-.wav
+pitch_keycenter=60
+lokey=60 hikey=127
+offset=0 end=76672
+loop_mode=loop_continuous loop_start=37520 loop_end=76628

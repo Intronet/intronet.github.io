@@ -1,0 +1,101 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Category: Bass
+
+<global>
+global_label=electrobass-19
+ampeg_release=0.10001812246532978
+
+<group>
+group_label=electrobass-19
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_C2-.wav
+pitch_keycenter=36
+lokey=0 hikey=37
+offset=0 end=33401
+loop_mode=loop_continuous loop_start=30658 loop_end=33357
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_D2-.wav
+pitch_keycenter=38
+lokey=38 hikey=39
+offset=0 end=34019
+loop_mode=loop_continuous loop_start=31574 loop_end=33975
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_E2-.wav
+pitch_keycenter=40
+lokey=40 hikey=41
+offset=0 end=32996
+loop_mode=loop_continuous loop_start=29743 loop_end=32952
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_F#2-.wav
+pitch_keycenter=42
+lokey=42 hikey=43
+offset=0 end=28682
+loop_mode=loop_continuous loop_start=27684 loop_end=28638
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_G#2-.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+offset=0 end=26683
+loop_mode=loop_continuous loop_start=24939 loop_end=26639
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_A#2-.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+offset=0 end=30913
+loop_mode=loop_continuous loop_start=28599 loop_end=30869
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_C3-.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+offset=0 end=30643
+loop_mode=loop_continuous loop_start=27226 loop_end=29249
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_D3-.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+offset=0 end=34451
+loop_mode=loop_continuous loop_start=30201 loop_end=33799
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_E3-.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+offset=0 end=31240
+loop_mode=loop_continuous loop_start=29057 loop_end=30660
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_F#3-.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+offset=0 end=27082
+loop_mode=loop_continuous loop_start=26082 loop_end=27038
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_G#3-.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+offset=0 end=28348
+loop_mode=loop_continuous loop_start=27455 loop_end=28304
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_A#3-.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+offset=0 end=31071
+loop_mode=loop_continuous loop_start=29514 loop_end=31027
+
+<region>
+sample=electrobass-19 Samples/electrobass-19_C4-.wav
+pitch_keycenter=60
+lokey=60 hikey=127
+offset=0 end=30219
+loop_mode=loop_continuous loop_start=28828 loop_end=29843
