@@ -1,0 +1,329 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Pipe Nacho
+//// Category: Unknown
+//// Comment2: Visit Musical Artifacts often for new updates! https://musical-artifacts.com/artifacts/1176
+//// Version 3.0 (10/22/2025).
+//// 
+//// This is a soundfont that I compiled with high quality presets, mostly made by me, sampled from my Korg Pa700 and Roland JUNO-DS keyboards and some from Roland Zenology VST, everything in less than 1 GB, highlighting balanced and live quality pianos, guitars, basses, and more!
+//// Includes FX, drum kits and some aditional presets.
+//// Copyright: (C) 2020 - 2025 UnderxPipe1985
+
+<global>
+global_label=Finger Bass
+
+<group>
+group_label=JUNO-DS Finger Bass
+ampeg_hold=1.0 ampeg_decay=29.995343889919354 ampeg_release=0.10001812246532978 ampeg_sustain=0.0
+
+<region>
+sample=Finger Bass Samples/FingerBass28L.wav
+pitch_keycenter=28
+lokey=0 hikey=30
+hivel=120
+offset=0 end=57600
+pan=-100
+loop_mode=loop_continuous loop_start=56530 loop_end=57599
+
+<region>
+sample=Finger Bass Samples/FingerBass31L.wav
+pitch_keycenter=31
+lokey=31 hikey=32
+hivel=120
+offset=0 end=52992
+pan=-100
+loop_mode=loop_continuous loop_start=52091 loop_end=52991
+
+<region>
+sample=Finger Bass Samples/FingerBass33L.wav
+pitch_keycenter=33
+lokey=33 hikey=36
+hivel=120
+offset=0 end=45826
+pan=-100
+loop_mode=loop_continuous loop_start=45023 loop_end=45825
+
+<region>
+sample=Finger Bass Samples/FingerBass37L.wav
+pitch_keycenter=37
+lokey=37 hikey=38
+hivel=120
+offset=0 end=57216
+pan=-100
+loop_mode=loop_continuous loop_start=56578 loop_end=57215
+
+<region>
+sample=Finger Bass Samples/FingerBass39L.wav
+pitch_keycenter=39
+lokey=39 hikey=45
+hivel=120
+offset=0 end=52928
+pan=-100
+loop_mode=loop_continuous loop_start=52361 loop_end=52927
+
+<region>
+sample=Finger Bass Samples/FingerBass46L.wav
+pitch_keycenter=46
+lokey=46 hikey=48
+hivel=120
+offset=0 end=52864
+pan=-100
+loop_mode=loop_continuous loop_start=52485 loop_end=52863
+
+<region>
+sample=Finger Bass Samples/FingerBass49L.wav
+pitch_keycenter=49
+lokey=49 hikey=51
+hivel=120
+offset=0 end=53248
+pan=-100
+loop_mode=loop_continuous loop_start=52607 loop_end=53247
+
+<region>
+sample=Finger Bass Samples/FingerBass52L.wav
+pitch_keycenter=52
+lokey=52 hikey=75
+hivel=120
+offset=0 end=52864
+pan=-100
+loop_mode=loop_continuous loop_start=51792 loop_end=52863
+
+<region>
+sample=Finger Bass Samples/FingerBass76L.wav
+pitch_keycenter=76
+lokey=76 hikey=127
+hivel=120
+offset=0 end=43968
+pan=-100
+loop_mode=loop_continuous loop_start=42763 loop_end=43967
+
+<region>
+sample=Finger Bass Samples/FingerBassff28L.wav
+pitch_keycenter=28
+lokey=0 hikey=28
+lovel=121
+offset=0 end=44032
+pan=-100
+loop_mode=loop_continuous loop_start=42960 loop_end=44031
+
+<region>
+sample=Finger Bass Samples/FingerBassff29L.wav
+pitch_keycenter=29
+lokey=29 hikey=32
+lovel=121
+offset=0 end=66304
+pan=-100
+loop_mode=loop_continuous loop_start=65292 loop_end=66303
+
+<region>
+sample=Finger Bass Samples/FingerBassff33L.wav
+pitch_keycenter=33
+lokey=33 hikey=37
+lovel=121
+offset=0 end=53120
+pan=-100
+loop_mode=loop_continuous loop_start=52317 loop_end=53119
+
+<region>
+sample=Finger Bass Samples/FingerBassff38L.wav
+pitch_keycenter=38
+lokey=38 hikey=41
+lovel=121
+offset=0 end=52992
+pan=-100
+loop_mode=loop_continuous loop_start=52390 loop_end=52991
+
+<region>
+sample=Finger Bass Samples/FingerBassff42L.wav
+pitch_keycenter=42
+lokey=42 hikey=48
+lovel=121
+offset=0 end=57344
+pan=-100
+loop_mode=loop_continuous loop_start=55924 loop_end=57343
+
+<region>
+sample=Finger Bass Samples/FingerBassff49L.wav
+pitch_keycenter=49
+lokey=49 hikey=53
+lovel=121
+offset=0 end=49664
+pan=-100
+loop_mode=loop_continuous loop_start=49027 loop_end=49663
+
+<region>
+sample=Finger Bass Samples/FingerBassff54L.wav
+pitch_keycenter=54
+lokey=54 hikey=127
+lovel=121
+offset=0 end=63150
+pan=-100
+loop_mode=loop_continuous loop_start=62672 loop_end=63149
+
+<region>
+sample=Finger Bass Samples/FingerBass28R.wav
+pitch_keycenter=28
+lokey=0 hikey=30
+hivel=120
+offset=0 end=57600
+pan=100
+loop_mode=loop_continuous loop_start=56530 loop_end=57599
+
+<region>
+sample=Finger Bass Samples/FingerBass31R.wav
+pitch_keycenter=31
+lokey=31 hikey=32
+hivel=120
+offset=0 end=52992
+pan=100
+loop_mode=loop_continuous loop_start=52091 loop_end=52991
+
+<region>
+sample=Finger Bass Samples/FingerBass33R.wav
+pitch_keycenter=33
+lokey=33 hikey=36
+hivel=120
+offset=0 end=45826
+pan=100
+loop_mode=loop_continuous loop_start=45023 loop_end=45825
+
+<region>
+sample=Finger Bass Samples/FingerBass37R.wav
+pitch_keycenter=37
+lokey=37 hikey=38
+hivel=120
+offset=0 end=57216
+pan=100
+loop_mode=loop_continuous loop_start=56578 loop_end=57215
+
+<region>
+sample=Finger Bass Samples/FingerBass39R.wav
+pitch_keycenter=39
+lokey=39 hikey=45
+hivel=120
+offset=0 end=52928
+pan=100
+loop_mode=loop_continuous loop_start=52361 loop_end=52927
+
+<region>
+sample=Finger Bass Samples/FingerBass46R.wav
+pitch_keycenter=46
+lokey=46 hikey=48
+hivel=120
+offset=0 end=52864
+pan=100
+loop_mode=loop_continuous loop_start=52485 loop_end=52863
+
+<region>
+sample=Finger Bass Samples/FingerBass49R.wav
+pitch_keycenter=49
+lokey=49 hikey=51
+hivel=120
+offset=0 end=53248
+pan=100
+loop_mode=loop_continuous loop_start=52607 loop_end=53247
+
+<region>
+sample=Finger Bass Samples/FingerBass52R.wav
+pitch_keycenter=52
+lokey=52 hikey=75
+hivel=120
+offset=0 end=52864
+pan=100
+loop_mode=loop_continuous loop_start=51792 loop_end=52863
+
+<region>
+sample=Finger Bass Samples/FingerBass76R.wav
+pitch_keycenter=76
+lokey=76 hikey=127
+hivel=120
+offset=0 end=43968
+pan=100
+loop_mode=loop_continuous loop_start=42763 loop_end=43967
+
+<region>
+sample=Finger Bass Samples/FingerBassff28R.wav
+pitch_keycenter=28
+lokey=0 hikey=28
+lovel=121
+offset=0 end=44032
+pan=100
+loop_mode=loop_continuous loop_start=42960 loop_end=44031
+
+<region>
+sample=Finger Bass Samples/FingerBassff29R.wav
+pitch_keycenter=29
+lokey=29 hikey=32
+lovel=121
+offset=0 end=66304
+pan=100
+loop_mode=loop_continuous loop_start=65292 loop_end=66303
+
+<region>
+sample=Finger Bass Samples/FingerBassff33R.wav
+pitch_keycenter=33
+lokey=33 hikey=37
+lovel=121
+offset=0 end=53120
+pan=100
+loop_mode=loop_continuous loop_start=52317 loop_end=53119
+
+<region>
+sample=Finger Bass Samples/FingerBassff38R.wav
+pitch_keycenter=38
+lokey=38 hikey=41
+lovel=121
+offset=0 end=52992
+pan=100
+loop_mode=loop_continuous loop_start=52390 loop_end=52991
+
+<region>
+sample=Finger Bass Samples/FingerBassff42R.wav
+pitch_keycenter=42
+lokey=42 hikey=48
+lovel=121
+offset=0 end=57344
+pan=100
+loop_mode=loop_continuous loop_start=55924 loop_end=57343
+
+<region>
+sample=Finger Bass Samples/FingerBassff49R.wav
+pitch_keycenter=49
+lokey=49 hikey=53
+lovel=121
+offset=0 end=49664
+pan=100
+loop_mode=loop_continuous loop_start=49027 loop_end=49663
+
+<region>
+sample=Finger Bass Samples/FingerBassff54R.wav
+pitch_keycenter=54
+lokey=54 hikey=127
+lovel=121
+offset=0 end=63150
+pan=100
+loop_mode=loop_continuous loop_start=62672 loop_end=63149
+
+<group>
+group_label=JUNO-DS E.Bass FgOff
+ampeg_release=3.0000779785716363
+
+<region>
+sample=Finger Bass Samples/E_Bass NzL.wav
+pitch_keycenter=60
+lokey=0 hikey=127
+offset=0 end=6308
+pitch_keytrack=50
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=3 loop_end=200
+
+<region>
+sample=Finger Bass Samples/E_Bass NzR.wav
+pitch_keycenter=60
+lokey=0 hikey=127
+offset=0 end=6308
+pitch_keytrack=50
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=3 loop_end=200

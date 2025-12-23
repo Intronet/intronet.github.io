@@ -1,0 +1,30 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Category: Synth
+
+<global>
+global_label=POLYMOOG A
+
+<group>
+group_label=POLYMOOG A0
+ampeg_release=0.05180254064900274
+
+<region>
+sample=POLYMOOG A Samples/[w0]-_w1-_w2.wav
+pitch_keycenter=60
+lokey=0 hikey=127
+offset=0 end=96000
+amp_veltrack=0.00
+loop_mode=loop_continuous loop_start=18023 loop_end=18390
+
+<group>
+group_label=POLYMOOG A1
+ampeg_release=0.027632310315421817
+
+<region>
+sample=POLYMOOG A Samples/w3-_w4-_w5.wav
+pitch_keycenter=60
+lokey=0 hikey=127
+offset=0 end=96000
+amp_veltrack=0.00
+loop_mode=loop_continuous loop_start=9089 loop_end=9271
