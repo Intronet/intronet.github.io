@@ -1,0 +1,101 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Category: Bass
+
+<global>
+global_label=electrobass-36
+ampeg_release=0.10001812246532978
+
+<group>
+group_label=electrobass-36
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_C2-.wav
+pitch_keycenter=36
+lokey=0 hikey=37
+offset=0 end=32004
+loop_mode=loop_continuous loop_start=30600 loop_end=31960
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_D2-.wav
+pitch_keycenter=38
+lokey=38 hikey=39
+offset=0 end=31852
+loop_mode=loop_continuous loop_start=30596 loop_end=31808
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_E2-.wav
+pitch_keycenter=40
+lokey=40 hikey=41
+offset=0 end=31718
+loop_mode=loop_continuous loop_start=30600 loop_end=31674
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_F#2-.wav
+pitch_keycenter=42
+lokey=42 hikey=43
+offset=0 end=31600
+loop_mode=loop_continuous loop_start=30600 loop_end=31556
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_G#2-.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+offset=0 end=32346
+loop_mode=loop_continuous loop_start=30600 loop_end=32302
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_A#2-.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+offset=0 end=32161
+loop_mode=loop_continuous loop_start=30600 loop_end=32117
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_C3-.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+offset=0 end=31997
+loop_mode=loop_continuous loop_start=30600 loop_end=31953
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_D3-.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+offset=0 end=31848
+loop_mode=loop_continuous loop_start=30600 loop_end=31804
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_E3-.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+offset=0 end=31717
+loop_mode=loop_continuous loop_start=30600 loop_end=31673
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_F#3-.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+offset=0 end=32075
+loop_mode=loop_continuous loop_start=30600 loop_end=32031
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_G#3-.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+offset=0 end=31919
+loop_mode=loop_continuous loop_start=30600 loop_end=31875
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_A#3-.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+offset=0 end=31401
+loop_mode=loop_continuous loop_start=30600 loop_end=31357
+
+<region>
+sample=electrobass-36 Samples/electrobass-36_C4-.wav
+pitch_keycenter=60
+lokey=60 hikey=127
+offset=0 end=31657
+loop_mode=loop_continuous loop_start=30600 loop_end=31613
