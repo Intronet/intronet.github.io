@@ -1,0 +1,20 @@
+<group>
+ampeg_release=.8
+<region>
+sample=C1.wav
+lokey=a0 hikey=d1 pitch_keycenter=c1
+<region>
+sample=Gb1.wav
+lokey=d#1 hikey=g#1 pitch_keycenter=f#1
+<region>
+sample=C2.wav
+lokey=a1 hikey=d2 pitch_keycenter=c2
+<region>
+sample=Gb2.wav
+lokey=d#2 hikey=g#2 pitch_keycenter=f#2
+<region>
+sample=C3.wav
+lokey=a2 hikey=d3 pitch_keycenter=c3
+<region>
+sample=Gb3.wav
+lokey=d#3 hikey=c4 pitch_keycenter=f#3

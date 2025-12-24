@@ -1,0 +1,32 @@
+<group>
+ampeg_decay=20
+ampeg_release=0.7
+ampeg_sustain=0.1
+<region>
+lokey=0 hikey=30
+pitch_keycenter=28
+sample=1_E.wav
+<region>
+lokey=31 hikey=35
+pitch_keycenter=33
+sample=1_A.wav
+<region>
+lokey=36 hikey=40
+pitch_keycenter=38
+sample=2_D.wav
+volume=-8
+<region>
+lokey=41 hikey=46
+pitch_keycenter=43
+sample=2_G.wav
+<region>
+volume=-10
+lokey=47 hikey=52
+pitch_keycenter=50
+sample=3_D.wav
+volume=-7
+<region>
+lokey=53 hikey=78
+pitch_keycenter=55
+sample=3_G.wav
+volume=-7

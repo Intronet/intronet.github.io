@@ -1,0 +1,35 @@
+<group>
+	ampeg_sustain=0.001 ampeg_release=0.4 ampeg_decay=30.0
+<region>
+	sample=1_E.wav
+	pitch_keycenter=e1 hikey=f1
+<region>
+	sample=1_Ab.wav
+	pitch_keycenter=g#1 lokey=f#1 hikey=a1
+<region>
+	sample=1_B.wav
+	pitch_keycenter=b1 lokey=a#1 hikey=c2
+<region>
+	sample=2_D.wav
+	pitch_keycenter=d2 lokey=c#2 hikey=d#2
+<region>
+	sample=2_F.wav
+	pitch_keycenter=f2 lokey=e2 hikey=f#2
+<region>
+	sample=2_Ab.wav
+	pitch_keycenter=g#2 lokey=g2 hikey=a2
+<region>
+	sample=2_B.wav
+	pitch_keycenter=b2 lokey=a#2 hikey=c3
+<region>
+	sample=3_D.wav
+	pitch_keycenter=d3 lokey=c#3 hikey=e3
+<region>
+	sample=3_G.wav
+	pitch_keycenter=g3 lokey=f3 hikey=g#3
+<region>
+	sample=3_B.wav
+	pitch_keycenter=b3 lokey=a3 hikey=d#4
+<region>
+	sample=4_E.wav
+	pitch_keycenter=e4 lokey=d4 hikey=g4

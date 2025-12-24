@@ -1,0 +1,30 @@
+<group>
+	ampeg_release=0.4
+//	loop_mode=loop_continuous
+<region>
+	sample=C1.wav
+	pitch_keycenter=c1 hikey=c#1
+<region>
+	sample=E1.wav
+	pitch_keycenter=e1 lokey=d1 hikey=f1
+<region>
+	sample=G1.wav
+	pitch_keycenter=g1 lokey=f#1 hikey=g#1
+<region>
+	sample=B1.wav
+	pitch_keycenter=b1 lokey=a1 hikey=c2
+<region>
+	sample=D2.wav
+	pitch_keycenter=d2 lokey=c#2 hikey=d#2
+<region>
+	sample=F2.wav
+	pitch_keycenter=f2 lokey=e2 hikey=g2
+<region>
+	sample=B2.wav
+	pitch_keycenter=b2 lokey=g#2 hikey=c#3
+<region>
+	sample=E3.wav
+	pitch_keycenter=e3 lokey=d3 hikey=g3
+<region>
+	sample=B3.wav
+	pitch_keycenter=b3 lokey=g#3 hikey=g4
