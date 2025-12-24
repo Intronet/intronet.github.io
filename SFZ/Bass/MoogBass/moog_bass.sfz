@@ -1,0 +1,13 @@
+<group>
+<region>
+hikey=30
+pitch_keycenter=24
+sample=2_C.wav
+<region>
+pitch_keycenter=36
+lokey=31 hikey=42
+sample=3_C.wav
+<region>
+pitch_keycenter=48
+lokey=43
+sample=4_C.wav

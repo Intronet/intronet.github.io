@@ -1,0 +1,9 @@
+<control> default_path=A\
+<group> lovel=90 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.4
+#include "S1.sfz"
+
+<group> lovel=50 hivel=89 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.4
+#include "S2.sfz"
+
+<group> hivel=49 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.4
+#include "S3.sfz"
