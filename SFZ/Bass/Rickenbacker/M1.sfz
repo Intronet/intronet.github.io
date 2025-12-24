@@ -1,0 +1,19 @@
+<control> default_path=Mute\
+<region> sample=E1_5.wav pitch_keycenter=e1 lokey=c1 hikey=f1
+ampeg_hold=9.00047
+<region> sample=Ab1_5.wav pitch_keycenter=g#1 lokey=f#1 hikey=a1
+ampeg_hold=9
+<region> sample=C2_5.wav pitch_keycenter=c2 lokey=a#1 hikey=c#2
+ampeg_hold=8
+<region> sample=E2_5.wav pitch_keycenter=e2 lokey=d2 hikey=f2
+ampeg_hold=7.2
+<region> sample=Ab2_5.wav pitch_keycenter=g#2 lokey=f#2 hikey=a2
+ampeg_hold=6.5
+<region> sample=C3_5.wav pitch_keycenter=c3 lokey=a#2 hikey=c#3
+ampeg_hold=5.9
+<region> sample=E3_5.wav pitch_keycenter=e3 lokey=d3 hikey=f3
+ampeg_hold=5.5
+<region> sample=Ab3_5.wav pitch_keycenter=g#3 lokey=f#3 hikey=a3
+ampeg_hold=5.3
+<region> sample=Db4_5.wav pitch_keycenter=c#4 lokey=a#3
+ampeg_hold=4

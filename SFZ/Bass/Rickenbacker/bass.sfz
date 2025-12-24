@@ -1,0 +1,11 @@
+<group> group=1 lovel=110 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.1
+#include "P1.sfz"
+
+<group> group=1 lovel=90 hivel=109 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.1
+#include "P2.sfz"
+
+<group> group=1 hivel=89 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.1
+#include "P3.sfz"
+
+<group> group=3 off_by=1 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=.05
+#include "R1.sfz"

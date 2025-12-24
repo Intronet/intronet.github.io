@@ -1,0 +1,25 @@
+<control> default_path=Pick\
+<region> sample=E1_3.wav pitch_keycenter=e1 lokey=c1 hikey=f1 offset=11819
+ampeg_hold=9.00047
+<region> sample=G1_3.wav pitch_keycenter=g1 lokey=f#1 hikey=g#1 offset=7296
+ampeg_hold=9
+<region> sample=Bb1_3.wav pitch_keycenter=a#1 lokey=a1 hikey=b1 offset=9126
+ampeg_hold=8.6
+<region> sample=Db2_3.wav pitch_keycenter=c#2 lokey=c2 hikey=c#2 offset=5800
+ampeg_hold=7.5
+<region> sample=E2_3.wav pitch_keycenter=e2 lokey=d2 hikey=f2 offset=5330
+ampeg_hold=7.1
+<region> sample=G2_3.wav pitch_keycenter=g2 lokey=f#2 hikey=g#2 offset=5388
+ampeg_hold=6.6
+<region> sample=Bb2_3.wav pitch_keycenter=a#2 lokey=a2 hikey=b2 offset=5140
+ampeg_hold=6.3
+<region> sample=Db3_3.wav pitch_keycenter=c#3 lokey=c3 hikey=c#3 offset=5128
+ampeg_hold=5.7
+<region> sample=E3_3.wav pitch_keycenter=e3 lokey=d3 hikey=f3 offset=11563
+ampeg_hold=5.5
+<region> sample=G3_3.wav pitch_keycenter=g3 lokey=f#3 hikey=a#3 offset=5593
+ampeg_hold=5.3
+<region> sample=B3_3.wav pitch_keycenter=b3 lokey=a3 hikey=c4 offset=6095
+ampeg_hold=4.2
+<region> sample=Eb4_3.wav pitch_keycenter=d#4 lokey=c#4 offset=6577
+ampeg_hold=3.6

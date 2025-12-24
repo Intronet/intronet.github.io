@@ -1,0 +1,20 @@
+<group> lovel=90 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.1 trigger=first off_by=1 group=1 off_mode=normal
+#include "P1.sfz"
+
+<group> lovel=90 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.1 trigger=legato ampeg_attack=.05 group=1 off_by=1 off_mode=normal
+#include "P1l.sfz"
+
+<group> lovel=50 hivel=89 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.1 trigger=first off_by=1 group=1 off_mode=normal
+#include "P2.sfz"
+
+<group> lovel=50 hivel=89 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.1 trigger=legato ampeg_attack=.05 group=1 off_by=1 off_mode=normal
+#include "P2l.sfz"
+
+<group> hivel=49 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.1 trigger=first off_by=1 group=1 off_mode=normal
+#include "P3.sfz"
+
+<group> hivel=49 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.1 trigger=legato ampeg_attack=.05 group=1 off_by=1 off_mode=normal
+#include "P3l.sfz"
+
+<group> group=3 off_by=1 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=.05
+#include "R1.sfz"
