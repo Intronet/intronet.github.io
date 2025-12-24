@@ -1,0 +1,107 @@
+<control> default_path=Pizzicato\
+<group> group=1 seq_length=2 lovel=81 ampeg_sustain=.01 ampeg_decay=18
+<region> sample=1_C_4a.wav pitch_keycenter=c1 hikey=c#1
+<region> sample=1_C_4b.wav pitch_keycenter=c1 hikey=c#1 seq_position=2
+<region> sample=1_Eb_4a.wav pitch_keycenter=d#1 lokey=d1 hikey=e1
+<region> sample=1_Eb_4b.wav pitch_keycenter=d#1 lokey=d1 hikey=e1 seq_position=2
+<region> sample=1_Gb_4a.wav pitch_keycenter=f#1 lokey=f1 hikey=g1
+<region> sample=1_Gb_4b.wav pitch_keycenter=f#1 lokey=f1 hikey=g1 seq_position=2
+<region> sample=1_A_4a.wav pitch_keycenter=a1 lokey=g#1 hikey=a#1
+<region> sample=1_A_4b.wav pitch_keycenter=a1 lokey=g#1 hikey=a#1 seq_position=2
+<region> sample=2_C_4a.wav pitch_keycenter=c2 lokey=b1 hikey=c#2
+<region> sample=2_C_4b.wav pitch_keycenter=c2 lokey=b1 hikey=c#2 seq_position=2
+<region> sample=2_Eb_4a.wav pitch_keycenter=d#2 lokey=d2 hikey=e2
+<region> sample=2_Eb_4b.wav pitch_keycenter=d#2 lokey=d2 hikey=e2 seq_position=2
+<region> sample=2_Gb_4a.wav pitch_keycenter=f#2 lokey=f2 hikey=g2
+<region> sample=2_Gb_4b.wav pitch_keycenter=f#2 lokey=f2 hikey=g2 seq_position=2
+<region> sample=2_A_4a.wav pitch_keycenter=a2 lokey=g#2 hikey=a#2
+<region> sample=2_A_4b.wav pitch_keycenter=a2 lokey=g#2 hikey=a#2 seq_position=2
+<region> sample=3_C_4a.wav pitch_keycenter=c3 lokey=b2 hikey=c#3
+<region> sample=3_C_4b.wav pitch_keycenter=c3 lokey=b2 hikey=c#3 seq_position=2
+<region> sample=3_Eb_4a.wav pitch_keycenter=d#3 lokey=d3 hikey=e3
+<region> sample=3_Eb_4b.wav pitch_keycenter=d#3 lokey=d3 hikey=e3 seq_position=2
+<region> sample=3_Gb_4a.wav pitch_keycenter=f#3 lokey=f3 hikey=g3
+<region> sample=3_Gb_4b.wav pitch_keycenter=f#3 lokey=f3 hikey=g3 seq_position=2
+<region> sample=3_A_4a.wav pitch_keycenter=a3 lokey=g#3 hikey=a#3
+<region> sample=3_A_4b.wav pitch_keycenter=a3 lokey=g#3 hikey=a#3 seq_position=2
+<region> sample=4_C_4a.wav pitch_keycenter=c4 lokey=b3
+<region> sample=4_C_4b.wav pitch_keycenter=c4 lokey=b3 seq_position=2
+
+<group> group=2 seq_length=2 lovel=40 hivel=80 ampeg_sustain=.01 ampeg_decay=18
+<region> sample=1_C_3a.wav pitch_keycenter=c1 hikey=c#1
+<region> sample=1_C_3b.wav pitch_keycenter=c1 hikey=c#1 seq_position=2
+<region> sample=1_Eb_3a.wav pitch_keycenter=d#1 lokey=d1 hikey=e1
+<region> sample=1_Eb_3b.wav pitch_keycenter=d#1 lokey=d1 hikey=e1 seq_position=2
+<region> sample=1_Gb_3a.wav pitch_keycenter=f#1 lokey=f1 hikey=g1
+<region> sample=1_Gb_3b.wav pitch_keycenter=f#1 lokey=f1 hikey=g1 seq_position=2
+<region> sample=1_A_3a.wav pitch_keycenter=a1 lokey=g#1 hikey=a#1
+<region> sample=1_A_3b.wav pitch_keycenter=a1 lokey=g#1 hikey=a#1 seq_position=2
+<region> sample=2_C_3a.wav pitch_keycenter=c2 lokey=b1 hikey=c#2
+<region> sample=2_C_3b.wav pitch_keycenter=c2 lokey=b1 hikey=c#2 seq_position=2
+<region> sample=2_Eb_3a.wav pitch_keycenter=d#2 lokey=d2 hikey=e2
+<region> sample=2_Eb_3b.wav pitch_keycenter=d#2 lokey=d2 hikey=e2 seq_position=2
+<region> sample=2_Gb_3a.wav pitch_keycenter=f#2 lokey=f2 hikey=g2
+<region> sample=2_Gb_3b.wav pitch_keycenter=f#2 lokey=f2 hikey=g2 seq_position=2
+<region> sample=2_A_3a.wav pitch_keycenter=a2 lokey=g#2 hikey=a#2
+<region> sample=2_A_3b.wav pitch_keycenter=a2 lokey=g#2 hikey=a#2 seq_position=2
+<region> sample=3_C_3a.wav pitch_keycenter=c3 lokey=b2 hikey=c#3
+<region> sample=3_C_3b.wav pitch_keycenter=c3 lokey=b2 hikey=c#3 seq_position=2
+<region> sample=3_Eb_3a.wav pitch_keycenter=d#3 lokey=d3 hikey=e3
+<region> sample=3_Eb_3b.wav pitch_keycenter=d#3 lokey=d3 hikey=e3 seq_position=2
+<region> sample=3_Gb_3a.wav pitch_keycenter=f#3 lokey=f3 hikey=g3
+<region> sample=3_Gb_3b.wav pitch_keycenter=f#3 lokey=f3 hikey=g3 seq_position=2
+<region> sample=3_A_3a.wav pitch_keycenter=a3 lokey=g#3 hikey=a#3
+<region> sample=3_A_3b.wav pitch_keycenter=a3 lokey=g#3 hikey=a#3 seq_position=2
+<region> sample=4_C_3a.wav pitch_keycenter=c4 lokey=b3
+<region> sample=4_C_3b.wav pitch_keycenter=c4 lokey=b3 seq_position=2
+
+<group> group=4 hivel=39 ampeg_sustain=.01 ampeg_decay=18
+<region> sample=1_C_p.wav pitch_keycenter=c1 hikey=c#1
+<region> sample=1_Eb_p.wav pitch_keycenter=d#1 lokey=d1 hikey=e1
+<region> sample=1_Gb_p.wav pitch_keycenter=f#1 lokey=f1 hikey=g1
+<region> sample=1_A_p.wav pitch_keycenter=a1 lokey=g#1 hikey=a#1
+<region> sample=2_C_p.wav pitch_keycenter=c2 lokey=b1 hikey=c#2
+<region> sample=2_Eb_p.wav pitch_keycenter=d#2 lokey=d2 hikey=e2
+<region> sample=2_Gb_p.wav pitch_keycenter=f#2 lokey=f2 hikey=g2
+<region> sample=2_A_p.wav pitch_keycenter=a2 lokey=g#2 hikey=a#2
+<region> sample=3_C_p.wav pitch_keycenter=c3 lokey=b2 hikey=c#3
+<region> sample=3_Eb_p.wav pitch_keycenter=d#3 lokey=d3 hikey=e3
+<region> sample=3_Gb_p.wav pitch_keycenter=f#3 lokey=f3 hikey=g3
+<region> sample=3_A_p.wav pitch_keycenter=a3 lokey=g#3 hikey=a#3
+<region> sample=4_C_p.wav pitch_keycenter=c4 lokey=b3
+
+<group> group=3 trigger=release loop_mode=one_shot
+<region> sample=_Gb1.wav hikey=f#1 pitch_keycenter=f#1
+<region> sample=_G1.wav key=g1
+<region> sample=_Ab1.wav key=g#1
+<region> sample=_A1.wav key=a1
+<region> sample=_Bb1.wav key=a#1
+<region> sample=_B1.wav key=b1
+<region> sample=_C2.wav key=c2
+<region> sample=_Db2.wav key=c#2
+<region> sample=_D2.wav key=d2
+<region> sample=_Eb2.wav key=d#2
+<region> sample=_E2.wav key=e2
+<region> sample=_F2.wav key=f2
+<region> sample=_Gb2.wav key=f#2
+<region> sample=_G2.wav key=g2
+<region> sample=_Ab2.wav key=g#2
+<region> sample=_A2.wav key=a2
+<region> sample=_Bb2.wav key=a#2
+<region> sample=_B2.wav key=b2
+<region> sample=_C3.wav key=c3
+<region> sample=_Db3.wav key=c#3
+<region> sample=_D3.wav key=d3
+<region> sample=_Eb3.wav key=d#3
+<region> sample=_E3.wav key=e3
+<region> sample=_F3.wav key=f3
+<region> sample=_Gb3.wav key=f#3
+<region> sample=_G3.wav key=g3
+<region> sample=_Ab3.wav key=g#3
+<region> sample=_A3.wav key=a3
+<region> sample=_Bb3.wav key=a#3
+<region> sample=_B3.wav key=b3
+<region> sample=_C4.wav key=c4
+<region> sample=_Db4.wav key=c#4
+<region> sample=_D4.wav key=d4
+<region> sample=_Eb4.wav lokey=d#4 pitch_keycenter=d#4

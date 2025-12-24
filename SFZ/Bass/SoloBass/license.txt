@@ -1,0 +1,7 @@
+This sfz uses samples from Meatbass, a sample library by Drogomir Smolken and Ludwik Zamenhof. You can find the original samples online at:
+
+http://www.karoryfer.com/karoryfer-samples/wydawnictwa/meatbass
+
+License: creative commons 3.0 unported
+Royalty-free for all commercial and non-commercial use.
+Copyright 2015 Karoryfer Lecolds.
