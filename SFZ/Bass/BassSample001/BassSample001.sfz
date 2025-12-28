@@ -1,41 +1,42 @@
-// Einstein Virtuoso Protocol: Multi-Root Bass Sforzando
-// Gap-free, overlap-safe, sforzando-compliant
+// Einstein Virtuoso Protocol: Discrete Multi-Velocity Bass (Normalized)
+// File: public/bass.txt
+// Optimised for Sforzando / ARIA Engine
 
 <global>
 ampeg_release=0.16
 
+// =====================
+// C0 ROOT (MIDI 48)
+// Range: Sub to C#1
+// =====================
+<group> lokey=0 hikey=49 pitch_keycenter=48
+<region> sample=C0_67.wav  lovel=0   hivel=67  ampeg_release=0.18
+<region> sample=C0_97.wav  lovel=68  hivel=97  ampeg_release=0.16
+<region> sample=C0_127.wav lovel=98  hivel=127 ampeg_release=0.14
 
 // =====================
-// C0 ROOT — SUB / LOW
+// D#0 ROOT (MIDI 51)
+// Range: D1 to E1
 // =====================
-
-<region> sample=C0_67.wav  lovel=0  hivel=67  lokey=0   hikey=42  pitch_keycenter=48  ampeg_release=0.18
-<region> sample=C0_97.wav  lovel=68 hivel=97  lokey=0   hikey=42  pitch_keycenter=48  ampeg_release=0.16
-<region> sample=C0_127.wav lovel=98 hivel=127 lokey=0   hikey=42  pitch_keycenter=48  ampeg_release=0.14
-
-
-// =====================
-// D#0 ROOT — LOW / MID
-// =====================
-
-<region> sample=D#0_67.wav  lovel=0  hivel=67  lokey=30  hikey=60  pitch_keycenter=51  ampeg_release=0.14
-<region> sample=D#0_97.wav  lovel=68 hivel=97  lokey=30  hikey=60  pitch_keycenter=51  ampeg_release=0.12
-<region> sample=D#0_127.wav lovel=98 hivel=127 lokey=30  hikey=60  pitch_keycenter=51  ampeg_release=0.10
-
+<group> lokey=50 hikey=52 pitch_keycenter=51
+<region> sample=Ds0_67.wav  lovel=0   hivel=67  ampeg_release=0.14
+<region> sample=Ds0_97.wav  lovel=68  hivel=97  ampeg_release=0.12
+<region> sample=Ds0_127.wav lovel=98  hivel=127 ampeg_release=0.10
 
 // =====================
-// F#0 ROOT — MID
+// F#0 ROOT (MIDI 54)
+// Range: F1 to G1
 // =====================
-
-<region> sample=F#0_67.wav  lovel=0  hivel=67  lokey=48  hikey=84  pitch_keycenter=54  ampeg_release=0.12
-<region> sample=F#0_97.wav  lovel=68 hivel=97  lokey=48  hikey=84  pitch_keycenter=54  ampeg_release=0.10
-<region> sample=F#0_127.wav lovel=98 hivel=127 lokey=48  hikey=84  pitch_keycenter=54  ampeg_release=0.08
-
+<group> lokey=53 hikey=55 pitch_keycenter=54
+<region> sample=Fs0_67.wav  lovel=0   hivel=67  ampeg_release=0.12
+<region> sample=Fs0_97.wav  lovel=68  hivel=97  ampeg_release=0.10
+<region> sample=Fs0_127.wav lovel=98  hivel=127 ampeg_release=0.08
 
 // =====================
-// A0 ROOT — UPPER / HIGH
+// A0 ROOT (MIDI 57)
+// Range: G#1 to High
 // =====================
-
-<region> sample=A0_67.wav  lovel=0  hivel=67  lokey=72  hikey=127 pitch_keycenter=57  ampeg_release=0.10
-<region> sample=A0_97.wav  lovel=68 hivel=97  lokey=72  hikey=127 pitch_keycenter=57  ampeg_release=0.08
-<region> sample=A0_127.wav lovel=98 hivel=127 lokey=72  hikey=127 pitch_keycenter=57  ampeg_release=0.06
+<group> lokey=56 hikey=127 pitch_keycenter=57
+<region> sample=A0_67.wav  lovel=0   hivel=67  ampeg_release=0.10
+<region> sample=A0_97.wav  lovel=68  hivel=97  ampeg_release=0.08
+<region> sample=A0_127.wav lovel=98  hivel=127 ampeg_release=0.06
