@@ -1,0 +1,41 @@
+// Einstein Virtuoso Protocol: Multi-Root Bass Sforzando
+// Gap-free, overlap-safe, sforzando-compliant
+
+<global>
+ampeg_release=0.16
+
+
+// =====================
+// C0 ROOT — SUB / LOW
+// =====================
+
+<region> sample=C0_67.wav  lovel=0  hivel=67  lokey=0   hikey=42  pitch_keycenter=48  ampeg_release=0.18
+<region> sample=C0_97.wav  lovel=68 hivel=97  lokey=0   hikey=42  pitch_keycenter=48  ampeg_release=0.16
+<region> sample=C0_127.wav lovel=98 hivel=127 lokey=0   hikey=42  pitch_keycenter=48  ampeg_release=0.14
+
+
+// =====================
+// D#0 ROOT — LOW / MID
+// =====================
+
+<region> sample=D#0_67.wav  lovel=0  hivel=67  lokey=30  hikey=60  pitch_keycenter=51  ampeg_release=0.14
+<region> sample=D#0_97.wav  lovel=68 hivel=97  lokey=30  hikey=60  pitch_keycenter=51  ampeg_release=0.12
+<region> sample=D#0_127.wav lovel=98 hivel=127 lokey=30  hikey=60  pitch_keycenter=51  ampeg_release=0.10
+
+
+// =====================
+// F#0 ROOT — MID
+// =====================
+
+<region> sample=F#0_67.wav  lovel=0  hivel=67  lokey=48  hikey=84  pitch_keycenter=54  ampeg_release=0.12
+<region> sample=F#0_97.wav  lovel=68 hivel=97  lokey=48  hikey=84  pitch_keycenter=54  ampeg_release=0.10
+<region> sample=F#0_127.wav lovel=98 hivel=127 lokey=48  hikey=84  pitch_keycenter=54  ampeg_release=0.08
+
+
+// =====================
+// A0 ROOT — UPPER / HIGH
+// =====================
+
+<region> sample=A0_67.wav  lovel=0  hivel=67  lokey=72  hikey=127 pitch_keycenter=57  ampeg_release=0.10
+<region> sample=A0_97.wav  lovel=68 hivel=97  lokey=72  hikey=127 pitch_keycenter=57  ampeg_release=0.08
+<region> sample=A0_127.wav lovel=98 hivel=127 lokey=72  hikey=127 pitch_keycenter=57  ampeg_release=0.06
