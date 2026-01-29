@@ -1,0 +1,102 @@
+// Generated SFZ Mapping
+// Place this file in the same directory as your .wav files
+
+<group>
+loop_mode=no_loop
+
+<region> sample=A0.wav lokey=21 hikey=21 pitch_keycenter=21
+<region> sample=A#0.wav lokey=22 hikey=22 pitch_keycenter=22
+<region> sample=B0.wav lokey=23 hikey=23 pitch_keycenter=23
+
+<region> sample=C1.wav lokey=24 hikey=24 pitch_keycenter=24
+<region> sample=C#1.wav lokey=25 hikey=25 pitch_keycenter=25
+<region> sample=D1.wav lokey=26 hikey=26 pitch_keycenter=26
+<region> sample=D#1.wav lokey=27 hikey=27 pitch_keycenter=27
+<region> sample=E1.wav lokey=28 hikey=28 pitch_keycenter=28
+<region> sample=F1.wav lokey=29 hikey=29 pitch_keycenter=29
+<region> sample=F#1.wav lokey=30 hikey=30 pitch_keycenter=30
+<region> sample=G1.wav lokey=31 hikey=31 pitch_keycenter=31
+<region> sample=G#1.wav lokey=32 hikey=32 pitch_keycenter=32
+<region> sample=A1.wav lokey=33 hikey=33 pitch_keycenter=33
+<region> sample=A#1.wav lokey=34 hikey=34 pitch_keycenter=34
+<region> sample=B1.wav lokey=35 hikey=35 pitch_keycenter=35
+
+<region> sample=C2.wav lokey=36 hikey=36 pitch_keycenter=36
+<region> sample=C#2.wav lokey=37 hikey=37 pitch_keycenter=37
+<region> sample=D2.wav lokey=38 hikey=38 pitch_keycenter=38
+<region> sample=D#2.wav lokey=39 hikey=39 pitch_keycenter=39
+<region> sample=E2.wav lokey=40 hikey=40 pitch_keycenter=40
+<region> sample=F2.wav lokey=41 hikey=41 pitch_keycenter=41
+<region> sample=F#2.wav lokey=42 hikey=42 pitch_keycenter=42
+<region> sample=G2.wav lokey=43 hikey=43 pitch_keycenter=43
+<region> sample=G#2.wav lokey=44 hikey=44 pitch_keycenter=44
+<region> sample=A2.wav lokey=45 hikey=45 pitch_keycenter=45
+<region> sample=A#2.wav lokey=46 hikey=46 pitch_keycenter=46
+<region> sample=B2.wav lokey=47 hikey=47 pitch_keycenter=47
+
+<region> sample=C3.wav lokey=48 hikey=48 pitch_keycenter=48
+<region> sample=C#3.wav lokey=49 hikey=49 pitch_keycenter=49
+<region> sample=D3.wav lokey=50 hikey=50 pitch_keycenter=50
+<region> sample=D#3.wav lokey=51 hikey=51 pitch_keycenter=51
+<region> sample=E3.wav lokey=52 hikey=52 pitch_keycenter=52
+<region> sample=F3.wav lokey=53 hikey=53 pitch_keycenter=53
+<region> sample=F#3.wav lokey=54 hikey=54 pitch_keycenter=54
+<region> sample=G3.wav lokey=55 hikey=55 pitch_keycenter=55
+<region> sample=G#3.wav lokey=56 hikey=56 pitch_keycenter=56
+<region> sample=A3.wav lokey=57 hikey=57 pitch_keycenter=57
+<region> sample=A#3.wav lokey=58 hikey=58 pitch_keycenter=58
+<region> sample=B3.wav lokey=59 hikey=59 pitch_keycenter=59
+
+<region> sample=C4.wav lokey=60 hikey=60 pitch_keycenter=60
+<region> sample=C#4.wav lokey=61 hikey=61 pitch_keycenter=61
+<region> sample=D4.wav lokey=62 hikey=62 pitch_keycenter=62
+<region> sample=D#4.wav lokey=63 hikey=63 pitch_keycenter=63
+<region> sample=E4.wav lokey=64 hikey=64 pitch_keycenter=64
+<region> sample=F4.wav lokey=65 hikey=65 pitch_keycenter=65
+<region> sample=F#4.wav lokey=66 hikey=66 pitch_keycenter=66
+<region> sample=G4.wav lokey=67 hikey=67 pitch_keycenter=67
+<region> sample=G#4.wav lokey=68 hikey=68 pitch_keycenter=68
+<region> sample=A4.wav lokey=69 hikey=69 pitch_keycenter=69
+<region> sample=A#4.wav lokey=70 hikey=70 pitch_keycenter=70
+<region> sample=B4.wav lokey=71 hikey=71 pitch_keycenter=71
+
+<region> sample=C5.wav lokey=72 hikey=72 pitch_keycenter=72
+<region> sample=C#5.wav lokey=73 hikey=73 pitch_keycenter=73
+<region> sample=D5.wav lokey=74 hikey=74 pitch_keycenter=74
+<region> sample=D#5.wav lokey=75 hikey=75 pitch_keycenter=75
+<region> sample=E5.wav lokey=76 hikey=76 pitch_keycenter=76
+<region> sample=F5.wav lokey=77 hikey=77 pitch_keycenter=77
+<region> sample=F#5.wav lokey=78 hikey=78 pitch_keycenter=78
+<region> sample=G5.wav lokey=79 hikey=79 pitch_keycenter=79
+<region> sample=G#5.wav lokey=80 hikey=80 pitch_keycenter=80
+<region> sample=A5.wav lokey=81 hikey=81 pitch_keycenter=81
+<region> sample=A#5.wav lokey=82 hikey=82 pitch_keycenter=82
+<region> sample=B5.wav lokey=83 hikey=83 pitch_keycenter=83
+
+<region> sample=C6.wav lokey=84 hikey=84 pitch_keycenter=84
+<region> sample=C#6.wav lokey=85 hikey=85 pitch_keycenter=85
+<region> sample=D6.wav lokey=86 hikey=86 pitch_keycenter=86
+<region> sample=D#6.wav lokey=87 hikey=87 pitch_keycenter=87
+<region> sample=E6.wav lokey=88 hikey=88 pitch_keycenter=88
+<region> sample=F6.wav lokey=89 hikey=89 pitch_keycenter=89
+<region> sample=F#6.wav lokey=90 hikey=90 pitch_keycenter=90
+<region> sample=G6.wav lokey=91 hikey=91 pitch_keycenter=91
+
+<region> sample=C7.wav lokey=96 hikey=96 pitch_keycenter=96
+<region> sample=C#7.wav lokey=97 hikey=97 pitch_keycenter=97
+<region> sample=D7.wav lokey=98 hikey=98 pitch_keycenter=98
+<region> sample=D#7.wav lokey=99 hikey=99 pitch_keycenter=99
+<region> sample=E7.wav lokey=100 hikey=100 pitch_keycenter=100
+<region> sample=F7.wav lokey=101 hikey=101 pitch_keycenter=101
+<region> sample=F#7.wav lokey=102 hikey=102 pitch_keycenter=102
+
+<region> sample=C8.wav lokey=108 hikey=108 pitch_keycenter=108
+<region> sample=D#8.wav lokey=111 hikey=111 pitch_keycenter=111
+<region> sample=E8.wav lokey=112 hikey=112 pitch_keycenter=112
+<region> sample=F8.wav lokey=113 hikey=113 pitch_keycenter=113
+<region> sample=F#8.wav lokey=114 hikey=114 pitch_keycenter=114
+<region> sample=G8.wav lokey=115 hikey=115 pitch_keycenter=115
+<region> sample=G#8.wav lokey=116 hikey=116 pitch_keycenter=116
+<region> sample=A8.wav lokey=117 hikey=117 pitch_keycenter=117
+<region> sample=A#8.wav lokey=118 hikey=118 pitch_keycenter=118
+<region> sample=B8.wav lokey=119 hikey=119 pitch_keycenter=119
