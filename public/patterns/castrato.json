@@ -1,0 +1,293 @@
+{
+  "name": "Castrato",
+  "sequence": [
+    {
+      "time": "0:0:0",
+      "note": "C3",
+      "duration": 0.5,
+      "velocity": 0.71
+    },
+    {
+      "time": "0:0:0",
+      "note": "G3",
+      "duration": 0.5,
+      "velocity": 0.69
+    },
+    {
+      "time": "0:0:0",
+      "note": "E4",
+      "duration": 0.5,
+      "velocity": 0.69
+    },
+    {
+      "time": "0:0:0",
+      "note": "C5",
+      "duration": 0.5,
+      "velocity": 0.71
+    },
+    {
+      "time": "0:2:0",
+      "note": "C3",
+      "duration": 0.1875,
+      "velocity": 0.66
+    },
+    {
+      "time": "0:2:0",
+      "note": "G3",
+      "duration": 0.1875,
+      "velocity": 0.64
+    },
+    {
+      "time": "0:2:0",
+      "note": "E4",
+      "duration": 0.1875,
+      "velocity": 0.65
+    },
+    {
+      "time": "0:2:0",
+      "note": "C5",
+      "duration": 0.1875,
+      "velocity": 0.66
+    },
+    {
+      "time": "1:0:0",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.52
+    },
+    {
+      "time": "1:0:0",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.5
+    },
+    {
+      "time": "1:0:0",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.5
+    },
+    {
+      "time": "1:0:0",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.52
+    },
+    {
+      "time": "1:1:0",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.57
+    },
+    {
+      "time": "1:1:0",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.54
+    },
+    {
+      "time": "1:1:0",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.55
+    },
+    {
+      "time": "1:1:0",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.57
+    },
+    {
+      "time": "1:2:0",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.59
+    },
+    {
+      "time": "1:2:0",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.57
+    },
+    {
+      "time": "1:2:0",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.57
+    },
+    {
+      "time": "1:2:0",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.59
+    },
+    {
+      "time": "1:3:0",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "1:3:0",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "1:3:0",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "1:3:0",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "2:0:0",
+      "note": "C3",
+      "duration": 0.5,
+      "velocity": 0.71
+    },
+    {
+      "time": "2:0:0",
+      "note": "G3",
+      "duration": 0.5,
+      "velocity": 0.69
+    },
+    {
+      "time": "2:0:0",
+      "note": "E4",
+      "duration": 0.5,
+      "velocity": 0.69
+    },
+    {
+      "time": "2:0:0",
+      "note": "C5",
+      "duration": 0.5,
+      "velocity": 0.71
+    },
+    {
+      "time": "2:2:0",
+      "note": "C3",
+      "duration": 0.1875,
+      "velocity": 0.66
+    },
+    {
+      "time": "2:2:0",
+      "note": "G3",
+      "duration": 0.1875,
+      "velocity": 0.64
+    },
+    {
+      "time": "2:2:0",
+      "note": "E4",
+      "duration": 0.1875,
+      "velocity": 0.65
+    },
+    {
+      "time": "2:2:0",
+      "note": "C5",
+      "duration": 0.1875,
+      "velocity": 0.66
+    },
+    {
+      "time": "3:0:0",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.52
+    },
+    {
+      "time": "3:0:0",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.5
+    },
+    {
+      "time": "3:0:0",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.5
+    },
+    {
+      "time": "3:0:0",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.52
+    },
+    {
+      "time": "3:1:0",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.57
+    },
+    {
+      "time": "3:1:0",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.54
+    },
+    {
+      "time": "3:1:0",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.55
+    },
+    {
+      "time": "3:1:0",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.57
+    },
+    {
+      "time": "3:2:0",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.59
+    },
+    {
+      "time": "3:2:0",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.57
+    },
+    {
+      "time": "3:2:0",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.57
+    },
+    {
+      "time": "3:2:0",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.59
+    },
+    {
+      "time": "3:3:0",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "3:3:0",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "3:3:0",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "3:3:0",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.63
+    }
+  ]
+}

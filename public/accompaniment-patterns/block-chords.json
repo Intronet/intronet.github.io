@@ -1,0 +1,8 @@
+
+{
+  "name": "Block Chords",
+  "pattern_duration_beats": 1,
+  "steps": [
+    { "time_offset": 0, "duration": 1, "voicing": "all", "octave_offset": 0, "velocity": 0.7 }
+  ]
+}

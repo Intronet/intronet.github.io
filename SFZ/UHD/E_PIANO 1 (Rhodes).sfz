@@ -1,0 +1,93 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Peter Jevnisek, Chris Wadge and other contributors. Not for commercial distribution.
+//// Category: Unknown
+//// Comment2: Revision 3.31
+//// 128 GM melodic presets
+////   31 GS melodic variation tones
+////   10 Drum banks
+//// Copyright: Peter Jevnisek and Chris Wadge
+
+<global>
+global_label=E.PIANO 1 (Rhodes)
+
+<group>
+group_label=E. PIANO 1
+
+<region>
+sample=E_PIANO 1 (Rhodes) Samples/EP A1 mp1.wav
+pitch_keycenter=49
+lokey=0 hikey=52
+offset=0 end=17931
+amp_veltrack=0.00
+ampeg_hold=0.30006216666631697 ampeg_decay=12.000311914286545 ampeg_release=0.5 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=17495 loop_end=17930
+
+<region>
+sample=E_PIANO 1 (Rhodes) Samples/EP A2 mp1.wav
+pitch_keycenter=57
+lokey=53 hikey=59
+offset=0 end=14746
+amp_veltrack=0.00
+ampeg_hold=0.30006216666631697 ampeg_decay=10.997980027664664 ampeg_release=0.5 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=14608 loop_end=14745
+
+<region>
+sample=E_PIANO 1 (Rhodes) Samples/EP A3 mp1.wav
+pitch_keycenter=62
+lokey=60 hikey=65
+offset=0 end=15057
+tune=12
+amp_veltrack=0.00
+ampeg_hold=0.30006216666631697 ampeg_decay=9.998188081831264 ampeg_release=0.5 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=14951 loop_end=15054
+
+<region>
+sample=E_PIANO 1 (Rhodes) Samples/EP A4 mp1.wav
+pitch_keycenter=70
+lokey=66 hikey=71
+offset=0 end=17480
+tune=10
+amp_veltrack=0.00
+ampeg_hold=0.30006216666631697 ampeg_decay=9.000467877510475 ampeg_release=0.5 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=17349 loop_end=17414
+
+<region>
+sample=E_PIANO 1 (Rhodes) Samples/EP A5 mp1.wav
+pitch_keycenter=74
+lokey=72 hikey=77
+offset=0 end=15602
+tune=20
+amp_veltrack=0.00
+ampeg_hold=0.30006216666631697 ampeg_decay=8.0 ampeg_release=0.5 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=15447 loop_end=15601
+
+<region>
+sample=E_PIANO 1 (Rhodes) Samples/EP A6 mp1.wav
+pitch_keycenter=80
+lokey=78 hikey=82
+offset=0 end=14816
+tune=20
+amp_veltrack=0.00
+ampeg_hold=0.30006216666631697 ampeg_decay=7.000703957961675 ampeg_release=0.5 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=14705 loop_end=14814
+
+<region>
+sample=E_PIANO 1 (Rhodes) Samples/EP A7 mp1.wav
+pitch_keycenter=86
+lokey=83 hikey=87
+offset=0 end=12475
+tune=24
+amp_veltrack=0.00
+ampeg_hold=0.30006216666631697 ampeg_decay=6.0001559571432725 ampeg_release=0.5 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=12396 loop_end=12473
+
+<region>
+sample=E_PIANO 1 (Rhodes) Samples/EP A8 mp1.wav
+pitch_keycenter=90
+lokey=88 hikey=127
+offset=0 end=10435
+tune=10
+amp_veltrack=0.00
+ampeg_hold=0.30006216666631697 ampeg_decay=4.999094040915632 ampeg_release=0.5 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=10268 loop_end=10431

@@ -1,0 +1,329 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Pipe Nacho
+//// Category: Unknown
+//// Comment2: Visit Musical Artifacts often for new updates! https://musical-artifacts.com/artifacts/1176
+//// Version 3.0 (10/22/2025).
+//// 
+//// This is a soundfont that I compiled with high quality presets, mostly made by me, sampled from my Korg Pa700 and Roland JUNO-DS keyboards and some from Roland Zenology VST, everything in less than 1 GB, highlighting balanced and live quality pianos, guitars, basses, and more!
+//// Includes FX, drum kits and some aditional presets.
+//// Copyright: (C) 2020 - 2025 UnderxPipe1985
+
+<global>
+global_label=Picked Bass
+
+<group>
+group_label=JUNO-DS Picked Bass
+ampeg_decay=39.99275232732504 ampeg_release=0.10001812246532978 ampeg_sustain=0.0
+
+<region>
+sample=Picked Bass Samples/PickedBass26-2L.wav
+pitch_keycenter=26
+lokey=0 hikey=26
+lovel=121
+offset=0 end=113040
+pan=-100
+loop_mode=loop_continuous loop_start=111843 loop_end=113039
+
+<region>
+sample=Picked Bass Samples/PickedBass28L.wav
+pitch_keycenter=28
+lokey=27 hikey=30
+hivel=120
+offset=0 end=91360
+pan=-100
+loop_mode=loop_continuous loop_start=89218 loop_end=91359
+
+<region>
+sample=Picked Bass Samples/PickedBass28-2L.wav
+pitch_keycenter=28
+lokey=27 hikey=30
+lovel=121
+offset=0 end=156440
+pan=-100
+loop_mode=loop_continuous loop_start=141438 loop_end=156439
+
+<region>
+sample=Picked Bass Samples/PickedBass31L.wav
+pitch_keycenter=31
+lokey=31 hikey=32
+hivel=120
+offset=0 end=137970
+pan=-100
+loop_mode=loop_continuous loop_start=136172 loop_end=137969
+
+<region>
+sample=Picked Bass Samples/PickedBass31-2L.wav
+pitch_keycenter=31
+lokey=31 hikey=33
+lovel=121
+offset=0 end=144736
+pan=-100
+loop_mode=loop_continuous loop_start=143836 loop_end=144735
+
+<region>
+sample=Picked Bass Samples/PickedBass33L.wav
+pitch_keycenter=33
+lokey=33 hikey=37
+hivel=120
+offset=0 end=144310
+pan=-100
+loop_mode=loop_continuous loop_start=143506 loop_end=144309
+
+<region>
+sample=Picked Bass Samples/PickedBass34-2L.wav
+pitch_keycenter=34
+lokey=34 hikey=39
+lovel=121
+offset=0 end=141568
+pan=-100
+loop_mode=loop_continuous loop_start=140053 loop_end=141567
+
+<region>
+sample=Picked Bass Samples/PickedBass38L.wav
+pitch_keycenter=38
+lokey=38 hikey=46
+hivel=120
+offset=0 end=141663
+pan=-100
+loop_mode=loop_continuous loop_start=141061 loop_end=141662
+
+<region>
+sample=Picked Bass Samples/PickedBass40-2L.wav
+pitch_keycenter=40
+lokey=40 hikey=46
+lovel=121
+offset=0 end=120704
+pan=-100
+loop_mode=loop_continuous loop_start=120166 loop_end=120703
+
+<region>
+sample=Picked Bass Samples/PickedBass47L.wav
+pitch_keycenter=47
+lokey=47 hikey=51
+hivel=120
+offset=0 end=132384
+pan=-100
+loop_mode=loop_continuous loop_start=129119 loop_end=130191
+
+<region>
+sample=Picked Bass Samples/PickedBass47-2L.wav
+pitch_keycenter=47
+lokey=47 hikey=50
+lovel=121
+offset=0 end=144326
+pan=-100
+loop_mode=loop_continuous loop_start=141824 loop_end=144325
+
+<region>
+sample=Picked Bass Samples/PickedBass51-2L.wav
+pitch_keycenter=51
+lokey=51 hikey=66
+lovel=121
+offset=0 end=116736
+pan=-100
+loop_mode=loop_continuous loop_start=116168 loop_end=116735
+
+<region>
+sample=Picked Bass Samples/PickedBass52L.wav
+pitch_keycenter=52
+lokey=52 hikey=127
+hivel=120
+offset=0 end=104448
+pan=-100
+loop_mode=loop_continuous loop_start=103109 loop_end=104447
+
+<region>
+sample=Picked Bass Samples/PickedBass57-2L.wav
+pitch_keycenter=57
+lokey=67 hikey=71
+lovel=121
+offset=0 end=120383
+pan=-100
+loop_mode=loop_continuous loop_start=119981 loop_end=120382
+
+<region>
+sample=Picked Bass Samples/PickedBass72-2L.wav
+pitch_keycenter=72
+lokey=72 hikey=127
+lovel=121
+offset=0 end=66404
+pan=-100
+loop_mode=loop_continuous loop_start=66066 loop_end=66403
+
+<region>
+sample=Picked Bass Samples/PickedBass26L.wav
+pitch_keycenter=26
+lokey=0 hikey=26
+hivel=120
+offset=0 end=91296
+pan=-100
+loop_mode=loop_continuous loop_start=90092 loop_end=91295
+
+<region>
+sample=Picked Bass Samples/PickedBass26-2R.wav
+pitch_keycenter=26
+lokey=0 hikey=26
+lovel=121
+offset=0 end=113040
+pan=100
+loop_mode=loop_continuous loop_start=111845 loop_end=113039
+
+<region>
+sample=Picked Bass Samples/PickedBass28R.wav
+pitch_keycenter=28
+lokey=27 hikey=30
+hivel=120
+offset=0 end=91360
+pan=100
+loop_mode=loop_continuous loop_start=89218 loop_end=91359
+
+<region>
+sample=Picked Bass Samples/PickedBass28-2R.wav
+pitch_keycenter=28
+lokey=27 hikey=30
+lovel=121
+offset=0 end=156440
+pan=100
+loop_mode=loop_continuous loop_start=141437 loop_end=156439
+
+<region>
+sample=Picked Bass Samples/PickedBass31R.wav
+pitch_keycenter=31
+lokey=31 hikey=32
+hivel=120
+offset=0 end=137970
+pan=100
+loop_mode=loop_continuous loop_start=136172 loop_end=137969
+
+<region>
+sample=Picked Bass Samples/PickedBass31-2R.wav
+pitch_keycenter=31
+lokey=31 hikey=33
+lovel=121
+offset=0 end=144736
+pan=100
+loop_mode=loop_continuous loop_start=143836 loop_end=144735
+
+<region>
+sample=Picked Bass Samples/PickedBass33R.wav
+pitch_keycenter=33
+lokey=33 hikey=37
+hivel=120
+offset=0 end=144310
+pan=100
+loop_mode=loop_continuous loop_start=143506 loop_end=144309
+
+<region>
+sample=Picked Bass Samples/PickedBass34-2R.wav
+pitch_keycenter=34
+lokey=34 hikey=39
+lovel=121
+offset=0 end=141568
+pan=100
+loop_mode=loop_continuous loop_start=140053 loop_end=141567
+
+<region>
+sample=Picked Bass Samples/PickedBass38R.wav
+pitch_keycenter=38
+lokey=38 hikey=46
+hivel=120
+offset=0 end=141663
+pan=100
+loop_mode=loop_continuous loop_start=141061 loop_end=141662
+
+<region>
+sample=Picked Bass Samples/PickedBass40-2R.wav
+pitch_keycenter=40
+lokey=40 hikey=46
+lovel=121
+offset=0 end=120704
+pan=100
+loop_mode=loop_continuous loop_start=120166 loop_end=120703
+
+<region>
+sample=Picked Bass Samples/PickedBass47R.wav
+pitch_keycenter=47
+lokey=47 hikey=51
+hivel=120
+offset=0 end=132384
+pan=100
+loop_mode=loop_continuous loop_start=129119 loop_end=130191
+
+<region>
+sample=Picked Bass Samples/PickedBass47-2R.wav
+pitch_keycenter=47
+lokey=47 hikey=50
+lovel=121
+offset=0 end=144326
+pan=100
+loop_mode=loop_continuous loop_start=141824 loop_end=144325
+
+<region>
+sample=Picked Bass Samples/PickedBass51-2R.wav
+pitch_keycenter=51
+lokey=51 hikey=66
+lovel=121
+offset=0 end=116736
+pan=100
+loop_mode=loop_continuous loop_start=116168 loop_end=116735
+
+<region>
+sample=Picked Bass Samples/PickedBass52R.wav
+pitch_keycenter=52
+lokey=52 hikey=127
+hivel=120
+offset=0 end=104448
+pan=100
+loop_mode=loop_continuous loop_start=103109 loop_end=104447
+
+<region>
+sample=Picked Bass Samples/PickedBass57-2R.wav
+pitch_keycenter=57
+lokey=67 hikey=71
+lovel=121
+offset=0 end=120383
+pan=100
+loop_mode=loop_continuous loop_start=119981 loop_end=120382
+
+<region>
+sample=Picked Bass Samples/PickedBass72-2R.wav
+pitch_keycenter=72
+lokey=72 hikey=127
+lovel=121
+offset=0 end=66404
+pan=100
+loop_mode=loop_continuous loop_start=66066 loop_end=66403
+
+<region>
+sample=Picked Bass Samples/PickedBass26R.wav
+pitch_keycenter=26
+lokey=0 hikey=26
+hivel=120
+offset=0 end=91296
+pan=100
+loop_mode=loop_continuous loop_start=90092 loop_end=91295
+
+<group>
+group_label=JUNO-DS E.Bass FgOff
+ampeg_release=3.0000779785716363
+
+<region>
+sample=Picked Bass Samples/E_Bass NzL.wav
+pitch_keycenter=60
+lokey=0 hikey=127
+offset=0 end=6308
+pitch_keytrack=50
+volume=0.13
+pan=-100
+loop_mode=loop_continuous loop_start=3 loop_end=200
+
+<region>
+sample=Picked Bass Samples/E_Bass NzR.wav
+pitch_keycenter=60
+lokey=0 hikey=127
+offset=0 end=6308
+pitch_keytrack=50
+volume=0.13
+pan=100
+loop_mode=loop_continuous loop_start=3 loop_end=200

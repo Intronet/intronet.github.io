@@ -1,0 +1,10 @@
+
+{
+  "name": "Classical Melody",
+  "sequence": [
+    { "time": "0:0:0", "note": "C5", "duration": "8n", "velocity": 0.8 },
+    { "time": "0:0:2", "note": "E5", "duration": "8n", "velocity": 0.8 },
+    { "time": "0:1:0", "note": "G5", "duration": "8n", "velocity": 0.8 },
+    { "time": "0:1:2", "note": "E5", "duration": "8n", "velocity": 0.8 }
+  ]
+}

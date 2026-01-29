@@ -1,0 +1,8 @@
+
+{
+  "name": "Walking Tenths",
+  "type": "melodic_generator",
+  "function": "generateWalkingTenths",
+  "pattern_duration_beats": 4,
+  "steps": []
+}

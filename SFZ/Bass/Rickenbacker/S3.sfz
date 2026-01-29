@@ -1,0 +1,21 @@
+<control> default_path=Slap\
+<region> sample=E1_3.wav pitch_keycenter=e1 lokey=c1 hikey=f1
+ampeg_hold=9.00047
+<region> sample=Ab1_3.wav pitch_keycenter=g#1 lokey=f#1 hikey=a1
+ampeg_hold=9
+<region> sample=C2_3.wav pitch_keycenter=c2 lokey=a#1 hikey=c#2
+ampeg_hold=8
+<region> sample=Eb2_3.wav pitch_keycenter=d#2 lokey=d2 hikey=e2
+ampeg_hold=7.2
+<region> sample=Gb2_3.wav pitch_keycenter=f#2 lokey=f2 hikey=g2
+ampeg_hold=6.8
+<region> sample=A2_3.wav pitch_keycenter=a2 lokey=g#2 hikey=b2
+ampeg_hold=6.5
+<region> sample=Db3_3.wav pitch_keycenter=c#3 lokey=c3 hikey=c#3
+ampeg_hold=5.7
+<region> sample=E3_3.wav pitch_keycenter=e3 lokey=d3 hikey=f3
+ampeg_hold=5.5
+<region> sample=Ab3_3.wav pitch_keycenter=g#3 lokey=f#3 hikey=a#3
+ampeg_hold=5.3
+<region> sample=Db4_3.wav pitch_keycenter=c#4 lokey=b3
+ampeg_hold=4

@@ -1,0 +1,10 @@
+
+{
+  "name": "Waltz",
+  "pattern_duration_beats": 3,
+  "steps": [
+    { "time_offset": 0, "duration": 1, "voicing": [0], "octave_offset": -1, "velocity": 0.8 },
+    { "time_offset": 1, "duration": 1, "voicing": "rest", "octave_offset": 0, "velocity": 0.6 },
+    { "time_offset": 2, "duration": 1, "voicing": "rest", "octave_offset": 0, "velocity": 0.6 }
+  ]
+}

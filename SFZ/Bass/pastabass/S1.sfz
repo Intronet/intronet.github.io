@@ -1,0 +1,24 @@
+<region> sample=1_E_f.wav pitch_keycenter=e1 lokey=c1 hikey=f1
+ampeg_hold=9.00047
+<region> sample=1_G_f.wav pitch_keycenter=g1 lokey=f#1 hikey=g#1
+ampeg_hold=9
+<region> sample=1_Bb_f.wav pitch_keycenter=a#1 lokey=a1 hikey=b1
+ampeg_hold=8.6
+<region> sample=2_Db_f.wav pitch_keycenter=c#2 lokey=c2 hikey=c#2
+ampeg_hold=7.5
+<region> sample=2_E_f.wav pitch_keycenter=e2 lokey=d2 hikey=f2
+ampeg_hold=7.1
+<region> sample=2_G_f.wav pitch_keycenter=g2 lokey=f#2 hikey=g#2
+ampeg_hold=6.6
+<region> sample=2_Bb_f.wav pitch_keycenter=a#2 lokey=a2 hikey=b2
+ampeg_hold=6.3
+<region> sample=3_Db_f.wav pitch_keycenter=c#3 lokey=c3 hikey=d#3
+ampeg_hold=5.7
+<region> sample=3_G_f.wav pitch_keycenter=g3 lokey=e3 hikey=a3
+ampeg_hold=5.3
+<region> sample=4_Db_f.wav pitch_keycenter=c#4 lokey=a#3 hikey=c#4
+ampeg_hold=4.2
+<region> sample=4_E_f.wav pitch_keycenter=e4 lokey=d4 hikey=f4
+ampeg_hold=3.6
+<region> sample=4_G_f.wav pitch_keycenter=g4 lokey=f#4
+ampeg_hold=2.8

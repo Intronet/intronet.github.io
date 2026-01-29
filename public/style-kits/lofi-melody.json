@@ -1,0 +1,9 @@
+{
+  "name": "Lofi Melody",
+  "rhythm_density": "sparse",
+  "rhythm_syncopation": "medium",
+  "contour": "valley",
+  "note_selection": "mixed",
+  "leap_preference": "stepwise",
+  "octaveRange": [4, 5]
+}

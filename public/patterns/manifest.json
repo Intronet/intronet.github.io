@@ -1,0 +1,32 @@
+{
+  "Classical & Foundational": [
+    { "file": "alberti-bass-expert.json", "name": "Alberti Bass (Expert)" },
+    { "file": "alberti-bass-user.json", "name": "Alberti Bass (User)" },
+    { "file": "scale-run.json", "name": "Scale Run" },
+    { "file": "sonata.json", "name": "Sonata" }
+  ],
+  "Cinematic & Expressive": [
+    { "file": "cinematic-swell.json", "name": "Cinematic Swell" },
+    { "file": "opera.json", "name": "Opera" },
+    { "file": "verismo.json", "name": "Verismo" },
+    { "file": "sospirando.json", "name": "Sospirando" },
+    { "file": "sostenuto.json", "name": "Sostenuto" },
+    { "file": "tenuto.json", "name": "Tenuto" }
+  ],
+  "Genre & Style": [
+    { "file": "classical-melody.json", "name": "Classical Melody" },
+    { "file": "funky-bassline.json", "name": "Funky Bassline" },
+    { "file": "jazzy-chords.json", "name": "Jazzy Chords" }
+  ],
+  "Rhythmic & Percussive": [
+    { "file": "drum-beat.json", "name": "Drum Beat" },
+    { "file": "risoluto.json", "name": "Risoluto" }
+  ],
+  "Simple & Utility": [
+    { "file": "minimalist-pattern.json", "name": "Minimalist Pattern" },
+    { "file": "chord-progression.json", "name": "Chord Progression" },
+    { "file": "non.json", "name": "Non" },
+    { "file": "castrato.json", "name": "Castrato" },
+    { "file": "test-json.json", "name": "Test JSON" }
+  ]
+}

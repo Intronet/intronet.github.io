@@ -1,0 +1,101 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Category: Bass
+
+<global>
+global_label=electrobass-22
+ampeg_release=0.10001812246532978
+
+<group>
+group_label=electrobass-22
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_C2-.wav
+pitch_keycenter=36
+lokey=0 hikey=37
+offset=0 end=58106
+loop_mode=loop_continuous loop_start=31116 loop_end=58062
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_D2-.wav
+pitch_keycenter=38
+lokey=38 hikey=39
+offset=0 end=101675
+loop_mode=loop_continuous loop_start=47590 loop_end=101631
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_E2-.wav
+pitch_keycenter=40
+lokey=40 hikey=41
+offset=0 end=85912
+loop_mode=loop_continuous loop_start=26998 loop_end=85868
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_F#2-.wav
+pitch_keycenter=42
+lokey=42 hikey=43
+offset=0 end=77798
+loop_mode=loop_continuous loop_start=32946 loop_end=77754
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_G#2-.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+offset=0 end=85982
+loop_mode=loop_continuous loop_start=31574 loop_end=85938
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_A#2-.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+offset=0 end=87804
+loop_mode=loop_continuous loop_start=37064 loop_end=87760
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_C3-.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+offset=0 end=67060
+loop_mode=loop_continuous loop_start=27913 loop_end=67016
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_D3-.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+offset=0 end=95149
+loop_mode=loop_continuous loop_start=41674 loop_end=95105
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_E3-.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+offset=0 end=96742
+loop_mode=loop_continuous loop_start=35692 loop_end=96698
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_F#3-.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+offset=0 end=88000
+loop_mode=loop_continuous loop_start=34090 loop_end=87956
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_G#3-.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+offset=0 end=91208
+loop_mode=loop_continuous loop_start=39353 loop_end=91164
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_A#3-.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+offset=0 end=81487
+loop_mode=loop_continuous loop_start=31116 loop_end=81443
+
+<region>
+sample=electrobass-22 Samples/electrobass-22_C4-.wav
+pitch_keycenter=60
+lokey=60 hikey=127
+offset=0 end=98851
+loop_mode=loop_continuous loop_start=46903 loop_end=98807

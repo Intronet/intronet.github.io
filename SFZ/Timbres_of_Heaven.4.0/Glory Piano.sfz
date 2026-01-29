@@ -7,549 +7,87 @@
 
 <global>
 global_label=Glory Piano
+polyphony=8
+ampeg_attack=0.015
+ampeg_release=1.0
+ampeg_sustain=100
+ampeg_release_curve=0.5
 
 <group>
 group_label=Heaven Piano
+loop_mode=no_loop
 
 <region>
-sample=Glory Piano Samples/0g027(L).wav
+sample=Glory Piano Samples/0g027.wav
 pitch_keycenter=27
 lokey=21 hikey=31
-offset=0 end=464896
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g036(L).wav
+sample=Glory Piano Samples/0g036.wav
 pitch_keycenter=36
 lokey=32 hikey=37
-offset=0 end=390091
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g040(L).wav
+sample=Glory Piano Samples/0g040.wav
 pitch_keycenter=40
 lokey=38 hikey=42
-offset=0 end=515072
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g045(L).wav
+sample=Glory Piano Samples/0g045.wav
 pitch_keycenter=45
 lokey=43 hikey=50
-offset=0 end=489472
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g056(L).wav
+sample=Glory Piano Samples/0g056.wav
 pitch_keycenter=56
 lokey=51 hikey=58
-offset=0 end=402424
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g061(L).wav
+sample=Glory Piano Samples/0g061.wav
 pitch_keycenter=61
 lokey=59 hikey=63
-offset=0 end=375808
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g066(L).wav
+sample=Glory Piano Samples/0g066.wav
 pitch_keycenter=66
 lokey=64 hikey=67
-offset=0 end=334838
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g070(L).wav
+sample=Glory Piano Samples/0g070.wav
 pitch_keycenter=70
 lokey=68 hikey=71
-offset=0 end=274432
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g073(L).wav
+sample=Glory Piano Samples/0g073.wav
 pitch_keycenter=73
 lokey=72 hikey=75
-offset=0 end=218097
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g077(L).wav
+sample=Glory Piano Samples/0g077.wav
 pitch_keycenter=77
 lokey=76 hikey=79
-offset=0 end=185324
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g082(L).wav
+sample=Glory Piano Samples/0g082.wav
 pitch_keycenter=82
 lokey=80 hikey=84
-offset=0 end=99576
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g086(L).wav
+sample=Glory Piano Samples/0g086.wav
 pitch_keycenter=86
 lokey=85 hikey=88
-offset=0 end=87552
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g090(L).wav
+sample=Glory Piano Samples/0g090.wav
 pitch_keycenter=90
 lokey=89 hikey=92
-offset=0 end=122624
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g095(L).wav
+sample=Glory Piano Samples/0g095.wav
 pitch_keycenter=95
 lokey=93 hikey=99
-offset=0 end=122368
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
 
 <region>
-sample=Glory Piano Samples/0g103(L).wav
+sample=Glory Piano Samples/0g103.wav
 pitch_keycenter=103
 lokey=100 hikey=108
-offset=0 end=127982
-pan=-100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g027(R).wav
-pitch_keycenter=27
-lokey=21 hikey=31
-offset=0 end=464896
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g036(R).wav
-pitch_keycenter=36
-lokey=32 hikey=37
-offset=0 end=390091
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g040(R).wav
-pitch_keycenter=40
-lokey=38 hikey=42
-offset=0 end=515072
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g045(R).wav
-pitch_keycenter=45
-lokey=43 hikey=50
-offset=0 end=489472
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g056(R).wav
-pitch_keycenter=56
-lokey=51 hikey=58
-offset=0 end=402424
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g061(R).wav
-pitch_keycenter=61
-lokey=59 hikey=63
-offset=0 end=375808
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g066(R).wav
-pitch_keycenter=66
-lokey=64 hikey=67
-offset=0 end=334838
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g070(R).wav
-pitch_keycenter=70
-lokey=68 hikey=71
-offset=0 end=274432
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g073(R).wav
-pitch_keycenter=73
-lokey=72 hikey=75
-offset=0 end=218097
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g077(R).wav
-pitch_keycenter=77
-lokey=76 hikey=79
-offset=0 end=185324
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g082(R).wav
-pitch_keycenter=82
-lokey=80 hikey=84
-offset=0 end=99576
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g086(R).wav
-pitch_keycenter=86
-lokey=85 hikey=88
-offset=0 end=87552
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g090(R).wav
-pitch_keycenter=90
-lokey=89 hikey=92
-offset=0 end=122624
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g095(R).wav
-pitch_keycenter=95
-lokey=93 hikey=99
-offset=0 end=122368
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g103(R).wav
-pitch_keycenter=103
-lokey=100 hikey=108
-offset=0 end=127982
-pan=80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<group>
-group_label=Heaven Piano
-
-<region>
-sample=Glory Piano Samples/0g027(L).wav
-pitch_keycenter=27
-lokey=21 hikey=31
-offset=0 end=464896
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g036(L).wav
-pitch_keycenter=36
-lokey=32 hikey=37
-offset=0 end=390091
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g040(L).wav
-pitch_keycenter=40
-lokey=38 hikey=42
-offset=0 end=515072
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g045(L).wav
-pitch_keycenter=45
-lokey=43 hikey=50
-offset=0 end=489472
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g056(L).wav
-pitch_keycenter=56
-lokey=51 hikey=58
-offset=0 end=402424
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g061(L).wav
-pitch_keycenter=61
-lokey=59 hikey=63
-offset=0 end=375808
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g066(L).wav
-pitch_keycenter=66
-lokey=64 hikey=67
-offset=0 end=334838
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g070(L).wav
-pitch_keycenter=70
-lokey=68 hikey=71
-offset=0 end=274432
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g073(L).wav
-pitch_keycenter=73
-lokey=72 hikey=75
-offset=0 end=218097
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g077(L).wav
-pitch_keycenter=77
-lokey=76 hikey=79
-offset=0 end=185324
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g082(L).wav
-pitch_keycenter=82
-lokey=80 hikey=84
-offset=0 end=99576
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g086(L).wav
-pitch_keycenter=86
-lokey=85 hikey=88
-offset=0 end=87552
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g090(L).wav
-pitch_keycenter=90
-lokey=89 hikey=92
-offset=0 end=122624
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g095(L).wav
-pitch_keycenter=95
-lokey=93 hikey=99
-offset=0 end=122368
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g103(L).wav
-pitch_keycenter=103
-lokey=100 hikey=108
-offset=0 end=127982
-pan=-80
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g027(R).wav
-pitch_keycenter=27
-lokey=21 hikey=31
-offset=0 end=464896
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g036(R).wav
-pitch_keycenter=36
-lokey=32 hikey=37
-offset=0 end=390091
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g040(R).wav
-pitch_keycenter=40
-lokey=38 hikey=42
-offset=0 end=515072
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g045(R).wav
-pitch_keycenter=45
-lokey=43 hikey=50
-offset=0 end=489472
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g056(R).wav
-pitch_keycenter=56
-lokey=51 hikey=58
-offset=0 end=402424
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g061(R).wav
-pitch_keycenter=61
-lokey=59 hikey=63
-offset=0 end=375808
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g066(R).wav
-pitch_keycenter=66
-lokey=64 hikey=67
-offset=0 end=334838
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g070(R).wav
-pitch_keycenter=70
-lokey=68 hikey=71
-offset=0 end=274432
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g073(R).wav
-pitch_keycenter=73
-lokey=72 hikey=75
-offset=0 end=218097
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g077(R).wav
-pitch_keycenter=77
-lokey=76 hikey=79
-offset=0 end=185324
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g082(R).wav
-pitch_keycenter=82
-lokey=80 hikey=84
-offset=0 end=99576
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g086(R).wav
-pitch_keycenter=86
-lokey=85 hikey=88
-offset=0 end=87552
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g090(R).wav
-pitch_keycenter=90
-lokey=89 hikey=92
-offset=0 end=122624
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g095(R).wav
-pitch_keycenter=95
-lokey=93 hikey=99
-offset=0 end=122368
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 
-
-<region>
-sample=Glory Piano Samples/0g103(R).wav
-pitch_keycenter=103
-lokey=100 hikey=108
-offset=0 end=127982
-pan=100
-ampeg_attack=0.005999951967619575 ampeg_release=2.499547020457816 ampeg_sustain=99.0
-loop_mode=no_loop 

@@ -1,0 +1,10 @@
+
+{
+  "name": "Funky Horns",
+  "rhythm_density": "dense",
+  "rhythm_syncopation": "high",
+  "contour": "random",
+  "note_selection": "mixed",
+  "leap_preference": "narrow",
+  "octaveRange": [4, 6]
+}

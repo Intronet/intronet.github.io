@@ -1,0 +1,101 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Category: Bass
+
+<global>
+global_label=electrobass-11
+ampeg_release=0.10001812246532978
+
+<group>
+group_label=electrobass-11
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_C2-.wav
+pitch_keycenter=36
+lokey=0 hikey=37
+offset=0 end=57656
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_D2-.wav
+pitch_keycenter=38
+lokey=38 hikey=39
+offset=0 end=62689
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_E2-.wav
+pitch_keycenter=40
+lokey=40 hikey=41
+offset=0 end=64519
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_F#2-.wav
+pitch_keycenter=42
+lokey=42 hikey=43
+offset=0 end=67951
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_G#2-.wav
+pitch_keycenter=44
+lokey=44 hikey=45
+offset=0 end=75730
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_A#2-.wav
+pitch_keycenter=46
+lokey=46 hikey=47
+offset=0 end=53995
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_C3-.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+offset=0 end=58800
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_D3-.wav
+pitch_keycenter=50
+lokey=50 hikey=51
+offset=0 end=62689
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_E3-.wav
+pitch_keycenter=52
+lokey=52 hikey=53
+offset=0 end=65663
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_F#3-.wav
+pitch_keycenter=54
+lokey=54 hikey=55
+offset=0 end=65206
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_G#3-.wav
+pitch_keycenter=56
+lokey=56 hikey=57
+offset=0 end=75273
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_A#3-.wav
+pitch_keycenter=58
+lokey=58 hikey=59
+offset=0 end=46902
+loop_mode=no_loop 
+
+<region>
+sample=electrobass-11 Samples/electrobass-11_C4-.wav
+pitch_keycenter=60
+lokey=60 hikey=127
+offset=0 end=61316
+loop_mode=no_loop 

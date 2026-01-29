@@ -1,0 +1,17 @@
+<control> default_path=Sustain\
+<region> sample=1_C.wav pitch_keycenter=c1 hikey=c#1 offset=30990
+<region> sample=1_Eb.wav pitch_keycenter=d#1 lokey=d1 hikey=e1 offset=30404
+<region> sample=1_Gb.wav pitch_keycenter=f#1 lokey=f1 hikey=g1 offset=29408
+<region> sample=1_A.wav pitch_keycenter=a1 lokey=g#1 hikey=a#1 offset=28178
+<region> sample=2_C.wav pitch_keycenter=c2 lokey=b1 hikey=c#2 offset=27900
+<region> sample=2_Eb.wav pitch_keycenter=d#2 lokey=d2 hikey=e2 offset=29104
+<region> sample=2_Gb.wav pitch_keycenter=f#2 lokey=f2 hikey=g2 offset=31993
+<region> sample=2_A.wav pitch_keycenter=a2 lokey=g#2 hikey=a#2 offset=27760
+<region> sample=3_C.wav pitch_keycenter=c3 lokey=b2 hikey=c#3 offset=28470
+<region> sample=3_Eb.wav pitch_keycenter=d#3 lokey=d3 hikey=e3 offset=33657
+<region> sample=3_Gb.wav pitch_keycenter=f#3 lokey=f3 hikey=g3 offset=28718
+<region> sample=3_A.wav pitch_keycenter=a3 lokey=g#3 hikey=a#3 offset=30229
+<region> sample=4_C.wav pitch_keycenter=c4 lokey=b3 hikey=c#4 offset=30271
+<region> sample=4_Eb.wav pitch_keycenter=d#4 lokey=d4 hikey=e4 offset=35639
+<region> sample=4_Gb.wav pitch_keycenter=f#4 lokey=f4 hikey=g4 offset=31426
+<region> sample=4_A.wav pitch_keycenter=a4 lokey=g#4 offset=26348

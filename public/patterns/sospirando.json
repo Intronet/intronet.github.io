@@ -1,0 +1,245 @@
+{
+  "name": "Sospirando",
+  "sequence": [
+    {
+      "time": "0:0:0",
+      "note": "C3",
+      "duration": 0.375,
+      "velocity": 0.71
+    },
+    {
+      "time": "0:0:0",
+      "note": "G3",
+      "duration": 0.375,
+      "velocity": 0.69
+    },
+    {
+      "time": "0:0:0",
+      "note": "E4",
+      "duration": 0.375,
+      "velocity": 0.69
+    },
+    {
+      "time": "0:0:0",
+      "note": "C5",
+      "duration": 0.375,
+      "velocity": 0.71
+    },
+    {
+      "time": "0:1:2",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "0:1:2",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "0:1:2",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "0:1:2",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "1:0:0",
+      "note": "C3",
+      "duration": 0.375,
+      "velocity": 0.71
+    },
+    {
+      "time": "1:0:0",
+      "note": "G3",
+      "duration": 0.375,
+      "velocity": 0.69
+    },
+    {
+      "time": "1:0:0",
+      "note": "E4",
+      "duration": 0.375,
+      "velocity": 0.69
+    },
+    {
+      "time": "1:0:0",
+      "note": "C5",
+      "duration": 0.375,
+      "velocity": 0.71
+    },
+    {
+      "time": "1:1:2",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "1:1:2",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "1:1:2",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "1:1:2",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "1:2:2",
+      "note": "C3",
+      "duration": 0.125,
+      "velocity": 0.52
+    },
+    {
+      "time": "1:2:2",
+      "note": "G3",
+      "duration": 0.125,
+      "velocity": 0.5
+    },
+    {
+      "time": "1:2:2",
+      "note": "E4",
+      "duration": 0.125,
+      "velocity": 0.5
+    },
+    {
+      "time": "1:2:2",
+      "note": "C5",
+      "duration": 0.125,
+      "velocity": 0.52
+    },
+    {
+      "time": "2:0:0",
+      "note": "C3",
+      "duration": 0.375,
+      "velocity": 0.71
+    },
+    {
+      "time": "2:0:0",
+      "note": "G3",
+      "duration": 0.375,
+      "velocity": 0.69
+    },
+    {
+      "time": "2:0:0",
+      "note": "E4",
+      "duration": 0.375,
+      "velocity": 0.69
+    },
+    {
+      "time": "2:0:0",
+      "note": "C5",
+      "duration": 0.375,
+      "velocity": 0.71
+    },
+    {
+      "time": "2:1:2",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "2:1:2",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "2:1:2",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "2:1:2",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "3:0:0",
+      "note": "C3",
+      "duration": 0.375,
+      "velocity": 0.71
+    },
+    {
+      "time": "3:0:0",
+      "note": "G3",
+      "duration": 0.375,
+      "velocity": 0.69
+    },
+    {
+      "time": "3:0:0",
+      "note": "E4",
+      "duration": 0.375,
+      "velocity": 0.69
+    },
+    {
+      "time": "3:0:0",
+      "note": "C5",
+      "duration": 0.375,
+      "velocity": 0.71
+    },
+    {
+      "time": "3:1:2",
+      "note": "C3",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "3:1:2",
+      "note": "G3",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "3:1:2",
+      "note": "E4",
+      "duration": 0.25,
+      "velocity": 0.61
+    },
+    {
+      "time": "3:1:2",
+      "note": "C5",
+      "duration": 0.25,
+      "velocity": 0.63
+    },
+    {
+      "time": "3:2:2",
+      "note": "C3",
+      "duration": 0.125,
+      "velocity": 0.52
+    },
+    {
+      "time": "3:2:2",
+      "note": "G3",
+      "duration": 0.125,
+      "velocity": 0.5
+    },
+    {
+      "time": "3:2:2",
+      "note": "E4",
+      "duration": 0.125,
+      "velocity": 0.5
+    },
+    {
+      "time": "3:2:2",
+      "note": "C5",
+      "duration": 0.125,
+      "velocity": 0.52
+    }
+  ]
+}

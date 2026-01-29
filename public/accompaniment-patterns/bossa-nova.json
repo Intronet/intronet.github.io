@@ -1,0 +1,13 @@
+
+{
+  "name": "Bossa Nova",
+  "pattern_duration_beats": 4,
+  "steps": [
+    { "time_offset": 0.0, "duration": 2.0, "voicing": [0], "octave_offset": -1, "velocity": 0.8 },
+    { "time_offset": 2.0, "duration": 2.0, "voicing": [2], "octave_offset": -1, "velocity": 0.75 },
+    { "time_offset": 0.0, "duration": 0.5, "voicing": "all", "octave_offset": 0, "velocity": 0.65 },
+    { "time_offset": 1.5, "duration": 0.5, "voicing": "all", "octave_offset": 0, "velocity": 0.65 },
+    { "time_offset": 2.0, "duration": 0.5, "voicing": "all", "octave_offset": 0, "velocity": 0.65 },
+    { "time_offset": 3.5, "duration": 0.5, "voicing": "all", "octave_offset": 0, "velocity": 0.65 }
+  ]
+}

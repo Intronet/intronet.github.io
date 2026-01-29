@@ -1,0 +1,14 @@
+
+{
+  "name": "Jazzy Chords",
+  "sequence": [
+    { "time": "0:0:0", "note": "D3", "duration": "2n", "velocity": 0.7 },
+    { "time": "0:0:0", "note": "F4", "duration": "2n", "velocity": 0.7 },
+    { "time": "0:0:0", "note": "A4", "duration": "2n", "velocity": 0.7 },
+    { "time": "0:0:0", "note": "C5", "duration": "2n", "velocity": 0.7 },
+    { "time": "0:2:0", "note": "G3", "duration": "2n", "velocity": 0.7 },
+    { "time": "0:2:0", "note": "B3", "duration": "2n", "velocity": 0.7 },
+    { "time": "0:2:0", "note": "D4", "duration": "2n", "velocity": 0.7 },
+    { "time": "0:2:0", "note": "F4", "duration": "2n", "velocity": 0.7 }
+  ]
+}

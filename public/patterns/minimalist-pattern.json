@@ -1,0 +1,14 @@
+
+{
+  "name": "Minimalist Pattern",
+  "sequence": [
+    { "time": "0:0:0", "note": "A4", "duration": 0.2, "velocity": 0.7 },
+    { "time": "0:0:2", "note": "B4", "duration": 0.2, "velocity": 0.7 },
+    { "time": "0:1:0", "note": "C5", "duration": 0.2, "velocity": 0.7 },
+    { "time": "0:1:2", "note": "B4", "duration": 0.2, "velocity": 0.7 },
+    { "time": "0:2:0", "note": "A4", "duration": 0.2, "velocity": 0.7 },
+    { "time": "0:2:2", "note": "G4", "duration": 0.2, "velocity": 0.7 },
+    { "time": "0:3:0", "note": "A4", "duration": 0.2, "velocity": 0.7 },
+    { "time": "0:3:2", "note": "B4", "duration": 0.2, "velocity": 0.7 }
+  ]
+}

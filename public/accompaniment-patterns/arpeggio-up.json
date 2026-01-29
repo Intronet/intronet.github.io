@@ -1,0 +1,11 @@
+
+{
+  "name": "Arpeggio Up",
+  "pattern_duration_beats": 2,
+  "steps": [
+    { "time_offset": 0.0, "duration": 0.5, "voicing": [0], "octave_offset": 0, "velocity": 0.7 },
+    { "time_offset": 0.5, "duration": 0.5, "voicing": [1], "octave_offset": 0, "velocity": 0.75 },
+    { "time_offset": 1.0, "duration": 0.5, "voicing": [2], "octave_offset": 0, "velocity": 0.8 },
+    { "time_offset": 1.5, "duration": 0.5, "voicing": [3], "octave_offset": 0, "velocity": 0.85 }
+  ]
+}

@@ -1,0 +1,9 @@
+
+{
+  "name": "Funky Bassline",
+  "sequence": [
+    { "time": "0:0:0", "note": "E2", "duration": "16n", "velocity": 0.9 },
+    { "time": "0:0:3", "note": "E2", "duration": "16n", "velocity": 0.9 },
+    { "time": "0:1:2", "note": "G2", "duration": "8n", "velocity": 0.9 }
+  ]
+}

@@ -1,0 +1,18 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Category: Bass
+
+<global>
+global_label=Bass*Guit1
+ampeg_release=0.2336628040463295
+
+<group>
+group_label=Bass*Guit1
+
+<region>
+sample=Bass_Guit1 Samples/(w0-_w1-_[w3] + w4)-.wav
+pitch_keycenter=60
+lokey=0 hikey=127
+offset=0 end=96000
+amp_veltrack=0.00
+loop_mode=loop_continuous loop_start=84211 loop_end=95954

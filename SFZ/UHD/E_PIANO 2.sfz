@@ -1,0 +1,51 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Peter Jevnisek, Chris Wadge and other contributors. Not for commercial distribution.
+//// Category: Unknown
+//// Comment2: Revision 3.31
+//// 128 GM melodic presets
+////   31 GS melodic variation tones
+////   10 Drum banks
+//// Copyright: Peter Jevnisek and Chris Wadge
+
+<global>
+global_label=E.PIANO 2
+
+<group>
+group_label=E.PIANO 2
+
+<region>
+sample=E_PIANO 2 Samples/ErystalRhodes.wav
+pitch_keycenter=36
+lokey=12 hikey=48
+offset=0 end=172023
+amp_veltrack=0.00
+ampeg_hold=1.077982183042855 ampeg_decay=19.800980967016812 ampeg_release=1.23399224962407 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=123480 loop_end=171991
+
+<region>
+sample=E_PIANO 2 Samples/DrystalRhodes.wav
+pitch_keycenter=60
+lokey=49 hikey=67
+offset=0 end=105986
+amp_veltrack=0.00
+ampeg_hold=1.077982183042855 ampeg_decay=10.997980027664664 ampeg_release=1.23399224962407 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=73083 loop_end=105954
+
+<region>
+sample=E_PIANO 2 Samples/CrystalRhodes.wav
+pitch_keycenter=72
+lokey=68 hikey=86
+offset=0 end=85197
+amp_veltrack=0.00
+ampeg_hold=1.077982183042855 ampeg_decay=8.0 ampeg_release=1.23399224962407 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=67552 loop_end=85165
+
+<region>
+sample=E_PIANO 2 Samples/CrystalRhodes.wav
+pitch_keycenter=72
+lokey=87 hikey=108
+offset=0 end=85197
+amp_veltrack=0.00
+ampeg_attack=0.005999951967619575 ampeg_hold=0.8288406503840438 ampeg_decay=7.000703957961675 ampeg_release=1.23399224962407 ampeg_sustain=4.0000000000000036
+loop_mode=loop_continuous loop_start=67552 loop_end=85165

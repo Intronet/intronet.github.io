@@ -1,0 +1,10 @@
+
+{
+  "name": "Arpeggio Dream",
+  "rhythm_density": "moderate",
+  "rhythm_syncopation": "low",
+  "contour": "arch",
+  "note_selection": "chord_tones",
+  "leap_preference": "narrow",
+  "octaveRange": [4, 6]
+}

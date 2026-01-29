@@ -1,0 +1,9 @@
+{
+  "name": "Custom Style R&B",
+  "rhythm_density": "sparse",
+  "rhythm_syncopation": "subtle",
+  "contour": "gentle",
+  "note_selection": "jazz-infused",
+  "leap_preference": "stepwise",
+  "octaveRange": [2,5]
+}

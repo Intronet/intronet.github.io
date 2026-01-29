@@ -1,0 +1,10 @@
+
+{
+  "name": "Blues Riff",
+  "rhythm_density": "moderate",
+  "rhythm_syncopation": "high",
+  "contour": "random",
+  "note_selection": "scale_tones",
+  "leap_preference": "narrow",
+  "octaveRange": [3, 5]
+}

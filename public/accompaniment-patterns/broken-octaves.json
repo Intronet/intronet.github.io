@@ -1,0 +1,9 @@
+
+{
+  "name": "Broken Octaves",
+  "pattern_duration_beats": 1,
+  "steps": [
+    { "time_offset": 0.0, "duration": 0.5, "voicing": [0], "octave_offset": -1, "velocity": 0.7 },
+    { "time_offset": 0.5, "duration": 0.5, "voicing": [0], "octave_offset": 0, "velocity": 0.7 }
+  ]
+}

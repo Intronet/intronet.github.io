@@ -1,0 +1,11 @@
+<group> ampeg_release=.2 trigger=first off_by=1 group=1 off_mode=normal
+#include "S1.sfz"
+
+<group> ampeg_attack=.1 ampeg_release=.1 trigger=legato off_by=1 group=1 off_mode=normal
+#include "S2.sfz"
+
+<group> group=2 off_by=2 off_mode=normal lovel=80
+#include "O.sfz"
+
+<group> group=3 off_by=1 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=0.2
+#include "R1.sfz"

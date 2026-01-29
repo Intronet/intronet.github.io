@@ -1,0 +1,635 @@
+<control>
+ hint_ram_based=1
+ set_cc1=0
+ set_cc11=127
+ set_cc64=0
+
+<global>
+ lfo06_wave=0
+ lfo06_pitch=0 lfo06_pitch_oncc129=50 lfo06_pitch_oncc1=50
+ lfo06_freq=8.176
+ amplitude_oncc11=100 amplitude_curvecc11=7
+
+<master>
+<group>
+ ampeg_decay=36.9926
+ ampeg_sustain=0.001
+ ampeg_release=0.435024
+ loop_mode=loop_continuous
+
+/////////////////////////////////////////////////////////////////////////////
+// E1
+
+<region>
+sample=1_E_a.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+lovel=111 hivel=127
+ampeg_hold=9.00047
+<region>
+sample=1_E_b.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+lovel=86 hivel=110
+ampeg_hold=9.00047
+<region>
+sample=1_E_c.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+lovel=71 hivel=85
+ampeg_hold=9.00047
+<region>
+sample=1_E_d.wav
+lokey=0 hikey=28
+pitch_keycenter=28
+lovel=0 hivel=70
+ampeg_hold=9.00047
+
+/////////////////////////////////////////////////////////////////////////////
+// F1
+
+<region>
+sample=1_F_a.wav
+key=29
+lovel=111 hivel=127
+ampeg_hold=9.0
+<region>
+sample=1_F_b.wav
+key=29
+lovel=86 hivel=110
+ampeg_hold=9.0
+<region>
+sample=1_F_c.wav
+key=29
+lovel=71 hivel=85
+ampeg_hold=9.0
+<region>
+sample=1_F_d.wav
+key=29
+lovel=0 hivel=70
+ampeg_hold=9.0
+
+/////////////////////////////////////////////////////////////////////////////
+// Gb1
+
+<region>
+sample=1_Gb_a.wav
+key=30
+lovel=111 hivel=127
+ampeg_hold=9.0
+<region>
+sample=1_Gb_b.wav
+key=30
+lovel=86 hivel=110
+ampeg_hold=9.0
+<region>
+sample=1_Gb_c.wav
+key=30
+lovel=71 hivel=85
+ampeg_hold=9.0
+<region>
+sample=1_Gb_d.wav
+key=30
+lovel=0 hivel=70
+ampeg_hold=9.0
+
+/////////////////////////////////////////////////////////////////////////////
+// G1
+
+<region>
+sample=1_G_a.wav
+key=31
+lovel=111 hivel=127
+ampeg_hold=9.0
+<region>
+sample=1_G_b.wav
+key=31
+lovel=86 hivel=110
+ampeg_hold=9.0
+<region>
+sample=1_G_c.wav
+key=31
+lovel=71 hivel=85
+ampeg_hold=9.0
+<region>
+sample=1_G_d.wav
+key=31
+lovel=0 hivel=70
+ampeg_hold=9.0
+
+////////////////////////////////////////////////////////////////////////////
+// Ab1
+
+<region>
+sample=1_Ab_a.wav
+key=32
+lovel=111 hivel=127
+ampeg_hold=9.0
+<region>
+sample=1_Ab_b.wav
+key=32
+lovel=86 hivel=110
+ampeg_hold=9.0
+<region>
+sample=1_Ab_c.wav
+key=32
+lovel=71 hivel=85
+ampeg_hold=9.0
+<region>
+sample=1_Ab_d.wav
+key=32
+lovel=0 hivel=70
+ampeg_hold=9.0
+
+////////////////////////////////////////////////////////////////////////////
+// A1
+
+<region>
+sample=1_A_a.wav 
+key=33
+lovel=111 hivel=127
+ampeg_hold=8.6
+<region>
+sample=1_A_b.wav 
+key=33
+lovel=86 hivel=110
+ampeg_hold=8.6
+<region>
+sample=1_A_c.wav
+key=33
+lovel=71 hivel=85
+ampeg_hold=8.6
+<region>
+sample=1_A_d.wav
+key=33
+lovel=0 hivel=70
+ampeg_hold=8.6
+
+////////////////////////////////////////////////////////////////////////////
+// Bb1
+
+<region>
+sample=1_Bb_a.wav
+key=34
+lovel=111 hivel=127
+ampeg_hold=8.6
+<region>
+sample=1_Bb_b.wav
+key=34
+lovel=86 hivel=110
+ampeg_hold=8.6
+<region>
+sample=1_Bb_c.wav
+key=34
+lovel=71 hivel=85
+ampeg_hold=8.6
+<region>
+sample=1_Bb_d.wav
+key=34
+lovel=0 hivel=70
+ampeg_hold=8.6
+
+////////////////////////////////////////////////////////////////////////////
+// B1
+
+<region>
+sample=1_B_a.wav
+key=35
+lovel=111 hivel=127
+ampeg_hold=8.2
+<region>
+sample=1_B_b.wav
+key=35
+lovel=86 hivel=110
+ampeg_hold=8.2
+<region>
+sample=1_B_c.wav
+key=35
+lovel=71 hivel=85
+ampeg_hold=8.2
+<region>
+sample=1_B_d.wav
+key=35
+lovel=0 hivel=70
+ampeg_hold=8.2
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+// C2
+
+<region>
+sample=2_C_a.wav
+key=36
+lovel=111 hivel=127
+ampeg_hold=8.2
+<region>
+sample=2_C_b.wav
+key=36
+lovel=86 hivel=110
+ampeg_hold=8.2
+<region>
+sample=2_C_c.wav
+key=36
+lovel=71 hivel=85
+ampeg_hold=8.2
+<region>
+sample=2_C_d.wav
+key=36
+lovel=0 hivel=70
+ampeg_hold=8.2
+
+////////////////////////////////////////////////////////////////////////////
+// Db2
+
+<region>
+sample=2_Db_a.wav
+key=37
+lovel=111 hivel=127
+ampeg_hold=7.9
+<region>
+sample=2_Db_b.wav
+key=37
+lovel=86 hivel=110
+ampeg_hold=7.9
+<region>
+sample=2_Db_c.wav
+key=37
+lovel=71 hivel=85
+ampeg_hold=7.9
+<region>
+sample=2_Db_d.wav
+key=37
+lovel=0 hivel=70
+ampeg_hold=7.9
+
+////////////////////////////////////////////////////////////////////////////
+// D2
+
+<region>
+sample=2_D_a.wav
+key=38
+lovel=111 hivel=127
+ampeg_hold=7.9
+<region>
+sample=2_D_b.wav
+key=38
+lovel=86 hivel=110
+ampeg_hold=7.9
+<region>
+sample=2_D_c.wav
+key=38
+lovel=71 hivel=85
+ampeg_hold=7.9
+<region>
+sample=2_D_d.wav
+key=38
+lovel=0 hivel=70
+ampeg_hold=7.9
+
+////////////////////////////////////////////////////////////////////////////
+// Eb2
+
+<region>
+sample=2_Eb_a.wav
+key=39
+lovel=111 hivel=127
+ampeg_hold=7.7
+<region>
+sample=2_Eb_b.wav
+key=39
+lovel=86 hivel=110
+ampeg_hold=7.7
+<region>
+sample=2_Eb_c.wav
+key=39
+lovel=71 hivel=85
+ampeg_hold=7.7
+<region>
+sample=2_Eb_d.wav
+key=39
+lovel=0 hivel=70
+ampeg_hold=7.7
+
+/////////////////////////////////////////////////////////////////////////////
+// E2
+
+<region>
+sample=2_E_a.wav
+key=40
+lovel=111 hivel=127
+ampeg_hold=7.7
+<region>
+sample=2_E_b.wav
+key=40
+lovel=86 hivel=110
+ampeg_hold=7.7
+<region>
+sample=2_E_c.wav
+key=40
+lovel=71 hivel=85
+ampeg_hold=7.7
+<region>
+sample=2_E_d.wav
+key=40
+lovel=0 hivel=70
+ampeg_hold=7.7
+
+/////////////////////////////////////////////////////////////////////////////
+// F2
+
+<region>
+sample=2_F_a.wav
+key=41
+lovel=111 hivel=127
+ampeg_hold=7.2
+<region>
+sample=2_F_b.wav
+key=41
+lovel=86 hivel=110
+ampeg_hold=7.2
+<region>
+sample=2_F_c.wav
+key=41
+lovel=71 hivel=85
+ampeg_hold=7.2
+<region>
+sample=2_F_d.wav
+key=41
+lovel=0 hivel=70
+ampeg_hold=7.2
+
+/////////////////////////////////////////////////////////////////////////////
+// Gb2
+
+<region>
+sample=2_Gb_a.wav
+key=42
+lovel=111 hivel=127
+ampeg_hold=7.2
+<region>
+sample=2_Gb_b.wav
+key=42
+lovel=86 hivel=110
+ampeg_hold=7.2
+<region>
+sample=2_Gb_c.wav
+key=42
+lovel=71 hivel=85
+ampeg_hold=7.2
+<region>
+sample=2_Gb_d.wav
+key=42
+lovel=0 hivel=70
+ampeg_hold=7.2
+
+/////////////////////////////////////////////////////////////////////////////
+// G2
+
+<region>
+sample=2_G_a.wav
+key=43
+lovel=111 hivel=127
+ampeg_hold=6.9
+<region>
+sample=2_G_b.wav
+key=43
+lovel=86 hivel=110
+ampeg_hold=6.9
+<region>
+sample=2_G_c.wav
+key=43
+lovel=71 hivel=85
+ampeg_hold=6.9
+<region>
+sample=2_G_d.wav
+key=43
+lovel=0 hivel=70
+ampeg_hold=6.9
+
+////////////////////////////////////////////////////////////////////////////
+// Ab2
+
+<region>
+sample=2_Ab_a.wav
+key=44
+lovel=111 hivel=127
+ampeg_hold=6.9
+<region>
+sample=2_Ab_b.wav
+key=44
+lovel=86 hivel=110
+ampeg_hold=6.9
+<region>
+sample=2_Ab_c.wav
+key=44
+lovel=71 hivel=85
+ampeg_hold=6.9
+<region>
+sample=2_Ab_d.wav
+key=44
+lovel=0 hivel=70
+ampeg_hold=6.9
+
+////////////////////////////////////////////////////////////////////////////
+// A2
+
+<region>
+sample=2_A_a.wav
+key=45
+lovel=111 hivel=127
+ampeg_hold=6.6
+<region>
+sample=2_A_b.wav
+key=45
+lovel=86 hivel=110
+ampeg_hold=6.6
+<region>
+sample=2_A_c.wav
+key=45
+lovel=71 hivel=85
+ampeg_hold=6.6
+<region>
+sample=2_A_d.wav
+key=45
+lovel=0 hivel=70
+ampeg_hold=6.6
+
+////////////////////////////////////////////////////////////////////////////
+// Bb2
+
+<region>
+sample=2_Bb_a.wav
+key=46
+lovel=111 hivel=127
+ampeg_hold=6.6
+<region>
+sample=2_Bb_b.wav
+key=46
+lovel=86 hivel=110
+ampeg_hold=6.6
+<region>
+sample=2_Bb_c.wav
+key=46
+lovel=71 hivel=85
+ampeg_hold=6.6
+<region>
+sample=2_Bb_d.wav
+key=46
+lovel=0 hivel=70
+ampeg_hold=6.6
+
+////////////////////////////////////////////////////////////////////////////
+// B2
+
+<region>
+sample=2_B_a.wav
+key=47
+lovel=111 hivel=127
+ampeg_hold=6.0
+<region>
+sample=2_B_b.wav
+key=47
+lovel=86 hivel=110
+ampeg_hold=6.0
+<region>
+sample=2_B_c.wav
+key=47
+lovel=71 hivel=85
+ampeg_hold=6.0
+<region>
+sample=2_B_d.wav
+key=47
+lovel=0 hivel=70
+ampeg_hold=6.0
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+// C3
+
+<region>
+sample=3_C_a.wav
+key=48
+lovel=111 hivel=127
+ampeg_hold=6.0
+<region>
+sample=3_C_b.wav
+key=48
+lovel=86 hivel=110
+ampeg_hold=6.0
+<region>
+sample=3_C_c.wav
+key=48
+lovel=71 hivel=85
+ampeg_hold=6.0
+<region>
+sample=3_C_d.wav
+key=48
+lovel=0 hivel=70
+ampeg_hold=6.0
+
+////////////////////////////////////////////////////////////////////////////
+// Db3
+
+<region>
+sample=3_Db_a.wav
+key=49
+lovel=111 hivel=127
+ampeg_hold=5.6
+<region>
+sample=3_Db_b.wav
+key=49
+lovel=86 hivel=110
+ampeg_hold=5.6
+<region>
+sample=3_Db_c.wav
+key=49
+lovel=71 hivel=85
+ampeg_hold=5.6
+<region>
+sample=3_Db_d.wav
+key=49
+lovel=0 hivel=70
+ampeg_hold=5.6
+
+////////////////////////////////////////////////////////////////////////////
+// D3
+
+<region>
+sample=3_D_a.wav
+key=50
+lovel=111 hivel=127
+ampeg_hold=5.6
+<region>
+sample=3_D_b.wav
+key=50
+lovel=86 hivel=110
+ampeg_hold=5.6
+<region>
+sample=3_D_c.wav
+key=50
+lovel=71 hivel=85
+ampeg_hold=5.6
+<region>
+sample=3_D_d.wav
+key=50
+lovel=0 hivel=70
+ampeg_hold=5.6
+
+////////////////////////////////////////////////////////////////////////////
+// Eb3
+
+<region>
+sample=3_Eb_a.wav
+key=51
+lovel=111 hivel=127
+ampeg_hold=5.3
+<region>
+sample=3_Eb_b.wav
+key=51
+lovel=86 hivel=110
+ampeg_hold=5.3
+<region>
+sample=3_Eb_c.wav
+key=51
+lovel=71 hivel=85
+ampeg_hold=5.3
+<region>
+sample=3_Eb_d.wav
+key=51
+lovel=0 hivel=70
+ampeg_hold=5.3
+
+/////////////////////////////////////////////////////////////////////////////
+// E3
+
+<region>
+sample=3_E_a.wav
+lokey=52 hikey=127
+pitch_keycenter=52
+lovel=111 hivel=127
+ampeg_hold=5.3
+<region>
+sample=3_E_b.wav
+lokey=52 hikey=127
+pitch_keycenter=52
+lovel=86 hivel=110
+ampeg_hold=5.3
+<region>
+sample=3_E_c.wav
+lokey=52 hikey=127
+pitch_keycenter=52
+lovel=71 hivel=85
+ampeg_hold=5.3
+<region>
+sample=3_E_d.wav
+lokey=52 hikey=127
+pitch_keycenter=52
+lovel=0 hivel=70
+ampeg_hold=5.3

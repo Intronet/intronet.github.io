@@ -1,0 +1,11 @@
+
+{
+  "name": "Alberti Bass",
+  "pattern_duration_beats": 1,
+  "steps": [
+    { "time_offset": 0.00, "duration": 0.25, "voicing": [0], "octave_offset": -1, "velocity": 0.7 },
+    { "time_offset": 0.25, "duration": 0.25, "voicing": [2], "octave_offset": 0, "velocity": 0.6 },
+    { "time_offset": 0.50, "duration": 0.25, "voicing": [1], "octave_offset": 0, "velocity": 0.65 },
+    { "time_offset": 0.75, "duration": 0.25, "voicing": [2], "octave_offset": 0, "velocity": 0.6 }
+  ]
+}

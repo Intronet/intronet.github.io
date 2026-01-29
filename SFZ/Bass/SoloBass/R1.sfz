@@ -1,0 +1,17 @@
+<control> default_path=Release\
+<region> sample=c1_r.wav pitch_keycenter=c1 hikey=c#1
+<region> sample=eb1_r.wav pitch_keycenter=d#1 lokey=d1 hikey=e1
+<region> sample=gb1_r.wav pitch_keycenter=f#1 lokey=f1 hikey=g1
+<region> sample=a1_r.wav pitch_keycenter=a1 lokey=g#1 hikey=a#1
+<region> sample=c2_r.wav pitch_keycenter=c2 lokey=b1 hikey=c#2
+<region> sample=eb2_r.wav pitch_keycenter=d#2 lokey=d2 hikey=e2
+<region> sample=gb2_r.wav pitch_keycenter=f#2 lokey=f2 hikey=g2
+<region> sample=a2_r.wav pitch_keycenter=a2 lokey=g#2 hikey=a#2
+<region> sample=c3_r.wav pitch_keycenter=c3 lokey=b2 hikey=c#3
+<region> sample=eb3_r.wav pitch_keycenter=d#3 lokey=d3 hikey=e3
+<region> sample=gb3_r.wav pitch_keycenter=f#3 lokey=f3 hikey=g3
+<region> sample=a3_r.wav pitch_keycenter=a3 lokey=g#3 hikey=a#3
+<region> sample=c4_r.wav pitch_keycenter=c4 lokey=b3 hikey=c#4
+<region> sample=eb4_r.wav pitch_keycenter=d#4 lokey=d4 hikey=e4
+<region> sample=gb4_r.wav pitch_keycenter=f#4 lokey=f4 hikey=g4
+<region> sample=a4_r.wav pitch_keycenter=a4 lokey=g#4

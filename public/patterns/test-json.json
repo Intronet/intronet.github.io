@@ -1,0 +1,8 @@
+
+{
+  "name": "Test JSON",
+  "sequence": [
+    { "time": "0:0:0", "note": "C4", "duration": "4n", "velocity": 0.9 },
+    { "time": "0:2:0", "note": "G4", "duration": "4n", "velocity": 0.9 }
+  ]
+}
