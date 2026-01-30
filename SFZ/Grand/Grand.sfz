@@ -2,7 +2,7 @@
 // Place this file in the same directory as your .wav files
 
 <group>
-loop_mode=loop
+loop_mode=loop_continuous
 
 <region> sample=A0.wav lokey=21 hikey=21 pitch_keycenter=21
 <region> sample=A#0.wav lokey=22 hikey=22 pitch_keycenter=22
