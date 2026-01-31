@@ -2,10 +2,15 @@
 // Place this file in the same directory as your .wav files
 
 <global>
+// ampeg_attack=0.002
+// ampeg_decay=25
+// ampeg_sustain=100
+// ampeg_release=1.8 
+// amp_veltrack=100
 ampeg_attack=0.002
 ampeg_decay=25
-ampeg_sustain=100
-ampeg_release=1.8 // Fixed: Long release tail prevents staccato "choking"
+ampeg_sustain=0.1  // Changed from 0 to 0.1
+ampeg_release=1.8
 amp_veltrack=100
 
 <group>
