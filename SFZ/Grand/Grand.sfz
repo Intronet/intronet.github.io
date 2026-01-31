@@ -4,7 +4,7 @@
 <global>
 ampeg_attack=0.002
 ampeg_decay=25
-ampeg_sustain=0
+ampeg_sustain=100
 ampeg_release=1.8 // Fixed: Long release tail prevents staccato "choking"
 amp_veltrack=100
 
